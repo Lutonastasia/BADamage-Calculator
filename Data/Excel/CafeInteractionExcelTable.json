@@ -1,0 +1,1506 @@
+{
+  "DataList": [
+    {
+      "CharacterId": 10000,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10001,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10002,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10003,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10004,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10005,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10006,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10007,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10008,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_2302"
+      ]
+    },
+    {
+      "CharacterId": 10009,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10010,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10011,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10012,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10013,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10014,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10015,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10016,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10017,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10018,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10019,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10020,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10021,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10022,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10023,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10024,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10025,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10026,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10027,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10028,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 10029,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_3301"
+      ]
+    },
+    {
+      "CharacterId": 10030,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_6200"
+      ]
+    },
+    {
+      "CharacterId": 10031,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_7203"
+      ]
+    },
+    {
+      "CharacterId": 10032,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_7107"
+      ]
+    },
+    {
+      "CharacterId": 13000,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13001,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13002,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13003,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13004,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13005,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13006,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13007,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_5203"
+      ]
+    },
+    {
+      "CharacterId": 13008,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13009,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13010,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13011,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 13012,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 16000,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 16001,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 16002,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 16003,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 16004,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_7106"
+      ]
+    },
+    {
+      "CharacterId": 16005,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 16006,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 16007,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_6100"
+      ]
+    },
+    {
+      "CharacterId": 20000,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 20001,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 20002,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 20003,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 20004,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 20005,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 20006,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 20007,
+      "IsCollabo": true,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 20008,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_1101"
+      ]
+    },
+    {
+      "CharacterId": 20009,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_6203"
+      ]
+    },
+    {
+      "CharacterId": 20010,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_6201"
+      ]
+    },
+    {
+      "CharacterId": 20011,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 23000,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_5205"
+      ]
+    },
+    {
+      "CharacterId": 23001,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 23002,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 23003,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 23004,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 23005,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 23006,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 23007,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 23008,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": [
+        "R1_1105"
+      ]
+    },
+    {
+      "CharacterId": 26000,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 26001,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 26002,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 26003,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 26004,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 26005,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    },
+    {
+      "CharacterId": 26006,
+      "IsCollabo": false,
+      "BubbleType": [
+        "EmoticonNormal",
+        "EmoticonFavorite",
+        "EmoticonReward"
+      ],
+      "BubbleDuration": [
+        2500,
+        2500,
+        2500
+      ],
+      "FavorEmoticonRewardParcelType": "FavorExp",
+      "FavorEmoticonRewardId": 0,
+      "FavorEmoticonRewardAmount": 15,
+      "CafeCharacterState": []
+    }
+  ]
+}

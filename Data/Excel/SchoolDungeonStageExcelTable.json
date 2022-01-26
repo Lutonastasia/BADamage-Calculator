@@ -1,0 +1,310 @@
+{
+  "DataList": [
+    {
+      "StageId": 60101,
+      "DungeonType": "SchoolA",
+      "Difficulty": 1,
+      "BattleDuration": 180000,
+      "PrevStageId": 0,
+      "StageEnterCostType": [
+        "Currency",
+        "Currency"
+      ],
+      "StageEnterCostId": [
+        14,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        10
+      ],
+      "GroundId": 601000001,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Outdoor",
+      "RecommandLevel": 45,
+      "StageRewardId": 60101,
+      "PlayTimeLimitInSeconds": 86400
+    },
+    {
+      "StageId": 60102,
+      "DungeonType": "SchoolA",
+      "Difficulty": 2,
+      "BattleDuration": 180000,
+      "PrevStageId": 60101,
+      "StageEnterCostType": [
+        "Currency",
+        "Currency"
+      ],
+      "StageEnterCostId": [
+        14,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "GroundId": 601000002,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Outdoor",
+      "RecommandLevel": 65,
+      "StageRewardId": 60102,
+      "PlayTimeLimitInSeconds": 86400
+    },
+    {
+      "StageId": 60103,
+      "DungeonType": "SchoolA",
+      "Difficulty": 3,
+      "BattleDuration": 180000,
+      "PrevStageId": 60102,
+      "StageEnterCostType": [
+        "Currency",
+        "Currency"
+      ],
+      "StageEnterCostId": [
+        14,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "GroundId": 601000003,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Outdoor",
+      "RecommandLevel": 85,
+      "StageRewardId": 60103,
+      "PlayTimeLimitInSeconds": 86400
+    },
+    {
+      "StageId": 60201,
+      "DungeonType": "SchoolB",
+      "Difficulty": 1,
+      "BattleDuration": 180000,
+      "PrevStageId": 0,
+      "StageEnterCostType": [
+        "Currency",
+        "Currency"
+      ],
+      "StageEnterCostId": [
+        15,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        10
+      ],
+      "GroundId": 602000001,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Street",
+      "RecommandLevel": 45,
+      "StageRewardId": 60201,
+      "PlayTimeLimitInSeconds": 86400
+    },
+    {
+      "StageId": 60202,
+      "DungeonType": "SchoolB",
+      "Difficulty": 2,
+      "BattleDuration": 180000,
+      "PrevStageId": 60201,
+      "StageEnterCostType": [
+        "Currency",
+        "Currency"
+      ],
+      "StageEnterCostId": [
+        15,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "GroundId": 602000002,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Street",
+      "RecommandLevel": 65,
+      "StageRewardId": 60202,
+      "PlayTimeLimitInSeconds": 86400
+    },
+    {
+      "StageId": 60203,
+      "DungeonType": "SchoolB",
+      "Difficulty": 3,
+      "BattleDuration": 180000,
+      "PrevStageId": 60202,
+      "StageEnterCostType": [
+        "Currency",
+        "Currency"
+      ],
+      "StageEnterCostId": [
+        15,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "GroundId": 602000003,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Street",
+      "RecommandLevel": 85,
+      "StageRewardId": 60203,
+      "PlayTimeLimitInSeconds": 86400
+    },
+    {
+      "StageId": 60301,
+      "DungeonType": "SchoolC",
+      "Difficulty": 1,
+      "BattleDuration": 180000,
+      "PrevStageId": 0,
+      "StageEnterCostType": [
+        "Currency",
+        "Currency"
+      ],
+      "StageEnterCostId": [
+        16,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        10
+      ],
+      "GroundId": 603000001,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Indoor",
+      "RecommandLevel": 45,
+      "StageRewardId": 60301,
+      "PlayTimeLimitInSeconds": 86400
+    },
+    {
+      "StageId": 60302,
+      "DungeonType": "SchoolC",
+      "Difficulty": 2,
+      "BattleDuration": 180000,
+      "PrevStageId": 60301,
+      "StageEnterCostType": [
+        "Currency",
+        "Currency"
+      ],
+      "StageEnterCostId": [
+        16,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "GroundId": 603000002,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Indoor",
+      "RecommandLevel": 65,
+      "StageRewardId": 60302,
+      "PlayTimeLimitInSeconds": 86400
+    },
+    {
+      "StageId": 60303,
+      "DungeonType": "SchoolC",
+      "Difficulty": 3,
+      "BattleDuration": 180000,
+      "PrevStageId": 60302,
+      "StageEnterCostType": [
+        "Currency",
+        "Currency"
+      ],
+      "StageEnterCostId": [
+        16,
+        5
+      ],
+      "StageEnterCostAmount": [
+        1,
+        15
+      ],
+      "GroundId": 603000003,
+      "StarGoal": [
+        "Clear",
+        "AllAlive",
+        "ClearTimeInSec"
+      ],
+      "StarGoalAmount": [
+        1,
+        1,
+        120
+      ],
+      "StageTopography": "Indoor",
+      "RecommandLevel": 85,
+      "StageRewardId": 60303,
+      "PlayTimeLimitInSeconds": 86400
+    }
+  ]
+}

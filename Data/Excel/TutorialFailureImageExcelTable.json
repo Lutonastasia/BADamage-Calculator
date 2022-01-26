@@ -1,0 +1,242 @@
+{
+  "DataList": [
+    {
+      "Id": 10001,
+      "Contents": "Campaign",
+      "Type": "1041105",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp"
+    },
+    {
+      "Id": 10002,
+      "Contents": "Campaign",
+      "Type": "1101105",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp"
+    },
+    {
+      "Id": 10003,
+      "Contents": "Campaign",
+      "Type": "1111104",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp"
+    },
+    {
+      "Id": 10004,
+      "Contents": "Campaign",
+      "Type": "1111105",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialTypeDetail_jp"
+    },
+    {
+      "Id": 20101,
+      "Contents": "WeekDungeon",
+      "Type": "Chaser",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Chaser_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Chaser_jp"
+    },
+    {
+      "Id": 20201,
+      "Contents": "WeekDungeon",
+      "Type": "FindGift",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_FindGift_jp"
+    },
+    {
+      "Id": 20301,
+      "Contents": "WeekDungeon",
+      "Type": "Blood",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_WeekDungeon_Blood_jp"
+    },
+    {
+      "Id": 30101,
+      "Contents": "Raid",
+      "Type": "Binah",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Binah_jp"
+    },
+    {
+      "Id": 30201,
+      "Contents": "Raid",
+      "Type": "Chesed",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp"
+    },
+    {
+      "Id": 30202,
+      "Contents": "Raid",
+      "Type": "Chesed",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp"
+    },
+    {
+      "Id": 30203,
+      "Contents": "Raid",
+      "Type": "Chesed",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp"
+    },
+    {
+      "Id": 30301,
+      "Contents": "Raid",
+      "Type": "ShiroKuro",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_01_jp"
+    },
+    {
+      "Id": 30302,
+      "Contents": "Raid",
+      "Type": "ShiroKuro",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_02_jp"
+    },
+    {
+      "Id": 30303,
+      "Contents": "Raid",
+      "Type": "ShiroKuro",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_ShiroKuro_03_jp"
+    },
+    {
+      "Id": 30401,
+      "Contents": "Raid",
+      "Type": "Hieronymus",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_01_jp"
+    },
+    {
+      "Id": 30402,
+      "Contents": "Raid",
+      "Type": "Hieronymus",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_02_jp"
+    },
+    {
+      "Id": 30403,
+      "Contents": "Raid",
+      "Type": "Hieronymus",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_03_jp"
+    },
+    {
+      "Id": 30404,
+      "Contents": "Raid",
+      "Type": "Hieronymus",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Hieronymus_04_jp"
+    },
+    {
+      "Id": 30501,
+      "Contents": "Raid",
+      "Type": "Kaitenger",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_01_jp"
+    },
+    {
+      "Id": 30502,
+      "Contents": "Raid",
+      "Type": "Kaitenger",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_02_jp"
+    },
+    {
+      "Id": 30503,
+      "Contents": "Raid",
+      "Type": "Kaitenger",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_03_jp"
+    },
+    {
+      "Id": 30504,
+      "Contents": "Raid",
+      "Type": "Kaitenger",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Kaitenger_04_jp"
+    },
+    {
+      "Id": 30601,
+      "Contents": "Raid",
+      "Type": "Perorozilla",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp"
+    },
+    {
+      "Id": 30602,
+      "Contents": "Raid",
+      "Type": "Perorozilla",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp"
+    },
+    {
+      "Id": 90001,
+      "Contents": "None",
+      "Type": "None",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Topography_jp"
+    },
+    {
+      "Id": 90002,
+      "Contents": "None",
+      "Type": "None",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EntityMaterialType_jp"
+    },
+    {
+      "Id": 90003,
+      "Contents": "None",
+      "Type": "None",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CharacterGrowth_jp"
+    },
+    {
+      "Id": 90004,
+      "Contents": "None",
+      "Type": "None",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_EquipmentGrowth_jp"
+    },
+    {
+      "Id": 90005,
+      "Contents": "None",
+      "Type": "None",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_CostCharge_jp"
+    },
+    {
+      "Id": 30211,
+      "Contents": "Raid",
+      "Type": "Chesed_Outdoor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_01_jp"
+    },
+    {
+      "Id": 30212,
+      "Contents": "Raid",
+      "Type": "Chesed_Outdoor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_02_jp"
+    },
+    {
+      "Id": 30213,
+      "Contents": "Raid",
+      "Type": "Chesed_Outdoor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Chesed_03_jp"
+    },
+    {
+      "Id": 30611,
+      "Contents": "Raid",
+      "Type": "Perorozilla_Outdoor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_01_jp"
+    },
+    {
+      "Id": 30612,
+      "Contents": "Raid",
+      "Type": "Perorozilla_Outdoor",
+      "ImagePathKr": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_kr",
+      "ImagePathJp": "UIs/01_Common/23_TutorialFailure/TutorialFailureImage_Raid_Perorozilla_02_jp"
+    }
+  ]
+}

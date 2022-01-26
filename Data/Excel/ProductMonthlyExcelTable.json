@@ -1,0 +1,144 @@
+{
+  "DataList": [
+    {
+      "Id": 100,
+      "ProductId": "com.yostarjp.bluearchive.monthlypass980",
+      "StoreType": "GooglePlay",
+      "Price": 980,
+      "PriceReference": null,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        392
+      ],
+      "DailyParcelType": [
+        "Currency",
+        "Currency",
+        "Currency",
+        "Currency"
+      ],
+      "DailyParcelId": [
+        3,
+        9,
+        12,
+        13
+      ],
+      "DailyParcelAmount": [
+        40,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "Id": 101,
+      "ProductId": "com.yostarjp.bluearchive.monthlypasshalf490",
+      "StoreType": "GooglePlay",
+      "Price": 490,
+      "PriceReference": null,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        196
+      ],
+      "DailyParcelType": [
+        "Currency",
+        "Currency",
+        "Currency",
+        "Currency"
+      ],
+      "DailyParcelId": [
+        3,
+        9,
+        12,
+        13
+      ],
+      "DailyParcelAmount": [
+        20,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "Id": 500,
+      "ProductId": "com.yostarjp.bluearchive.monthlypass980",
+      "StoreType": "AppStore",
+      "Price": 980,
+      "PriceReference": null,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        392
+      ],
+      "DailyParcelType": [
+        "Currency",
+        "Currency",
+        "Currency",
+        "Currency"
+      ],
+      "DailyParcelId": [
+        3,
+        9,
+        12,
+        13
+      ],
+      "DailyParcelAmount": [
+        40,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "Id": 501,
+      "ProductId": "com.yostarjp.bluearchive.monthlypasshalf490",
+      "StoreType": "AppStore",
+      "Price": 490,
+      "PriceReference": null,
+      "MonthlyDays": 30,
+      "ParcelType": [
+        "Currency"
+      ],
+      "ParcelId": [
+        2
+      ],
+      "ParcelAmount": [
+        196
+      ],
+      "DailyParcelType": [
+        "Currency",
+        "Currency",
+        "Currency",
+        "Currency"
+      ],
+      "DailyParcelId": [
+        3,
+        9,
+        12,
+        13
+      ],
+      "DailyParcelAmount": [
+        20,
+        1,
+        1,
+        1
+      ]
+    }
+  ]
+}
