@@ -109,7 +109,7 @@ def main():
         'AmmoCost':'AmmoCost',
         'IgnoreDelayCount':'IgnoreDelayCount',
         'NormalAttackSpeed':'NormalAttackSpeed',
-        'Range':'Range',
+        'Range':'Firing Range',
         'InitialRangeRate':'InitialRangeRate',
         'MoveSpeed':'MoveSpeed',
         'SightPoint':'SightPoint',
