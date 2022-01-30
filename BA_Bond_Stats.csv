@@ -1,0 +1,4215 @@
+CharacterName,Bond,Stat1,Value1,Stat2,Value2
+Airi,2,HP,17,Attack,0
+Airi,3,HP,34,Attack,0
+Airi,4,HP,51,Attack,0
+Airi,5,HP,68,Attack,0
+Airi,6,HP,93,Attack,0
+Airi,7,HP,118,Attack,0
+Airi,8,HP,143,Attack,0
+Airi,9,HP,168,Attack,0
+Airi,10,HP,193,Attack,0
+Airi,11,HP,227,Attack,5
+Airi,12,HP,261,Attack,10
+Airi,13,HP,295,Attack,15
+Airi,14,HP,329,Attack,20
+Airi,15,HP,363,Attack,25
+Airi,16,HP,405,Attack,30
+Airi,17,HP,447,Attack,35
+Airi,18,HP,489,Attack,40
+Airi,19,HP,531,Attack,45
+Airi,20,HP,573,Attack,50
+Airi,21,HP,584,Attack,51
+Airi,22,HP,595,Attack,52
+Airi,23,HP,606,Attack,53
+Airi,24,HP,617,Attack,54
+Airi,25,HP,628,Attack,55
+Airi,26,HP,639,Attack,56
+Airi,27,HP,650,Attack,57
+Airi,28,HP,661,Attack,58
+Airi,29,HP,672,Attack,59
+Airi,30,HP,683,Attack,60
+Airi,31,HP,699,Attack,61
+Airi,32,HP,715,Attack,62
+Airi,33,HP,731,Attack,63
+Airi,34,HP,747,Attack,64
+Airi,35,HP,763,Attack,65
+Airi,36,HP,779,Attack,66
+Airi,37,HP,795,Attack,67
+Airi,38,HP,811,Attack,68
+Airi,39,HP,827,Attack,69
+Airi,40,HP,843,Attack,70
+Airi,41,HP,870,Attack,72
+Airi,42,HP,897,Attack,74
+Airi,43,HP,924,Attack,76
+Airi,44,HP,951,Attack,78
+Airi,45,HP,978,Attack,80
+Airi,46,HP,1005,Attack,82
+Airi,47,HP,1032,Attack,84
+Airi,48,HP,1059,Attack,86
+Airi,49,HP,1086,Attack,88
+Airi,50,HP,1113,Attack,90
+Akane,2,Attack,1,HP,0
+Akane,3,Attack,2,HP,0
+Akane,4,Attack,3,HP,0
+Akane,5,Attack,4,HP,0
+Akane,6,Attack,5,HP,0
+Akane,7,Attack,6,HP,0
+Akane,8,Attack,7,HP,0
+Akane,9,Attack,8,HP,0
+Akane,10,Attack,9,HP,0
+Akane,11,Attack,11,HP,64
+Akane,12,Attack,13,HP,128
+Akane,13,Attack,15,HP,192
+Akane,14,Attack,17,HP,256
+Akane,15,Attack,19,HP,320
+Akane,16,Attack,21,HP,397
+Akane,17,Attack,23,HP,474
+Akane,18,Attack,25,HP,551
+Akane,19,Attack,27,HP,628
+Akane,20,Attack,29,HP,705
+Akane,21,Attack,30,HP,718
+Akane,22,Attack,31,HP,731
+Akane,23,Attack,32,HP,744
+Akane,24,Attack,33,HP,757
+Akane,25,Attack,34,HP,770
+Akane,26,Attack,35,HP,783
+Akane,27,Attack,36,HP,796
+Akane,28,Attack,37,HP,809
+Akane,29,Attack,38,HP,822
+Akane,30,Attack,39,HP,835
+Akane,31,Attack,40,HP,855
+Akane,32,Attack,41,HP,875
+Akane,33,Attack,42,HP,895
+Akane,34,Attack,43,HP,915
+Akane,35,Attack,44,HP,935
+Akane,36,Attack,45,HP,955
+Akane,37,Attack,46,HP,975
+Akane,38,Attack,47,HP,995
+Akane,39,Attack,48,HP,1015
+Akane,40,Attack,49,HP,1035
+Akane,41,Attack,50,HP,1069
+Akane,42,Attack,51,HP,1103
+Akane,43,Attack,52,HP,1137
+Akane,44,Attack,53,HP,1171
+Akane,45,Attack,54,HP,1205
+Akane,46,Attack,55,HP,1239
+Akane,47,Attack,56,HP,1273
+Akane,48,Attack,57,HP,1307
+Akane,49,Attack,58,HP,1341
+Akane,50,Attack,59,HP,1375
+Akari,2,Attack,3,HP,0
+Akari,3,Attack,6,HP,0
+Akari,4,Attack,9,HP,0
+Akari,5,Attack,12,HP,0
+Akari,6,Attack,16,HP,0
+Akari,7,Attack,20,HP,0
+Akari,8,Attack,24,HP,0
+Akari,9,Attack,28,HP,0
+Akari,10,Attack,32,HP,0
+Akari,11,Attack,38,HP,57
+Akari,12,Attack,44,HP,114
+Akari,13,Attack,50,HP,171
+Akari,14,Attack,56,HP,228
+Akari,15,Attack,62,HP,285
+Akari,16,Attack,69,HP,353
+Akari,17,Attack,76,HP,421
+Akari,18,Attack,83,HP,489
+Akari,19,Attack,90,HP,557
+Akari,20,Attack,97,HP,625
+Akari,21,Attack,99,HP,637
+Akari,22,Attack,101,HP,649
+Akari,23,Attack,103,HP,661
+Akari,24,Attack,105,HP,673
+Akari,25,Attack,107,HP,685
+Akari,26,Attack,109,HP,697
+Akari,27,Attack,111,HP,709
+Akari,28,Attack,113,HP,721
+Akari,29,Attack,115,HP,733
+Akari,30,Attack,117,HP,745
+Akari,31,Attack,120,HP,763
+Akari,32,Attack,123,HP,781
+Akari,33,Attack,126,HP,799
+Akari,34,Attack,129,HP,817
+Akari,35,Attack,132,HP,835
+Akari,36,Attack,135,HP,853
+Akari,37,Attack,138,HP,871
+Akari,38,Attack,141,HP,889
+Akari,39,Attack,144,HP,907
+Akari,40,Attack,147,HP,925
+Akari,41,Attack,152,HP,955
+Akari,42,Attack,157,HP,985
+Akari,43,Attack,162,HP,1015
+Akari,44,Attack,167,HP,1045
+Akari,45,Attack,172,HP,1075
+Akari,46,Attack,177,HP,1105
+Akari,47,Attack,182,HP,1135
+Akari,48,Attack,187,HP,1165
+Akari,49,Attack,192,HP,1195
+Akari,50,Attack,197,HP,1225
+Ako,2,Attack,1,HP,0
+Ako,3,Attack,2,HP,0
+Ako,4,Attack,3,HP,0
+Ako,5,Attack,4,HP,0
+Ako,6,Attack,6,HP,0
+Ako,7,Attack,8,HP,0
+Ako,8,Attack,10,HP,0
+Ako,9,Attack,12,HP,0
+Ako,10,Attack,14,HP,0
+Ako,11,Attack,17,HP,40
+Ako,12,Attack,20,HP,80
+Ako,13,Attack,23,HP,120
+Ako,14,Attack,26,HP,160
+Ako,15,Attack,29,HP,200
+Ako,16,Attack,33,HP,248
+Ako,17,Attack,37,HP,296
+Ako,18,Attack,41,HP,344
+Ako,19,Attack,45,HP,392
+Ako,20,Attack,49,HP,440
+Ako,21,Attack,50,HP,448
+Ako,22,Attack,51,HP,456
+Ako,23,Attack,52,HP,464
+Ako,24,Attack,53,HP,472
+Ako,25,Attack,54,HP,480
+Ako,26,Attack,55,HP,488
+Ako,27,Attack,56,HP,496
+Ako,28,Attack,57,HP,504
+Ako,29,Attack,58,HP,512
+Ako,30,Attack,59,HP,520
+Ako,31,Attack,60,HP,533
+Ako,32,Attack,61,HP,546
+Ako,33,Attack,62,HP,559
+Ako,34,Attack,63,HP,572
+Ako,35,Attack,64,HP,585
+Ako,36,Attack,65,HP,598
+Ako,37,Attack,66,HP,611
+Ako,38,Attack,67,HP,624
+Ako,39,Attack,68,HP,637
+Ako,40,Attack,69,HP,650
+Ako,41,Attack,71,HP,671
+Ako,42,Attack,73,HP,692
+Ako,43,Attack,75,HP,713
+Ako,44,Attack,77,HP,734
+Ako,45,Attack,79,HP,755
+Ako,46,Attack,81,HP,776
+Ako,47,Attack,83,HP,797
+Ako,48,Attack,85,HP,818
+Ako,49,Attack,87,HP,839
+Ako,50,Attack,89,HP,860
+Aris,2,Attack,3,HP,0
+Aris,3,Attack,6,HP,0
+Aris,4,Attack,9,HP,0
+Aris,5,Attack,12,HP,0
+Aris,6,Attack,17,HP,0
+Aris,7,Attack,22,HP,0
+Aris,8,Attack,27,HP,0
+Aris,9,Attack,32,HP,0
+Aris,10,Attack,37,HP,0
+Aris,11,Attack,44,HP,43
+Aris,12,Attack,51,HP,86
+Aris,13,Attack,58,HP,129
+Aris,14,Attack,65,HP,172
+Aris,15,Attack,72,HP,215
+Aris,16,Attack,81,HP,266
+Aris,17,Attack,90,HP,317
+Aris,18,Attack,99,HP,368
+Aris,19,Attack,108,HP,419
+Aris,20,Attack,117,HP,470
+Aris,21,Attack,120,HP,478
+Aris,22,Attack,123,HP,486
+Aris,23,Attack,126,HP,494
+Aris,24,Attack,129,HP,502
+Aris,25,Attack,132,HP,510
+Aris,26,Attack,135,HP,518
+Aris,27,Attack,138,HP,526
+Aris,28,Attack,141,HP,534
+Aris,29,Attack,144,HP,542
+Aris,30,Attack,147,HP,550
+Aris,31,Attack,151,HP,562
+Aris,32,Attack,155,HP,574
+Aris,33,Attack,159,HP,586
+Aris,34,Attack,163,HP,598
+Aris,35,Attack,167,HP,610
+Aris,36,Attack,171,HP,622
+Aris,37,Attack,175,HP,634
+Aris,38,Attack,179,HP,646
+Aris,39,Attack,183,HP,658
+Aris,40,Attack,187,HP,670
+Aris,41,Attack,194,HP,689
+Aris,42,Attack,201,HP,708
+Aris,43,Attack,208,HP,727
+Aris,44,Attack,215,HP,746
+Aris,45,Attack,222,HP,765
+Aris,46,Attack,229,HP,784
+Aris,47,Attack,236,HP,803
+Aris,48,Attack,243,HP,822
+Aris,49,Attack,250,HP,841
+Aris,50,Attack,257,HP,860
+Aru,2,Attack,4,HP,0
+Aru,3,Attack,8,HP,0
+Aru,4,Attack,12,HP,0
+Aru,5,Attack,16,HP,0
+Aru,6,Attack,22,HP,0
+Aru,7,Attack,28,HP,0
+Aru,8,Attack,34,HP,0
+Aru,9,Attack,40,HP,0
+Aru,10,Attack,46,HP,0
+Aru,11,Attack,53,HP,48
+Aru,12,Attack,60,HP,96
+Aru,13,Attack,67,HP,144
+Aru,14,Attack,74,HP,192
+Aru,15,Attack,81,HP,240
+Aru,16,Attack,90,HP,298
+Aru,17,Attack,99,HP,356
+Aru,18,Attack,108,HP,414
+Aru,19,Attack,117,HP,472
+Aru,20,Attack,126,HP,530
+Aru,21,Attack,128,HP,540
+Aru,22,Attack,130,HP,550
+Aru,23,Attack,132,HP,560
+Aru,24,Attack,134,HP,570
+Aru,25,Attack,136,HP,580
+Aru,26,Attack,138,HP,590
+Aru,27,Attack,140,HP,600
+Aru,28,Attack,142,HP,610
+Aru,29,Attack,144,HP,620
+Aru,30,Attack,146,HP,630
+Aru,31,Attack,150,HP,645
+Aru,32,Attack,154,HP,660
+Aru,33,Attack,158,HP,675
+Aru,34,Attack,162,HP,690
+Aru,35,Attack,166,HP,705
+Aru,36,Attack,170,HP,720
+Aru,37,Attack,174,HP,735
+Aru,38,Attack,178,HP,750
+Aru,39,Attack,182,HP,765
+Aru,40,Attack,186,HP,780
+Aru,41,Attack,192,HP,805
+Aru,42,Attack,198,HP,830
+Aru,43,Attack,204,HP,855
+Aru,44,Attack,210,HP,880
+Aru,45,Attack,216,HP,905
+Aru,46,Attack,222,HP,930
+Aru,47,Attack,228,HP,955
+Aru,48,Attack,234,HP,980
+Aru,49,Attack,240,HP,1005
+Aru,50,Attack,246,HP,1030
+Aru (newyear),2,Attack,3,HP,0
+Aru (newyear),3,Attack,6,HP,0
+Aru (newyear),4,Attack,9,HP,0
+Aru (newyear),5,Attack,12,HP,0
+Aru (newyear),6,Attack,17,HP,0
+Aru (newyear),7,Attack,22,HP,0
+Aru (newyear),8,Attack,27,HP,0
+Aru (newyear),9,Attack,32,HP,0
+Aru (newyear),10,Attack,37,HP,0
+Aru (newyear),11,Attack,43,HP,48
+Aru (newyear),12,Attack,49,HP,96
+Aru (newyear),13,Attack,55,HP,144
+Aru (newyear),14,Attack,61,HP,192
+Aru (newyear),15,Attack,67,HP,240
+Aru (newyear),16,Attack,75,HP,298
+Aru (newyear),17,Attack,83,HP,356
+Aru (newyear),18,Attack,91,HP,414
+Aru (newyear),19,Attack,99,HP,472
+Aru (newyear),20,Attack,107,HP,530
+Aru (newyear),21,Attack,109,HP,540
+Aru (newyear),22,Attack,111,HP,550
+Aru (newyear),23,Attack,113,HP,560
+Aru (newyear),24,Attack,115,HP,570
+Aru (newyear),25,Attack,117,HP,580
+Aru (newyear),26,Attack,119,HP,590
+Aru (newyear),27,Attack,121,HP,600
+Aru (newyear),28,Attack,123,HP,610
+Aru (newyear),29,Attack,125,HP,620
+Aru (newyear),30,Attack,127,HP,630
+Aru (newyear),31,Attack,130,HP,645
+Aru (newyear),32,Attack,133,HP,660
+Aru (newyear),33,Attack,136,HP,675
+Aru (newyear),34,Attack,139,HP,690
+Aru (newyear),35,Attack,142,HP,705
+Aru (newyear),36,Attack,145,HP,720
+Aru (newyear),37,Attack,148,HP,735
+Aru (newyear),38,Attack,151,HP,750
+Aru (newyear),39,Attack,154,HP,765
+Aru (newyear),40,Attack,157,HP,780
+Aru (newyear),41,Attack,162,HP,805
+Aru (newyear),42,Attack,167,HP,830
+Aru (newyear),43,Attack,172,HP,855
+Aru (newyear),44,Attack,177,HP,880
+Aru (newyear),45,Attack,182,HP,905
+Aru (newyear),46,Attack,187,HP,930
+Aru (newyear),47,Attack,192,HP,955
+Aru (newyear),48,Attack,197,HP,980
+Aru (newyear),49,Attack,202,HP,1005
+Aru (newyear),50,Attack,207,HP,1030
+Asuna,2,Attack,3,HP,0
+Asuna,3,Attack,6,HP,0
+Asuna,4,Attack,9,HP,0
+Asuna,5,Attack,12,HP,0
+Asuna,6,Attack,16,HP,0
+Asuna,7,Attack,20,HP,0
+Asuna,8,Attack,24,HP,0
+Asuna,9,Attack,28,HP,0
+Asuna,10,Attack,32,HP,0
+Asuna,11,Attack,37,HP,58
+Asuna,12,Attack,42,HP,116
+Asuna,13,Attack,47,HP,174
+Asuna,14,Attack,52,HP,232
+Asuna,15,Attack,57,HP,290
+Asuna,16,Attack,64,HP,359
+Asuna,17,Attack,71,HP,428
+Asuna,18,Attack,78,HP,497
+Asuna,19,Attack,85,HP,566
+Asuna,20,Attack,92,HP,635
+Asuna,21,Attack,94,HP,647
+Asuna,22,Attack,96,HP,659
+Asuna,23,Attack,98,HP,671
+Asuna,24,Attack,100,HP,683
+Asuna,25,Attack,102,HP,695
+Asuna,26,Attack,104,HP,707
+Asuna,27,Attack,106,HP,719
+Asuna,28,Attack,108,HP,731
+Asuna,29,Attack,110,HP,743
+Asuna,30,Attack,112,HP,755
+Asuna,31,Attack,115,HP,773
+Asuna,32,Attack,118,HP,791
+Asuna,33,Attack,121,HP,809
+Asuna,34,Attack,124,HP,827
+Asuna,35,Attack,127,HP,845
+Asuna,36,Attack,130,HP,863
+Asuna,37,Attack,133,HP,881
+Asuna,38,Attack,136,HP,899
+Asuna,39,Attack,139,HP,917
+Asuna,40,Attack,142,HP,935
+Asuna,41,Attack,146,HP,965
+Asuna,42,Attack,150,HP,995
+Asuna,43,Attack,154,HP,1025
+Asuna,44,Attack,158,HP,1055
+Asuna,45,Attack,162,HP,1085
+Asuna,46,Attack,166,HP,1115
+Asuna,47,Attack,170,HP,1145
+Asuna,48,Attack,174,HP,1175
+Asuna,49,Attack,178,HP,1205
+Asuna,50,Attack,182,HP,1235
+Asuna (bunnygirl),2,Attack,2,HP,0
+Asuna (bunnygirl),3,Attack,4,HP,0
+Asuna (bunnygirl),4,Attack,6,HP,0
+Asuna (bunnygirl),5,Attack,8,HP,0
+Asuna (bunnygirl),6,Attack,11,HP,0
+Asuna (bunnygirl),7,Attack,14,HP,0
+Asuna (bunnygirl),8,Attack,17,HP,0
+Asuna (bunnygirl),9,Attack,20,HP,0
+Asuna (bunnygirl),10,Attack,23,HP,0
+Asuna (bunnygirl),11,Attack,27,HP,58
+Asuna (bunnygirl),12,Attack,31,HP,116
+Asuna (bunnygirl),13,Attack,35,HP,174
+Asuna (bunnygirl),14,Attack,39,HP,232
+Asuna (bunnygirl),15,Attack,43,HP,290
+Asuna (bunnygirl),16,Attack,48,HP,359
+Asuna (bunnygirl),17,Attack,53,HP,428
+Asuna (bunnygirl),18,Attack,58,HP,497
+Asuna (bunnygirl),19,Attack,63,HP,566
+Asuna (bunnygirl),20,Attack,68,HP,635
+Asuna (bunnygirl),21,Attack,69,HP,646
+Asuna (bunnygirl),22,Attack,70,HP,657
+Asuna (bunnygirl),23,Attack,71,HP,668
+Asuna (bunnygirl),24,Attack,72,HP,679
+Asuna (bunnygirl),25,Attack,73,HP,690
+Asuna (bunnygirl),26,Attack,74,HP,701
+Asuna (bunnygirl),27,Attack,75,HP,712
+Asuna (bunnygirl),28,Attack,76,HP,723
+Asuna (bunnygirl),29,Attack,77,HP,734
+Asuna (bunnygirl),30,Attack,78,HP,745
+Asuna (bunnygirl),31,Attack,80,HP,762
+Asuna (bunnygirl),32,Attack,82,HP,779
+Asuna (bunnygirl),33,Attack,84,HP,796
+Asuna (bunnygirl),34,Attack,86,HP,813
+Asuna (bunnygirl),35,Attack,88,HP,830
+Asuna (bunnygirl),36,Attack,90,HP,847
+Asuna (bunnygirl),37,Attack,92,HP,864
+Asuna (bunnygirl),38,Attack,94,HP,881
+Asuna (bunnygirl),39,Attack,96,HP,898
+Asuna (bunnygirl),40,Attack,98,HP,915
+Asuna (bunnygirl),41,Attack,101,HP,943
+Asuna (bunnygirl),42,Attack,104,HP,971
+Asuna (bunnygirl),43,Attack,107,HP,999
+Asuna (bunnygirl),44,Attack,110,HP,1027
+Asuna (bunnygirl),45,Attack,113,HP,1055
+Asuna (bunnygirl),46,Attack,116,HP,1083
+Asuna (bunnygirl),47,Attack,119,HP,1111
+Asuna (bunnygirl),48,Attack,122,HP,1139
+Asuna (bunnygirl),49,Attack,125,HP,1167
+Asuna (bunnygirl),50,Attack,128,HP,1195
+Ayane,2,HealPower,7,HP,0
+Ayane,3,HealPower,14,HP,0
+Ayane,4,HealPower,21,HP,0
+Ayane,5,HealPower,28,HP,0
+Ayane,6,HealPower,39,HP,0
+Ayane,7,HealPower,50,HP,0
+Ayane,8,HealPower,61,HP,0
+Ayane,9,HealPower,72,HP,0
+Ayane,10,HealPower,83,HP,0
+Ayane,11,HealPower,97,HP,48
+Ayane,12,HealPower,111,HP,96
+Ayane,13,HealPower,125,HP,144
+Ayane,14,HealPower,139,HP,192
+Ayane,15,HealPower,153,HP,240
+Ayane,16,HealPower,171,HP,297
+Ayane,17,HealPower,189,HP,354
+Ayane,18,HealPower,207,HP,411
+Ayane,19,HealPower,225,HP,468
+Ayane,20,HealPower,243,HP,525
+Ayane,21,HealPower,248,HP,535
+Ayane,22,HealPower,253,HP,545
+Ayane,23,HealPower,258,HP,555
+Ayane,24,HealPower,263,HP,565
+Ayane,25,HealPower,268,HP,575
+Ayane,26,HealPower,273,HP,585
+Ayane,27,HealPower,278,HP,595
+Ayane,28,HealPower,283,HP,605
+Ayane,29,HealPower,288,HP,615
+Ayane,30,HealPower,293,HP,625
+Ayane,31,HealPower,300,HP,640
+Ayane,32,HealPower,307,HP,655
+Ayane,33,HealPower,314,HP,670
+Ayane,34,HealPower,321,HP,685
+Ayane,35,HealPower,328,HP,700
+Ayane,36,HealPower,335,HP,715
+Ayane,37,HealPower,342,HP,730
+Ayane,38,HealPower,349,HP,745
+Ayane,39,HealPower,356,HP,760
+Ayane,40,HealPower,363,HP,775
+Ayane,41,HealPower,375,HP,800
+Ayane,42,HealPower,387,HP,825
+Ayane,43,HealPower,399,HP,850
+Ayane,44,HealPower,411,HP,875
+Ayane,45,HealPower,423,HP,900
+Ayane,46,HealPower,435,HP,925
+Ayane,47,HealPower,447,HP,950
+Ayane,48,HealPower,459,HP,975
+Ayane,49,HealPower,471,HP,1000
+Ayane,50,HealPower,483,HP,1025
+Azusa,2,Attack,2,HP,0
+Azusa,3,Attack,4,HP,0
+Azusa,4,Attack,6,HP,0
+Azusa,5,Attack,8,HP,0
+Azusa,6,Attack,11,HP,0
+Azusa,7,Attack,14,HP,0
+Azusa,8,Attack,17,HP,0
+Azusa,9,Attack,20,HP,0
+Azusa,10,Attack,23,HP,0
+Azusa,11,Attack,27,HP,55
+Azusa,12,Attack,31,HP,110
+Azusa,13,Attack,35,HP,165
+Azusa,14,Attack,39,HP,220
+Azusa,15,Attack,43,HP,275
+Azusa,16,Attack,48,HP,342
+Azusa,17,Attack,53,HP,409
+Azusa,18,Attack,58,HP,476
+Azusa,19,Attack,63,HP,543
+Azusa,20,Attack,68,HP,610
+Azusa,21,Attack,69,HP,622
+Azusa,22,Attack,70,HP,634
+Azusa,23,Attack,71,HP,646
+Azusa,24,Attack,72,HP,658
+Azusa,25,Attack,73,HP,670
+Azusa,26,Attack,74,HP,682
+Azusa,27,Attack,75,HP,694
+Azusa,28,Attack,76,HP,706
+Azusa,29,Attack,77,HP,718
+Azusa,30,Attack,78,HP,730
+Azusa,31,Attack,80,HP,747
+Azusa,32,Attack,82,HP,764
+Azusa,33,Attack,84,HP,781
+Azusa,34,Attack,86,HP,798
+Azusa,35,Attack,88,HP,815
+Azusa,36,Attack,90,HP,832
+Azusa,37,Attack,92,HP,849
+Azusa,38,Attack,94,HP,866
+Azusa,39,Attack,96,HP,883
+Azusa,40,Attack,98,HP,900
+Azusa,41,Attack,101,HP,929
+Azusa,42,Attack,104,HP,958
+Azusa,43,Attack,107,HP,987
+Azusa,44,Attack,110,HP,1016
+Azusa,45,Attack,113,HP,1045
+Azusa,46,Attack,116,HP,1074
+Azusa,47,Attack,119,HP,1103
+Azusa,48,Attack,122,HP,1132
+Azusa,49,Attack,125,HP,1161
+Azusa,50,Attack,128,HP,1190
+Azusa (swimsuit),2,Attack,2,HP,0
+Azusa (swimsuit),3,Attack,4,HP,0
+Azusa (swimsuit),4,Attack,6,HP,0
+Azusa (swimsuit),5,Attack,8,HP,0
+Azusa (swimsuit),6,Attack,11,HP,0
+Azusa (swimsuit),7,Attack,14,HP,0
+Azusa (swimsuit),8,Attack,17,HP,0
+Azusa (swimsuit),9,Attack,20,HP,0
+Azusa (swimsuit),10,Attack,23,HP,0
+Azusa (swimsuit),11,Attack,27,HP,50
+Azusa (swimsuit),12,Attack,31,HP,100
+Azusa (swimsuit),13,Attack,35,HP,150
+Azusa (swimsuit),14,Attack,39,HP,200
+Azusa (swimsuit),15,Attack,43,HP,250
+Azusa (swimsuit),16,Attack,48,HP,309
+Azusa (swimsuit),17,Attack,53,HP,368
+Azusa (swimsuit),18,Attack,58,HP,427
+Azusa (swimsuit),19,Attack,63,HP,486
+Azusa (swimsuit),20,Attack,68,HP,545
+Azusa (swimsuit),21,Attack,69,HP,555
+Azusa (swimsuit),22,Attack,70,HP,565
+Azusa (swimsuit),23,Attack,71,HP,575
+Azusa (swimsuit),24,Attack,72,HP,585
+Azusa (swimsuit),25,Attack,73,HP,595
+Azusa (swimsuit),26,Attack,74,HP,605
+Azusa (swimsuit),27,Attack,75,HP,615
+Azusa (swimsuit),28,Attack,76,HP,625
+Azusa (swimsuit),29,Attack,77,HP,635
+Azusa (swimsuit),30,Attack,78,HP,645
+Azusa (swimsuit),31,Attack,80,HP,661
+Azusa (swimsuit),32,Attack,82,HP,677
+Azusa (swimsuit),33,Attack,84,HP,693
+Azusa (swimsuit),34,Attack,86,HP,709
+Azusa (swimsuit),35,Attack,88,HP,725
+Azusa (swimsuit),36,Attack,90,HP,741
+Azusa (swimsuit),37,Attack,92,HP,757
+Azusa (swimsuit),38,Attack,94,HP,773
+Azusa (swimsuit),39,Attack,96,HP,789
+Azusa (swimsuit),40,Attack,98,HP,805
+Azusa (swimsuit),41,Attack,101,HP,831
+Azusa (swimsuit),42,Attack,104,HP,857
+Azusa (swimsuit),43,Attack,107,HP,883
+Azusa (swimsuit),44,Attack,110,HP,909
+Azusa (swimsuit),45,Attack,113,HP,935
+Azusa (swimsuit),46,Attack,116,HP,961
+Azusa (swimsuit),47,Attack,119,HP,987
+Azusa (swimsuit),48,Attack,122,HP,1013
+Azusa (swimsuit),49,Attack,125,HP,1039
+Azusa (swimsuit),50,Attack,128,HP,1065
+Cherino,2,Attack,2,HP,0
+Cherino,3,Attack,4,HP,0
+Cherino,4,Attack,6,HP,0
+Cherino,5,Attack,8,HP,0
+Cherino,6,Attack,11,HP,0
+Cherino,7,Attack,14,HP,0
+Cherino,8,Attack,17,HP,0
+Cherino,9,Attack,20,HP,0
+Cherino,10,Attack,23,HP,0
+Cherino,11,Attack,27,HP,64
+Cherino,12,Attack,31,HP,128
+Cherino,13,Attack,35,HP,192
+Cherino,14,Attack,39,HP,256
+Cherino,15,Attack,43,HP,320
+Cherino,16,Attack,48,HP,397
+Cherino,17,Attack,53,HP,474
+Cherino,18,Attack,58,HP,551
+Cherino,19,Attack,63,HP,628
+Cherino,20,Attack,68,HP,705
+Cherino,21,Attack,69,HP,718
+Cherino,22,Attack,70,HP,731
+Cherino,23,Attack,71,HP,744
+Cherino,24,Attack,72,HP,757
+Cherino,25,Attack,73,HP,770
+Cherino,26,Attack,74,HP,783
+Cherino,27,Attack,75,HP,796
+Cherino,28,Attack,76,HP,809
+Cherino,29,Attack,77,HP,822
+Cherino,30,Attack,78,HP,835
+Cherino,31,Attack,80,HP,855
+Cherino,32,Attack,82,HP,875
+Cherino,33,Attack,84,HP,895
+Cherino,34,Attack,86,HP,915
+Cherino,35,Attack,88,HP,935
+Cherino,36,Attack,90,HP,955
+Cherino,37,Attack,92,HP,975
+Cherino,38,Attack,94,HP,995
+Cherino,39,Attack,96,HP,1015
+Cherino,40,Attack,98,HP,1035
+Cherino,41,Attack,101,HP,1069
+Cherino,42,Attack,104,HP,1103
+Cherino,43,Attack,107,HP,1137
+Cherino,44,Attack,110,HP,1171
+Cherino,45,Attack,113,HP,1205
+Cherino,46,Attack,116,HP,1239
+Cherino,47,Attack,119,HP,1273
+Cherino,48,Attack,122,HP,1307
+Cherino,49,Attack,125,HP,1341
+Cherino,50,Attack,128,HP,1375
+Cherino (onsen),2,Attack,2,HP,0
+Cherino (onsen),3,Attack,4,HP,0
+Cherino (onsen),4,Attack,6,HP,0
+Cherino (onsen),5,Attack,8,HP,0
+Cherino (onsen),6,Attack,11,HP,0
+Cherino (onsen),7,Attack,14,HP,0
+Cherino (onsen),8,Attack,17,HP,0
+Cherino (onsen),9,Attack,20,HP,0
+Cherino (onsen),10,Attack,23,HP,0
+Cherino (onsen),11,Attack,27,HP,42
+Cherino (onsen),12,Attack,31,HP,84
+Cherino (onsen),13,Attack,35,HP,126
+Cherino (onsen),14,Attack,39,HP,168
+Cherino (onsen),15,Attack,43,HP,210
+Cherino (onsen),16,Attack,48,HP,260
+Cherino (onsen),17,Attack,53,HP,310
+Cherino (onsen),18,Attack,58,HP,360
+Cherino (onsen),19,Attack,63,HP,410
+Cherino (onsen),20,Attack,68,HP,460
+Cherino (onsen),21,Attack,69,HP,469
+Cherino (onsen),22,Attack,70,HP,478
+Cherino (onsen),23,Attack,71,HP,487
+Cherino (onsen),24,Attack,72,HP,496
+Cherino (onsen),25,Attack,73,HP,505
+Cherino (onsen),26,Attack,74,HP,514
+Cherino (onsen),27,Attack,75,HP,523
+Cherino (onsen),28,Attack,76,HP,532
+Cherino (onsen),29,Attack,77,HP,541
+Cherino (onsen),30,Attack,78,HP,550
+Cherino (onsen),31,Attack,80,HP,563
+Cherino (onsen),32,Attack,82,HP,576
+Cherino (onsen),33,Attack,84,HP,589
+Cherino (onsen),34,Attack,86,HP,602
+Cherino (onsen),35,Attack,88,HP,615
+Cherino (onsen),36,Attack,90,HP,628
+Cherino (onsen),37,Attack,92,HP,641
+Cherino (onsen),38,Attack,94,HP,654
+Cherino (onsen),39,Attack,96,HP,667
+Cherino (onsen),40,Attack,98,HP,680
+Cherino (onsen),41,Attack,101,HP,702
+Cherino (onsen),42,Attack,104,HP,724
+Cherino (onsen),43,Attack,107,HP,746
+Cherino (onsen),44,Attack,110,HP,768
+Cherino (onsen),45,Attack,113,HP,790
+Cherino (onsen),46,Attack,116,HP,812
+Cherino (onsen),47,Attack,119,HP,834
+Cherino (onsen),48,Attack,122,HP,856
+Cherino (onsen),49,Attack,125,HP,878
+Cherino (onsen),50,Attack,128,HP,900
+Chihiro,2,Attack,3,HP,0
+Chihiro,3,Attack,6,HP,0
+Chihiro,4,Attack,9,HP,0
+Chihiro,5,Attack,12,HP,0
+Chihiro,6,Attack,16,HP,0
+Chihiro,7,Attack,20,HP,0
+Chihiro,8,Attack,24,HP,0
+Chihiro,9,Attack,28,HP,0
+Chihiro,10,Attack,32,HP,0
+Chihiro,11,Attack,37,HP,42
+Chihiro,12,Attack,42,HP,84
+Chihiro,13,Attack,47,HP,126
+Chihiro,14,Attack,52,HP,168
+Chihiro,15,Attack,57,HP,210
+Chihiro,16,Attack,64,HP,260
+Chihiro,17,Attack,71,HP,310
+Chihiro,18,Attack,78,HP,360
+Chihiro,19,Attack,85,HP,410
+Chihiro,20,Attack,92,HP,460
+Chihiro,21,Attack,94,HP,469
+Chihiro,22,Attack,96,HP,478
+Chihiro,23,Attack,98,HP,487
+Chihiro,24,Attack,100,HP,496
+Chihiro,25,Attack,102,HP,505
+Chihiro,26,Attack,104,HP,514
+Chihiro,27,Attack,106,HP,523
+Chihiro,28,Attack,108,HP,532
+Chihiro,29,Attack,110,HP,541
+Chihiro,30,Attack,112,HP,550
+Chihiro,31,Attack,115,HP,563
+Chihiro,32,Attack,118,HP,576
+Chihiro,33,Attack,121,HP,589
+Chihiro,34,Attack,124,HP,602
+Chihiro,35,Attack,127,HP,615
+Chihiro,36,Attack,130,HP,628
+Chihiro,37,Attack,133,HP,641
+Chihiro,38,Attack,136,HP,654
+Chihiro,39,Attack,139,HP,667
+Chihiro,40,Attack,142,HP,680
+Chihiro,41,Attack,146,HP,702
+Chihiro,42,Attack,150,HP,724
+Chihiro,43,Attack,154,HP,746
+Chihiro,44,Attack,158,HP,768
+Chihiro,45,Attack,162,HP,790
+Chihiro,46,Attack,166,HP,812
+Chihiro,47,Attack,170,HP,834
+Chihiro,48,Attack,174,HP,856
+Chihiro,49,Attack,178,HP,878
+Chihiro,50,Attack,182,HP,900
+Chinatsu,2,HealPower,7,HP,0
+Chinatsu,3,HealPower,14,HP,0
+Chinatsu,4,HealPower,21,HP,0
+Chinatsu,5,HealPower,28,HP,0
+Chinatsu,6,HealPower,39,HP,0
+Chinatsu,7,HealPower,50,HP,0
+Chinatsu,8,HealPower,61,HP,0
+Chinatsu,9,HealPower,72,HP,0
+Chinatsu,10,HealPower,83,HP,0
+Chinatsu,11,HealPower,97,HP,47
+Chinatsu,12,HealPower,111,HP,94
+Chinatsu,13,HealPower,125,HP,141
+Chinatsu,14,HealPower,139,HP,188
+Chinatsu,15,HealPower,153,HP,235
+Chinatsu,16,HealPower,171,HP,292
+Chinatsu,17,HealPower,189,HP,349
+Chinatsu,18,HealPower,207,HP,406
+Chinatsu,19,HealPower,225,HP,463
+Chinatsu,20,HealPower,243,HP,520
+Chinatsu,21,HealPower,248,HP,530
+Chinatsu,22,HealPower,253,HP,540
+Chinatsu,23,HealPower,258,HP,550
+Chinatsu,24,HealPower,263,HP,560
+Chinatsu,25,HealPower,268,HP,570
+Chinatsu,26,HealPower,273,HP,580
+Chinatsu,27,HealPower,278,HP,590
+Chinatsu,28,HealPower,283,HP,600
+Chinatsu,29,HealPower,288,HP,610
+Chinatsu,30,HealPower,293,HP,620
+Chinatsu,31,HealPower,300,HP,635
+Chinatsu,32,HealPower,307,HP,650
+Chinatsu,33,HealPower,314,HP,665
+Chinatsu,34,HealPower,321,HP,680
+Chinatsu,35,HealPower,328,HP,695
+Chinatsu,36,HealPower,335,HP,710
+Chinatsu,37,HealPower,342,HP,725
+Chinatsu,38,HealPower,349,HP,740
+Chinatsu,39,HealPower,356,HP,755
+Chinatsu,40,HealPower,363,HP,770
+Chinatsu,41,HealPower,375,HP,795
+Chinatsu,42,HealPower,387,HP,820
+Chinatsu,43,HealPower,399,HP,845
+Chinatsu,44,HealPower,411,HP,870
+Chinatsu,45,HealPower,423,HP,895
+Chinatsu,46,HealPower,435,HP,920
+Chinatsu,47,HealPower,447,HP,945
+Chinatsu,48,HealPower,459,HP,970
+Chinatsu,49,HealPower,471,HP,995
+Chinatsu,50,HealPower,483,HP,1020
+Chinatsu (onsen),2,Attack,1,HealPower,0
+Chinatsu (onsen),3,Attack,2,HealPower,0
+Chinatsu (onsen),4,Attack,3,HealPower,0
+Chinatsu (onsen),5,Attack,4,HealPower,0
+Chinatsu (onsen),6,Attack,6,HealPower,0
+Chinatsu (onsen),7,Attack,8,HealPower,0
+Chinatsu (onsen),8,Attack,10,HealPower,0
+Chinatsu (onsen),9,Attack,12,HealPower,0
+Chinatsu (onsen),10,Attack,14,HealPower,0
+Chinatsu (onsen),11,Attack,16,HealPower,12
+Chinatsu (onsen),12,Attack,18,HealPower,24
+Chinatsu (onsen),13,Attack,20,HealPower,36
+Chinatsu (onsen),14,Attack,22,HealPower,48
+Chinatsu (onsen),15,Attack,24,HealPower,60
+Chinatsu (onsen),16,Attack,27,HealPower,74
+Chinatsu (onsen),17,Attack,30,HealPower,88
+Chinatsu (onsen),18,Attack,33,HealPower,102
+Chinatsu (onsen),19,Attack,36,HealPower,116
+Chinatsu (onsen),20,Attack,39,HealPower,130
+Chinatsu (onsen),21,Attack,40,HealPower,132
+Chinatsu (onsen),22,Attack,41,HealPower,134
+Chinatsu (onsen),23,Attack,42,HealPower,136
+Chinatsu (onsen),24,Attack,43,HealPower,138
+Chinatsu (onsen),25,Attack,44,HealPower,140
+Chinatsu (onsen),26,Attack,45,HealPower,142
+Chinatsu (onsen),27,Attack,46,HealPower,144
+Chinatsu (onsen),28,Attack,47,HealPower,146
+Chinatsu (onsen),29,Attack,48,HealPower,148
+Chinatsu (onsen),30,Attack,49,HealPower,150
+Chinatsu (onsen),31,Attack,50,HealPower,154
+Chinatsu (onsen),32,Attack,51,HealPower,158
+Chinatsu (onsen),33,Attack,52,HealPower,162
+Chinatsu (onsen),34,Attack,53,HealPower,166
+Chinatsu (onsen),35,Attack,54,HealPower,170
+Chinatsu (onsen),36,Attack,55,HealPower,174
+Chinatsu (onsen),37,Attack,56,HealPower,178
+Chinatsu (onsen),38,Attack,57,HealPower,182
+Chinatsu (onsen),39,Attack,58,HealPower,186
+Chinatsu (onsen),40,Attack,59,HealPower,190
+Chinatsu (onsen),41,Attack,61,HealPower,196
+Chinatsu (onsen),42,Attack,63,HealPower,202
+Chinatsu (onsen),43,Attack,65,HealPower,208
+Chinatsu (onsen),44,Attack,67,HealPower,214
+Chinatsu (onsen),45,Attack,69,HealPower,220
+Chinatsu (onsen),46,Attack,71,HealPower,226
+Chinatsu (onsen),47,Attack,73,HealPower,232
+Chinatsu (onsen),48,Attack,75,HealPower,238
+Chinatsu (onsen),49,Attack,77,HealPower,244
+Chinatsu (onsen),50,Attack,79,HealPower,250
+Chise,2,Attack,2,HP,0
+Chise,3,Attack,4,HP,0
+Chise,4,Attack,6,HP,0
+Chise,5,Attack,8,HP,0
+Chise,6,Attack,11,HP,0
+Chise,7,Attack,14,HP,0
+Chise,8,Attack,17,HP,0
+Chise,9,Attack,20,HP,0
+Chise,10,Attack,23,HP,0
+Chise,11,Attack,27,HP,57
+Chise,12,Attack,31,HP,114
+Chise,13,Attack,35,HP,171
+Chise,14,Attack,39,HP,228
+Chise,15,Attack,43,HP,285
+Chise,16,Attack,49,HP,353
+Chise,17,Attack,55,HP,421
+Chise,18,Attack,61,HP,489
+Chise,19,Attack,67,HP,557
+Chise,20,Attack,73,HP,625
+Chise,21,Attack,74,HP,637
+Chise,22,Attack,75,HP,649
+Chise,23,Attack,76,HP,661
+Chise,24,Attack,77,HP,673
+Chise,25,Attack,78,HP,685
+Chise,26,Attack,79,HP,697
+Chise,27,Attack,80,HP,709
+Chise,28,Attack,81,HP,721
+Chise,29,Attack,82,HP,733
+Chise,30,Attack,83,HP,745
+Chise,31,Attack,85,HP,763
+Chise,32,Attack,87,HP,781
+Chise,33,Attack,89,HP,799
+Chise,34,Attack,91,HP,817
+Chise,35,Attack,93,HP,835
+Chise,36,Attack,95,HP,853
+Chise,37,Attack,97,HP,871
+Chise,38,Attack,99,HP,889
+Chise,39,Attack,101,HP,907
+Chise,40,Attack,103,HP,925
+Chise,41,Attack,106,HP,955
+Chise,42,Attack,109,HP,985
+Chise,43,Attack,112,HP,1015
+Chise,44,Attack,115,HP,1045
+Chise,45,Attack,118,HP,1075
+Chise,46,Attack,121,HP,1105
+Chise,47,Attack,124,HP,1135
+Chise,48,Attack,127,HP,1165
+Chise,49,Attack,130,HP,1195
+Chise,50,Attack,133,HP,1225
+Eimi,2,Defence,1,HP,0
+Eimi,3,Defence,2,HP,0
+Eimi,4,Defence,3,HP,0
+Eimi,5,Defence,4,HP,0
+Eimi,6,Defence,6,HP,0
+Eimi,7,Defence,8,HP,0
+Eimi,8,Defence,10,HP,0
+Eimi,9,Defence,12,HP,0
+Eimi,10,Defence,14,HP,0
+Eimi,11,Defence,16,HP,128
+Eimi,12,Defence,18,HP,256
+Eimi,13,Defence,20,HP,384
+Eimi,14,Defence,22,HP,512
+Eimi,15,Defence,24,HP,640
+Eimi,16,Defence,27,HP,793
+Eimi,17,Defence,30,HP,946
+Eimi,18,Defence,33,HP,1099
+Eimi,19,Defence,36,HP,1252
+Eimi,20,Defence,39,HP,1405
+Eimi,21,Defence,40,HP,1432
+Eimi,22,Defence,41,HP,1459
+Eimi,23,Defence,42,HP,1486
+Eimi,24,Defence,43,HP,1513
+Eimi,25,Defence,44,HP,1540
+Eimi,26,Defence,45,HP,1567
+Eimi,27,Defence,46,HP,1594
+Eimi,28,Defence,47,HP,1621
+Eimi,29,Defence,48,HP,1648
+Eimi,30,Defence,49,HP,1675
+Eimi,31,Defence,50,HP,1715
+Eimi,32,Defence,51,HP,1755
+Eimi,33,Defence,52,HP,1795
+Eimi,34,Defence,53,HP,1835
+Eimi,35,Defence,54,HP,1875
+Eimi,36,Defence,55,HP,1915
+Eimi,37,Defence,56,HP,1955
+Eimi,38,Defence,57,HP,1995
+Eimi,39,Defence,58,HP,2035
+Eimi,40,Defence,59,HP,2075
+Eimi,41,Defence,61,HP,2142
+Eimi,42,Defence,63,HP,2209
+Eimi,43,Defence,65,HP,2276
+Eimi,44,Defence,67,HP,2343
+Eimi,45,Defence,69,HP,2410
+Eimi,46,Defence,71,HP,2477
+Eimi,47,Defence,73,HP,2544
+Eimi,48,Defence,75,HP,2611
+Eimi,49,Defence,77,HP,2678
+Eimi,50,Defence,79,HP,2745
+Fubuki,2,Attack,2,HP,0
+Fubuki,3,Attack,4,HP,0
+Fubuki,4,Attack,6,HP,0
+Fubuki,5,Attack,8,HP,0
+Fubuki,6,Attack,12,HP,0
+Fubuki,7,Attack,16,HP,0
+Fubuki,8,Attack,20,HP,0
+Fubuki,9,Attack,24,HP,0
+Fubuki,10,Attack,28,HP,0
+Fubuki,11,Attack,33,HP,48
+Fubuki,12,Attack,38,HP,96
+Fubuki,13,Attack,43,HP,144
+Fubuki,14,Attack,48,HP,192
+Fubuki,15,Attack,53,HP,240
+Fubuki,16,Attack,59,HP,298
+Fubuki,17,Attack,65,HP,356
+Fubuki,18,Attack,71,HP,414
+Fubuki,19,Attack,77,HP,472
+Fubuki,20,Attack,83,HP,530
+Fubuki,21,Attack,85,HP,540
+Fubuki,22,Attack,87,HP,550
+Fubuki,23,Attack,89,HP,560
+Fubuki,24,Attack,91,HP,570
+Fubuki,25,Attack,93,HP,580
+Fubuki,26,Attack,95,HP,590
+Fubuki,27,Attack,97,HP,600
+Fubuki,28,Attack,99,HP,610
+Fubuki,29,Attack,101,HP,620
+Fubuki,30,Attack,103,HP,630
+Fubuki,31,Attack,105,HP,645
+Fubuki,32,Attack,107,HP,660
+Fubuki,33,Attack,109,HP,675
+Fubuki,34,Attack,111,HP,690
+Fubuki,35,Attack,113,HP,705
+Fubuki,36,Attack,115,HP,720
+Fubuki,37,Attack,117,HP,735
+Fubuki,38,Attack,119,HP,750
+Fubuki,39,Attack,121,HP,765
+Fubuki,40,Attack,123,HP,780
+Fubuki,41,Attack,127,HP,805
+Fubuki,42,Attack,131,HP,830
+Fubuki,43,Attack,135,HP,855
+Fubuki,44,Attack,139,HP,880
+Fubuki,45,Attack,143,HP,905
+Fubuki,46,Attack,147,HP,930
+Fubuki,47,Attack,151,HP,955
+Fubuki,48,Attack,155,HP,980
+Fubuki,49,Attack,159,HP,1005
+Fubuki,50,Attack,163,HP,1030
+Fuuka,2,HealPower,7,HP,0
+Fuuka,3,HealPower,14,HP,0
+Fuuka,4,HealPower,21,HP,0
+Fuuka,5,HealPower,28,HP,0
+Fuuka,6,HealPower,39,HP,0
+Fuuka,7,HealPower,50,HP,0
+Fuuka,8,HealPower,61,HP,0
+Fuuka,9,HealPower,72,HP,0
+Fuuka,10,HealPower,83,HP,0
+Fuuka,11,HealPower,97,HP,48
+Fuuka,12,HealPower,111,HP,96
+Fuuka,13,HealPower,125,HP,144
+Fuuka,14,HealPower,139,HP,192
+Fuuka,15,HealPower,153,HP,240
+Fuuka,16,HealPower,171,HP,297
+Fuuka,17,HealPower,189,HP,354
+Fuuka,18,HealPower,207,HP,411
+Fuuka,19,HealPower,225,HP,468
+Fuuka,20,HealPower,243,HP,525
+Fuuka,21,HealPower,248,HP,535
+Fuuka,22,HealPower,253,HP,545
+Fuuka,23,HealPower,258,HP,555
+Fuuka,24,HealPower,263,HP,565
+Fuuka,25,HealPower,268,HP,575
+Fuuka,26,HealPower,273,HP,585
+Fuuka,27,HealPower,278,HP,595
+Fuuka,28,HealPower,283,HP,605
+Fuuka,29,HealPower,288,HP,615
+Fuuka,30,HealPower,293,HP,625
+Fuuka,31,HealPower,300,HP,640
+Fuuka,32,HealPower,307,HP,655
+Fuuka,33,HealPower,314,HP,670
+Fuuka,34,HealPower,321,HP,685
+Fuuka,35,HealPower,328,HP,700
+Fuuka,36,HealPower,335,HP,715
+Fuuka,37,HealPower,342,HP,730
+Fuuka,38,HealPower,349,HP,745
+Fuuka,39,HealPower,356,HP,760
+Fuuka,40,HealPower,363,HP,775
+Fuuka,41,HealPower,375,HP,800
+Fuuka,42,HealPower,387,HP,825
+Fuuka,43,HealPower,399,HP,850
+Fuuka,44,HealPower,411,HP,875
+Fuuka,45,HealPower,423,HP,900
+Fuuka,46,HealPower,435,HP,925
+Fuuka,47,HealPower,447,HP,950
+Fuuka,48,HealPower,459,HP,975
+Fuuka,49,HealPower,471,HP,1000
+Fuuka,50,HealPower,483,HP,1025
+Hanae,2,HealPower,7,HP,0
+Hanae,3,HealPower,14,HP,0
+Hanae,4,HealPower,21,HP,0
+Hanae,5,HealPower,28,HP,0
+Hanae,6,HealPower,39,HP,0
+Hanae,7,HealPower,50,HP,0
+Hanae,8,HealPower,61,HP,0
+Hanae,9,HealPower,72,HP,0
+Hanae,10,HealPower,83,HP,0
+Hanae,11,HealPower,97,HP,48
+Hanae,12,HealPower,111,HP,96
+Hanae,13,HealPower,125,HP,144
+Hanae,14,HealPower,139,HP,192
+Hanae,15,HealPower,153,HP,240
+Hanae,16,HealPower,171,HP,297
+Hanae,17,HealPower,189,HP,354
+Hanae,18,HealPower,207,HP,411
+Hanae,19,HealPower,225,HP,468
+Hanae,20,HealPower,243,HP,525
+Hanae,21,HealPower,248,HP,535
+Hanae,22,HealPower,253,HP,545
+Hanae,23,HealPower,258,HP,555
+Hanae,24,HealPower,263,HP,565
+Hanae,25,HealPower,268,HP,575
+Hanae,26,HealPower,273,HP,585
+Hanae,27,HealPower,278,HP,595
+Hanae,28,HealPower,283,HP,605
+Hanae,29,HealPower,288,HP,615
+Hanae,30,HealPower,293,HP,625
+Hanae,31,HealPower,300,HP,640
+Hanae,32,HealPower,307,HP,655
+Hanae,33,HealPower,314,HP,670
+Hanae,34,HealPower,321,HP,685
+Hanae,35,HealPower,328,HP,700
+Hanae,36,HealPower,335,HP,715
+Hanae,37,HealPower,342,HP,730
+Hanae,38,HealPower,349,HP,745
+Hanae,39,HealPower,356,HP,760
+Hanae,40,HealPower,363,HP,775
+Hanae,41,HealPower,375,HP,800
+Hanae,42,HealPower,387,HP,825
+Hanae,43,HealPower,399,HP,850
+Hanae,44,HealPower,411,HP,875
+Hanae,45,HealPower,423,HP,900
+Hanae,46,HealPower,435,HP,925
+Hanae,47,HealPower,447,HP,950
+Hanae,48,HealPower,459,HP,975
+Hanae,49,HealPower,471,HP,1000
+Hanae,50,HealPower,483,HP,1025
+Hanako,2,HealPower,7,HP,0
+Hanako,3,HealPower,14,HP,0
+Hanako,4,HealPower,21,HP,0
+Hanako,5,HealPower,28,HP,0
+Hanako,6,HealPower,39,HP,0
+Hanako,7,HealPower,50,HP,0
+Hanako,8,HealPower,61,HP,0
+Hanako,9,HealPower,72,HP,0
+Hanako,10,HealPower,83,HP,0
+Hanako,11,HealPower,97,HP,47
+Hanako,12,HealPower,111,HP,94
+Hanako,13,HealPower,125,HP,141
+Hanako,14,HealPower,139,HP,188
+Hanako,15,HealPower,153,HP,235
+Hanako,16,HealPower,171,HP,292
+Hanako,17,HealPower,189,HP,349
+Hanako,18,HealPower,207,HP,406
+Hanako,19,HealPower,225,HP,463
+Hanako,20,HealPower,243,HP,520
+Hanako,21,HealPower,248,HP,530
+Hanako,22,HealPower,253,HP,540
+Hanako,23,HealPower,258,HP,550
+Hanako,24,HealPower,263,HP,560
+Hanako,25,HealPower,268,HP,570
+Hanako,26,HealPower,273,HP,580
+Hanako,27,HealPower,278,HP,590
+Hanako,28,HealPower,283,HP,600
+Hanako,29,HealPower,288,HP,610
+Hanako,30,HealPower,293,HP,620
+Hanako,31,HealPower,300,HP,635
+Hanako,32,HealPower,307,HP,650
+Hanako,33,HealPower,314,HP,665
+Hanako,34,HealPower,321,HP,680
+Hanako,35,HealPower,328,HP,695
+Hanako,36,HealPower,335,HP,710
+Hanako,37,HealPower,342,HP,725
+Hanako,38,HealPower,349,HP,740
+Hanako,39,HealPower,356,HP,755
+Hanako,40,HealPower,363,HP,770
+Hanako,41,HealPower,375,HP,795
+Hanako,42,HealPower,387,HP,820
+Hanako,43,HealPower,399,HP,845
+Hanako,44,HealPower,411,HP,870
+Hanako,45,HealPower,423,HP,895
+Hanako,46,HealPower,435,HP,920
+Hanako,47,HealPower,447,HP,945
+Hanako,48,HealPower,459,HP,970
+Hanako,49,HealPower,471,HP,995
+Hanako,50,HealPower,483,HP,1020
+Hare,2,Attack,2,HP,0
+Hare,3,Attack,4,HP,0
+Hare,4,Attack,6,HP,0
+Hare,5,Attack,8,HP,0
+Hare,6,Attack,11,HP,0
+Hare,7,Attack,14,HP,0
+Hare,8,Attack,17,HP,0
+Hare,9,Attack,20,HP,0
+Hare,10,Attack,23,HP,0
+Hare,11,Attack,27,HP,41
+Hare,12,Attack,31,HP,82
+Hare,13,Attack,35,HP,123
+Hare,14,Attack,39,HP,164
+Hare,15,Attack,43,HP,205
+Hare,16,Attack,48,HP,254
+Hare,17,Attack,53,HP,303
+Hare,18,Attack,58,HP,352
+Hare,19,Attack,63,HP,401
+Hare,20,Attack,68,HP,450
+Hare,21,Attack,69,HP,459
+Hare,22,Attack,70,HP,468
+Hare,23,Attack,71,HP,477
+Hare,24,Attack,72,HP,486
+Hare,25,Attack,73,HP,495
+Hare,26,Attack,74,HP,504
+Hare,27,Attack,75,HP,513
+Hare,28,Attack,76,HP,522
+Hare,29,Attack,77,HP,531
+Hare,30,Attack,78,HP,540
+Hare,31,Attack,80,HP,553
+Hare,32,Attack,82,HP,566
+Hare,33,Attack,84,HP,579
+Hare,34,Attack,86,HP,592
+Hare,35,Attack,88,HP,605
+Hare,36,Attack,90,HP,618
+Hare,37,Attack,92,HP,631
+Hare,38,Attack,94,HP,644
+Hare,39,Attack,96,HP,657
+Hare,40,Attack,98,HP,670
+Hare,41,Attack,101,HP,691
+Hare,42,Attack,104,HP,712
+Hare,43,Attack,107,HP,733
+Hare,44,Attack,110,HP,754
+Hare,45,Attack,113,HP,775
+Hare,46,Attack,116,HP,796
+Hare,47,Attack,119,HP,817
+Hare,48,Attack,122,HP,838
+Hare,49,Attack,125,HP,859
+Hare,50,Attack,128,HP,880
+Haruka,2,Attack,1,HP,0
+Haruka,3,Attack,2,HP,0
+Haruka,4,Attack,3,HP,0
+Haruka,5,Attack,4,HP,0
+Haruka,6,Attack,6,HP,0
+Haruka,7,Attack,8,HP,0
+Haruka,8,Attack,10,HP,0
+Haruka,9,Attack,12,HP,0
+Haruka,10,Attack,14,HP,0
+Haruka,11,Attack,16,HP,127
+Haruka,12,Attack,18,HP,254
+Haruka,13,Attack,20,HP,381
+Haruka,14,Attack,22,HP,508
+Haruka,15,Attack,24,HP,635
+Haruka,16,Attack,27,HP,787
+Haruka,17,Attack,30,HP,939
+Haruka,18,Attack,33,HP,1091
+Haruka,19,Attack,36,HP,1243
+Haruka,20,Attack,39,HP,1395
+Haruka,21,Attack,40,HP,1422
+Haruka,22,Attack,41,HP,1449
+Haruka,23,Attack,42,HP,1476
+Haruka,24,Attack,43,HP,1503
+Haruka,25,Attack,44,HP,1530
+Haruka,26,Attack,45,HP,1557
+Haruka,27,Attack,46,HP,1584
+Haruka,28,Attack,47,HP,1611
+Haruka,29,Attack,48,HP,1638
+Haruka,30,Attack,49,HP,1665
+Haruka,31,Attack,50,HP,1705
+Haruka,32,Attack,51,HP,1745
+Haruka,33,Attack,52,HP,1785
+Haruka,34,Attack,53,HP,1825
+Haruka,35,Attack,54,HP,1865
+Haruka,36,Attack,55,HP,1905
+Haruka,37,Attack,56,HP,1945
+Haruka,38,Attack,57,HP,1985
+Haruka,39,Attack,58,HP,2025
+Haruka,40,Attack,59,HP,2065
+Haruka,41,Attack,61,HP,2131
+Haruka,42,Attack,63,HP,2197
+Haruka,43,Attack,65,HP,2263
+Haruka,44,Attack,67,HP,2329
+Haruka,45,Attack,69,HP,2395
+Haruka,46,Attack,71,HP,2461
+Haruka,47,Attack,73,HP,2527
+Haruka,48,Attack,75,HP,2593
+Haruka,49,Attack,77,HP,2659
+Haruka,50,Attack,79,HP,2725
+Haruna,2,Attack,4,HP,0
+Haruna,3,Attack,8,HP,0
+Haruna,4,Attack,12,HP,0
+Haruna,5,Attack,16,HP,0
+Haruna,6,Attack,22,HP,0
+Haruna,7,Attack,28,HP,0
+Haruna,8,Attack,34,HP,0
+Haruna,9,Attack,40,HP,0
+Haruna,10,Attack,46,HP,0
+Haruna,11,Attack,53,HP,47
+Haruna,12,Attack,60,HP,94
+Haruna,13,Attack,67,HP,141
+Haruna,14,Attack,74,HP,188
+Haruna,15,Attack,81,HP,235
+Haruna,16,Attack,90,HP,292
+Haruna,17,Attack,99,HP,349
+Haruna,18,Attack,108,HP,406
+Haruna,19,Attack,117,HP,463
+Haruna,20,Attack,126,HP,520
+Haruna,21,Attack,128,HP,530
+Haruna,22,Attack,130,HP,540
+Haruna,23,Attack,132,HP,550
+Haruna,24,Attack,134,HP,560
+Haruna,25,Attack,136,HP,570
+Haruna,26,Attack,138,HP,580
+Haruna,27,Attack,140,HP,590
+Haruna,28,Attack,142,HP,600
+Haruna,29,Attack,144,HP,610
+Haruna,30,Attack,146,HP,620
+Haruna,31,Attack,150,HP,635
+Haruna,32,Attack,154,HP,650
+Haruna,33,Attack,158,HP,665
+Haruna,34,Attack,162,HP,680
+Haruna,35,Attack,166,HP,695
+Haruna,36,Attack,170,HP,710
+Haruna,37,Attack,174,HP,725
+Haruna,38,Attack,178,HP,740
+Haruna,39,Attack,182,HP,755
+Haruna,40,Attack,186,HP,770
+Haruna,41,Attack,192,HP,795
+Haruna,42,Attack,198,HP,820
+Haruna,43,Attack,204,HP,845
+Haruna,44,Attack,210,HP,870
+Haruna,45,Attack,216,HP,895
+Haruna,46,Attack,222,HP,920
+Haruna,47,Attack,228,HP,945
+Haruna,48,Attack,234,HP,970
+Haruna,49,Attack,240,HP,995
+Haruna,50,Attack,246,HP,1020
+Hasumi,2,Attack,3,HP,0
+Hasumi,3,Attack,6,HP,0
+Hasumi,4,Attack,9,HP,0
+Hasumi,5,Attack,12,HP,0
+Hasumi,6,Attack,17,HP,0
+Hasumi,7,Attack,22,HP,0
+Hasumi,8,Attack,27,HP,0
+Hasumi,9,Attack,32,HP,0
+Hasumi,10,Attack,37,HP,0
+Hasumi,11,Attack,44,HP,49
+Hasumi,12,Attack,51,HP,98
+Hasumi,13,Attack,58,HP,147
+Hasumi,14,Attack,65,HP,196
+Hasumi,15,Attack,72,HP,245
+Hasumi,16,Attack,81,HP,304
+Hasumi,17,Attack,90,HP,363
+Hasumi,18,Attack,99,HP,422
+Hasumi,19,Attack,108,HP,481
+Hasumi,20,Attack,117,HP,540
+Hasumi,21,Attack,119,HP,550
+Hasumi,22,Attack,121,HP,560
+Hasumi,23,Attack,123,HP,570
+Hasumi,24,Attack,125,HP,580
+Hasumi,25,Attack,127,HP,590
+Hasumi,26,Attack,129,HP,600
+Hasumi,27,Attack,131,HP,610
+Hasumi,28,Attack,133,HP,620
+Hasumi,29,Attack,135,HP,630
+Hasumi,30,Attack,137,HP,640
+Hasumi,31,Attack,140,HP,655
+Hasumi,32,Attack,143,HP,670
+Hasumi,33,Attack,146,HP,685
+Hasumi,34,Attack,149,HP,700
+Hasumi,35,Attack,152,HP,715
+Hasumi,36,Attack,155,HP,730
+Hasumi,37,Attack,158,HP,745
+Hasumi,38,Attack,161,HP,760
+Hasumi,39,Attack,164,HP,775
+Hasumi,40,Attack,167,HP,790
+Hasumi,41,Attack,173,HP,816
+Hasumi,42,Attack,179,HP,842
+Hasumi,43,Attack,185,HP,868
+Hasumi,44,Attack,191,HP,894
+Hasumi,45,Attack,197,HP,920
+Hasumi,46,Attack,203,HP,946
+Hasumi,47,Attack,209,HP,972
+Hasumi,48,Attack,215,HP,998
+Hasumi,49,Attack,221,HP,1024
+Hasumi,50,Attack,227,HP,1050
+Hibiki,2,Attack,2,HP,0
+Hibiki,3,Attack,4,HP,0
+Hibiki,4,Attack,6,HP,0
+Hibiki,5,Attack,8,HP,0
+Hibiki,6,Attack,12,HP,0
+Hibiki,7,Attack,16,HP,0
+Hibiki,8,Attack,20,HP,0
+Hibiki,9,Attack,24,HP,0
+Hibiki,10,Attack,28,HP,0
+Hibiki,11,Attack,33,HP,42
+Hibiki,12,Attack,38,HP,84
+Hibiki,13,Attack,43,HP,126
+Hibiki,14,Attack,48,HP,168
+Hibiki,15,Attack,53,HP,210
+Hibiki,16,Attack,59,HP,260
+Hibiki,17,Attack,65,HP,310
+Hibiki,18,Attack,71,HP,360
+Hibiki,19,Attack,77,HP,410
+Hibiki,20,Attack,83,HP,460
+Hibiki,21,Attack,85,HP,469
+Hibiki,22,Attack,87,HP,478
+Hibiki,23,Attack,89,HP,487
+Hibiki,24,Attack,91,HP,496
+Hibiki,25,Attack,93,HP,505
+Hibiki,26,Attack,95,HP,514
+Hibiki,27,Attack,97,HP,523
+Hibiki,28,Attack,99,HP,532
+Hibiki,29,Attack,101,HP,541
+Hibiki,30,Attack,103,HP,550
+Hibiki,31,Attack,105,HP,563
+Hibiki,32,Attack,107,HP,576
+Hibiki,33,Attack,109,HP,589
+Hibiki,34,Attack,111,HP,602
+Hibiki,35,Attack,113,HP,615
+Hibiki,36,Attack,115,HP,628
+Hibiki,37,Attack,117,HP,641
+Hibiki,38,Attack,119,HP,654
+Hibiki,39,Attack,121,HP,667
+Hibiki,40,Attack,123,HP,680
+Hibiki,41,Attack,127,HP,702
+Hibiki,42,Attack,131,HP,724
+Hibiki,43,Attack,135,HP,746
+Hibiki,44,Attack,139,HP,768
+Hibiki,45,Attack,143,HP,790
+Hibiki,46,Attack,147,HP,812
+Hibiki,47,Attack,151,HP,834
+Hibiki,48,Attack,155,HP,856
+Hibiki,49,Attack,159,HP,878
+Hibiki,50,Attack,163,HP,900
+Hifumi,2,Attack,2,HP,0
+Hifumi,3,Attack,4,HP,0
+Hifumi,4,Attack,6,HP,0
+Hifumi,5,Attack,8,HP,0
+Hifumi,6,Attack,11,HP,0
+Hifumi,7,Attack,14,HP,0
+Hifumi,8,Attack,17,HP,0
+Hifumi,9,Attack,20,HP,0
+Hifumi,10,Attack,23,HP,0
+Hifumi,11,Attack,27,HP,57
+Hifumi,12,Attack,31,HP,114
+Hifumi,13,Attack,35,HP,171
+Hifumi,14,Attack,39,HP,228
+Hifumi,15,Attack,43,HP,285
+Hifumi,16,Attack,48,HP,353
+Hifumi,17,Attack,53,HP,421
+Hifumi,18,Attack,58,HP,489
+Hifumi,19,Attack,63,HP,557
+Hifumi,20,Attack,68,HP,625
+Hifumi,21,Attack,69,HP,637
+Hifumi,22,Attack,70,HP,649
+Hifumi,23,Attack,71,HP,661
+Hifumi,24,Attack,72,HP,673
+Hifumi,25,Attack,73,HP,685
+Hifumi,26,Attack,74,HP,697
+Hifumi,27,Attack,75,HP,709
+Hifumi,28,Attack,76,HP,721
+Hifumi,29,Attack,77,HP,733
+Hifumi,30,Attack,78,HP,745
+Hifumi,31,Attack,80,HP,763
+Hifumi,32,Attack,82,HP,781
+Hifumi,33,Attack,84,HP,799
+Hifumi,34,Attack,86,HP,817
+Hifumi,35,Attack,88,HP,835
+Hifumi,36,Attack,90,HP,853
+Hifumi,37,Attack,92,HP,871
+Hifumi,38,Attack,94,HP,889
+Hifumi,39,Attack,96,HP,907
+Hifumi,40,Attack,98,HP,925
+Hifumi,41,Attack,101,HP,955
+Hifumi,42,Attack,104,HP,985
+Hifumi,43,Attack,107,HP,1015
+Hifumi,44,Attack,110,HP,1045
+Hifumi,45,Attack,113,HP,1075
+Hifumi,46,Attack,116,HP,1105
+Hifumi,47,Attack,119,HP,1135
+Hifumi,48,Attack,122,HP,1165
+Hifumi,49,Attack,125,HP,1195
+Hifumi,50,Attack,128,HP,1225
+Hifumi (swimsuit),2,Attack,3,HP,0
+Hifumi (swimsuit),3,Attack,6,HP,0
+Hifumi (swimsuit),4,Attack,9,HP,0
+Hifumi (swimsuit),5,Attack,12,HP,0
+Hifumi (swimsuit),6,Attack,16,HP,0
+Hifumi (swimsuit),7,Attack,20,HP,0
+Hifumi (swimsuit),8,Attack,24,HP,0
+Hifumi (swimsuit),9,Attack,28,HP,0
+Hifumi (swimsuit),10,Attack,32,HP,0
+Hifumi (swimsuit),11,Attack,38,HP,40
+Hifumi (swimsuit),12,Attack,44,HP,80
+Hifumi (swimsuit),13,Attack,50,HP,120
+Hifumi (swimsuit),14,Attack,56,HP,160
+Hifumi (swimsuit),15,Attack,62,HP,200
+Hifumi (swimsuit),16,Attack,69,HP,248
+Hifumi (swimsuit),17,Attack,76,HP,296
+Hifumi (swimsuit),18,Attack,83,HP,344
+Hifumi (swimsuit),19,Attack,90,HP,392
+Hifumi (swimsuit),20,Attack,97,HP,440
+Hifumi (swimsuit),21,Attack,99,HP,448
+Hifumi (swimsuit),22,Attack,101,HP,456
+Hifumi (swimsuit),23,Attack,103,HP,464
+Hifumi (swimsuit),24,Attack,105,HP,472
+Hifumi (swimsuit),25,Attack,107,HP,480
+Hifumi (swimsuit),26,Attack,109,HP,488
+Hifumi (swimsuit),27,Attack,111,HP,496
+Hifumi (swimsuit),28,Attack,113,HP,504
+Hifumi (swimsuit),29,Attack,115,HP,512
+Hifumi (swimsuit),30,Attack,117,HP,520
+Hifumi (swimsuit),31,Attack,120,HP,533
+Hifumi (swimsuit),32,Attack,123,HP,546
+Hifumi (swimsuit),33,Attack,126,HP,559
+Hifumi (swimsuit),34,Attack,129,HP,572
+Hifumi (swimsuit),35,Attack,132,HP,585
+Hifumi (swimsuit),36,Attack,135,HP,598
+Hifumi (swimsuit),37,Attack,138,HP,611
+Hifumi (swimsuit),38,Attack,141,HP,624
+Hifumi (swimsuit),39,Attack,144,HP,637
+Hifumi (swimsuit),40,Attack,147,HP,650
+Hifumi (swimsuit),41,Attack,152,HP,671
+Hifumi (swimsuit),42,Attack,157,HP,692
+Hifumi (swimsuit),43,Attack,162,HP,713
+Hifumi (swimsuit),44,Attack,167,HP,734
+Hifumi (swimsuit),45,Attack,172,HP,755
+Hifumi (swimsuit),46,Attack,177,HP,776
+Hifumi (swimsuit),47,Attack,182,HP,797
+Hifumi (swimsuit),48,Attack,187,HP,818
+Hifumi (swimsuit),49,Attack,192,HP,839
+Hifumi (swimsuit),50,Attack,197,HP,860
+Hina,2,Attack,3,HP,0
+Hina,3,Attack,6,HP,0
+Hina,4,Attack,9,HP,0
+Hina,5,Attack,12,HP,0
+Hina,6,Attack,16,HP,0
+Hina,7,Attack,20,HP,0
+Hina,8,Attack,24,HP,0
+Hina,9,Attack,28,HP,0
+Hina,10,Attack,32,HP,0
+Hina,11,Attack,37,HP,49
+Hina,12,Attack,42,HP,98
+Hina,13,Attack,47,HP,147
+Hina,14,Attack,52,HP,196
+Hina,15,Attack,57,HP,245
+Hina,16,Attack,63,HP,304
+Hina,17,Attack,69,HP,363
+Hina,18,Attack,75,HP,422
+Hina,19,Attack,81,HP,481
+Hina,20,Attack,87,HP,540
+Hina,21,Attack,89,HP,550
+Hina,22,Attack,91,HP,560
+Hina,23,Attack,93,HP,570
+Hina,24,Attack,95,HP,580
+Hina,25,Attack,97,HP,590
+Hina,26,Attack,99,HP,600
+Hina,27,Attack,101,HP,610
+Hina,28,Attack,103,HP,620
+Hina,29,Attack,105,HP,630
+Hina,30,Attack,107,HP,640
+Hina,31,Attack,109,HP,655
+Hina,32,Attack,111,HP,670
+Hina,33,Attack,113,HP,685
+Hina,34,Attack,115,HP,700
+Hina,35,Attack,117,HP,715
+Hina,36,Attack,119,HP,730
+Hina,37,Attack,121,HP,745
+Hina,38,Attack,123,HP,760
+Hina,39,Attack,125,HP,775
+Hina,40,Attack,127,HP,790
+Hina,41,Attack,131,HP,816
+Hina,42,Attack,135,HP,842
+Hina,43,Attack,139,HP,868
+Hina,44,Attack,143,HP,894
+Hina,45,Attack,147,HP,920
+Hina,46,Attack,151,HP,946
+Hina,47,Attack,155,HP,972
+Hina,48,Attack,159,HP,998
+Hina,49,Attack,163,HP,1024
+Hina,50,Attack,167,HP,1050
+Hina (swimsuit),2,Attack,3,HP,0
+Hina (swimsuit),3,Attack,6,HP,0
+Hina (swimsuit),4,Attack,9,HP,0
+Hina (swimsuit),5,Attack,12,HP,0
+Hina (swimsuit),6,Attack,17,HP,0
+Hina (swimsuit),7,Attack,22,HP,0
+Hina (swimsuit),8,Attack,27,HP,0
+Hina (swimsuit),9,Attack,32,HP,0
+Hina (swimsuit),10,Attack,37,HP,0
+Hina (swimsuit),11,Attack,43,HP,48
+Hina (swimsuit),12,Attack,49,HP,96
+Hina (swimsuit),13,Attack,55,HP,144
+Hina (swimsuit),14,Attack,61,HP,192
+Hina (swimsuit),15,Attack,67,HP,240
+Hina (swimsuit),16,Attack,75,HP,297
+Hina (swimsuit),17,Attack,83,HP,354
+Hina (swimsuit),18,Attack,91,HP,411
+Hina (swimsuit),19,Attack,99,HP,468
+Hina (swimsuit),20,Attack,107,HP,525
+Hina (swimsuit),21,Attack,109,HP,535
+Hina (swimsuit),22,Attack,111,HP,545
+Hina (swimsuit),23,Attack,113,HP,555
+Hina (swimsuit),24,Attack,115,HP,565
+Hina (swimsuit),25,Attack,117,HP,575
+Hina (swimsuit),26,Attack,119,HP,585
+Hina (swimsuit),27,Attack,121,HP,595
+Hina (swimsuit),28,Attack,123,HP,605
+Hina (swimsuit),29,Attack,125,HP,615
+Hina (swimsuit),30,Attack,127,HP,625
+Hina (swimsuit),31,Attack,130,HP,640
+Hina (swimsuit),32,Attack,133,HP,655
+Hina (swimsuit),33,Attack,136,HP,670
+Hina (swimsuit),34,Attack,139,HP,685
+Hina (swimsuit),35,Attack,142,HP,700
+Hina (swimsuit),36,Attack,145,HP,715
+Hina (swimsuit),37,Attack,148,HP,730
+Hina (swimsuit),38,Attack,151,HP,745
+Hina (swimsuit),39,Attack,154,HP,760
+Hina (swimsuit),40,Attack,157,HP,775
+Hina (swimsuit),41,Attack,162,HP,800
+Hina (swimsuit),42,Attack,167,HP,825
+Hina (swimsuit),43,Attack,172,HP,850
+Hina (swimsuit),44,Attack,177,HP,875
+Hina (swimsuit),45,Attack,182,HP,900
+Hina (swimsuit),46,Attack,187,HP,925
+Hina (swimsuit),47,Attack,192,HP,950
+Hina (swimsuit),48,Attack,197,HP,975
+Hina (swimsuit),49,Attack,202,HP,1000
+Hina (swimsuit),50,Attack,207,HP,1025
+Hoshino,2,Defence,1,HP,0
+Hoshino,3,Defence,2,HP,0
+Hoshino,4,Defence,3,HP,0
+Hoshino,5,Defence,4,HP,0
+Hoshino,6,Defence,6,HP,0
+Hoshino,7,Defence,8,HP,0
+Hoshino,8,Defence,10,HP,0
+Hoshino,9,Defence,12,HP,0
+Hoshino,10,Defence,14,HP,0
+Hoshino,11,Defence,16,HP,122
+Hoshino,12,Defence,18,HP,244
+Hoshino,13,Defence,20,HP,366
+Hoshino,14,Defence,22,HP,488
+Hoshino,15,Defence,24,HP,610
+Hoshino,16,Defence,27,HP,757
+Hoshino,17,Defence,30,HP,904
+Hoshino,18,Defence,33,HP,1051
+Hoshino,19,Defence,36,HP,1198
+Hoshino,20,Defence,39,HP,1345
+Hoshino,21,Defence,40,HP,1371
+Hoshino,22,Defence,41,HP,1397
+Hoshino,23,Defence,42,HP,1423
+Hoshino,24,Defence,43,HP,1449
+Hoshino,25,Defence,44,HP,1475
+Hoshino,26,Defence,45,HP,1501
+Hoshino,27,Defence,46,HP,1527
+Hoshino,28,Defence,47,HP,1553
+Hoshino,29,Defence,48,HP,1579
+Hoshino,30,Defence,49,HP,1605
+Hoshino,31,Defence,50,HP,1643
+Hoshino,32,Defence,51,HP,1681
+Hoshino,33,Defence,52,HP,1719
+Hoshino,34,Defence,53,HP,1757
+Hoshino,35,Defence,54,HP,1795
+Hoshino,36,Defence,55,HP,1833
+Hoshino,37,Defence,56,HP,1871
+Hoshino,38,Defence,57,HP,1909
+Hoshino,39,Defence,58,HP,1947
+Hoshino,40,Defence,59,HP,1985
+Hoshino,41,Defence,61,HP,2049
+Hoshino,42,Defence,63,HP,2113
+Hoshino,43,Defence,65,HP,2177
+Hoshino,44,Defence,67,HP,2241
+Hoshino,45,Defence,69,HP,2305
+Hoshino,46,Defence,71,HP,2369
+Hoshino,47,Defence,73,HP,2433
+Hoshino,48,Defence,75,HP,2497
+Hoshino,49,Defence,77,HP,2561
+Hoshino,50,Defence,79,HP,2625
+Iori,2,Attack,3,HP,0
+Iori,3,Attack,6,HP,0
+Iori,4,Attack,9,HP,0
+Iori,5,Attack,12,HP,0
+Iori,6,Attack,17,HP,0
+Iori,7,Attack,22,HP,0
+Iori,8,Attack,27,HP,0
+Iori,9,Attack,32,HP,0
+Iori,10,Attack,37,HP,0
+Iori,11,Attack,43,HP,50
+Iori,12,Attack,49,HP,100
+Iori,13,Attack,55,HP,150
+Iori,14,Attack,61,HP,200
+Iori,15,Attack,67,HP,250
+Iori,16,Attack,75,HP,310
+Iori,17,Attack,83,HP,370
+Iori,18,Attack,91,HP,430
+Iori,19,Attack,99,HP,490
+Iori,20,Attack,107,HP,550
+Iori,21,Attack,109,HP,562
+Iori,22,Attack,111,HP,574
+Iori,23,Attack,113,HP,586
+Iori,24,Attack,115,HP,598
+Iori,25,Attack,117,HP,610
+Iori,26,Attack,119,HP,622
+Iori,27,Attack,121,HP,634
+Iori,28,Attack,123,HP,646
+Iori,29,Attack,125,HP,658
+Iori,30,Attack,127,HP,670
+Iori,31,Attack,130,HP,688
+Iori,32,Attack,133,HP,706
+Iori,33,Attack,136,HP,724
+Iori,34,Attack,139,HP,742
+Iori,35,Attack,142,HP,760
+Iori,36,Attack,145,HP,778
+Iori,37,Attack,148,HP,796
+Iori,38,Attack,151,HP,814
+Iori,39,Attack,154,HP,832
+Iori,40,Attack,157,HP,850
+Iori,41,Attack,162,HP,880
+Iori,42,Attack,167,HP,910
+Iori,43,Attack,172,HP,940
+Iori,44,Attack,177,HP,970
+Iori,45,Attack,182,HP,1000
+Iori,46,Attack,187,HP,1030
+Iori,47,Attack,192,HP,1060
+Iori,48,Attack,197,HP,1090
+Iori,49,Attack,202,HP,1120
+Iori,50,Attack,207,HP,1150
+Iori (swimsuit),2,Attack,3,HP,0
+Iori (swimsuit),3,Attack,6,HP,0
+Iori (swimsuit),4,Attack,9,HP,0
+Iori (swimsuit),5,Attack,12,HP,0
+Iori (swimsuit),6,Attack,17,HP,0
+Iori (swimsuit),7,Attack,22,HP,0
+Iori (swimsuit),8,Attack,27,HP,0
+Iori (swimsuit),9,Attack,32,HP,0
+Iori (swimsuit),10,Attack,37,HP,0
+Iori (swimsuit),11,Attack,44,HP,45
+Iori (swimsuit),12,Attack,51,HP,90
+Iori (swimsuit),13,Attack,58,HP,135
+Iori (swimsuit),14,Attack,65,HP,180
+Iori (swimsuit),15,Attack,72,HP,225
+Iori (swimsuit),16,Attack,80,HP,280
+Iori (swimsuit),17,Attack,88,HP,335
+Iori (swimsuit),18,Attack,96,HP,390
+Iori (swimsuit),19,Attack,104,HP,445
+Iori (swimsuit),20,Attack,112,HP,500
+Iori (swimsuit),21,Attack,114,HP,509
+Iori (swimsuit),22,Attack,116,HP,518
+Iori (swimsuit),23,Attack,118,HP,527
+Iori (swimsuit),24,Attack,120,HP,536
+Iori (swimsuit),25,Attack,122,HP,545
+Iori (swimsuit),26,Attack,124,HP,554
+Iori (swimsuit),27,Attack,126,HP,563
+Iori (swimsuit),28,Attack,128,HP,572
+Iori (swimsuit),29,Attack,130,HP,581
+Iori (swimsuit),30,Attack,132,HP,590
+Iori (swimsuit),31,Attack,135,HP,604
+Iori (swimsuit),32,Attack,138,HP,618
+Iori (swimsuit),33,Attack,141,HP,632
+Iori (swimsuit),34,Attack,144,HP,646
+Iori (swimsuit),35,Attack,147,HP,660
+Iori (swimsuit),36,Attack,150,HP,674
+Iori (swimsuit),37,Attack,153,HP,688
+Iori (swimsuit),38,Attack,156,HP,702
+Iori (swimsuit),39,Attack,159,HP,716
+Iori (swimsuit),40,Attack,162,HP,730
+Iori (swimsuit),41,Attack,168,HP,753
+Iori (swimsuit),42,Attack,174,HP,776
+Iori (swimsuit),43,Attack,180,HP,799
+Iori (swimsuit),44,Attack,186,HP,822
+Iori (swimsuit),45,Attack,192,HP,845
+Iori (swimsuit),46,Attack,198,HP,868
+Iori (swimsuit),47,Attack,204,HP,891
+Iori (swimsuit),48,Attack,210,HP,914
+Iori (swimsuit),49,Attack,216,HP,937
+Iori (swimsuit),50,Attack,222,HP,960
+Izumi,2,Attack,2,HP,0
+Izumi,3,Attack,4,HP,0
+Izumi,4,Attack,6,HP,0
+Izumi,5,Attack,8,HP,0
+Izumi,6,Attack,11,HP,0
+Izumi,7,Attack,14,HP,0
+Izumi,8,Attack,17,HP,0
+Izumi,9,Attack,20,HP,0
+Izumi,10,Attack,23,HP,0
+Izumi,11,Attack,27,HP,50
+Izumi,12,Attack,31,HP,100
+Izumi,13,Attack,35,HP,150
+Izumi,14,Attack,39,HP,200
+Izumi,15,Attack,43,HP,250
+Izumi,16,Attack,48,HP,310
+Izumi,17,Attack,53,HP,370
+Izumi,18,Attack,58,HP,430
+Izumi,19,Attack,63,HP,490
+Izumi,20,Attack,68,HP,550
+Izumi,21,Attack,69,HP,560
+Izumi,22,Attack,70,HP,570
+Izumi,23,Attack,71,HP,580
+Izumi,24,Attack,72,HP,590
+Izumi,25,Attack,73,HP,600
+Izumi,26,Attack,74,HP,610
+Izumi,27,Attack,75,HP,620
+Izumi,28,Attack,76,HP,630
+Izumi,29,Attack,77,HP,640
+Izumi,30,Attack,78,HP,650
+Izumi,31,Attack,80,HP,666
+Izumi,32,Attack,82,HP,682
+Izumi,33,Attack,84,HP,698
+Izumi,34,Attack,86,HP,714
+Izumi,35,Attack,88,HP,730
+Izumi,36,Attack,90,HP,746
+Izumi,37,Attack,92,HP,762
+Izumi,38,Attack,94,HP,778
+Izumi,39,Attack,96,HP,794
+Izumi,40,Attack,98,HP,810
+Izumi,41,Attack,101,HP,836
+Izumi,42,Attack,104,HP,862
+Izumi,43,Attack,107,HP,888
+Izumi,44,Attack,110,HP,914
+Izumi,45,Attack,113,HP,940
+Izumi,46,Attack,116,HP,966
+Izumi,47,Attack,119,HP,992
+Izumi,48,Attack,122,HP,1018
+Izumi,49,Attack,125,HP,1044
+Izumi,50,Attack,128,HP,1070
+Izumi (swimsuit),2,Attack,2,HP,0
+Izumi (swimsuit),3,Attack,4,HP,0
+Izumi (swimsuit),4,Attack,6,HP,0
+Izumi (swimsuit),5,Attack,8,HP,0
+Izumi (swimsuit),6,Attack,11,HP,0
+Izumi (swimsuit),7,Attack,14,HP,0
+Izumi (swimsuit),8,Attack,17,HP,0
+Izumi (swimsuit),9,Attack,20,HP,0
+Izumi (swimsuit),10,Attack,23,HP,0
+Izumi (swimsuit),11,Attack,28,HP,47
+Izumi (swimsuit),12,Attack,33,HP,94
+Izumi (swimsuit),13,Attack,38,HP,141
+Izumi (swimsuit),14,Attack,43,HP,188
+Izumi (swimsuit),15,Attack,48,HP,235
+Izumi (swimsuit),16,Attack,54,HP,291
+Izumi (swimsuit),17,Attack,60,HP,347
+Izumi (swimsuit),18,Attack,66,HP,403
+Izumi (swimsuit),19,Attack,72,HP,459
+Izumi (swimsuit),20,Attack,78,HP,515
+Izumi (swimsuit),21,Attack,79,HP,525
+Izumi (swimsuit),22,Attack,80,HP,535
+Izumi (swimsuit),23,Attack,81,HP,545
+Izumi (swimsuit),24,Attack,82,HP,555
+Izumi (swimsuit),25,Attack,83,HP,565
+Izumi (swimsuit),26,Attack,84,HP,575
+Izumi (swimsuit),27,Attack,85,HP,585
+Izumi (swimsuit),28,Attack,86,HP,595
+Izumi (swimsuit),29,Attack,87,HP,605
+Izumi (swimsuit),30,Attack,88,HP,615
+Izumi (swimsuit),31,Attack,90,HP,630
+Izumi (swimsuit),32,Attack,92,HP,645
+Izumi (swimsuit),33,Attack,94,HP,660
+Izumi (swimsuit),34,Attack,96,HP,675
+Izumi (swimsuit),35,Attack,98,HP,690
+Izumi (swimsuit),36,Attack,100,HP,705
+Izumi (swimsuit),37,Attack,102,HP,720
+Izumi (swimsuit),38,Attack,104,HP,735
+Izumi (swimsuit),39,Attack,106,HP,750
+Izumi (swimsuit),40,Attack,108,HP,765
+Izumi (swimsuit),41,Attack,112,HP,789
+Izumi (swimsuit),42,Attack,116,HP,813
+Izumi (swimsuit),43,Attack,120,HP,837
+Izumi (swimsuit),44,Attack,124,HP,861
+Izumi (swimsuit),45,Attack,128,HP,885
+Izumi (swimsuit),46,Attack,132,HP,909
+Izumi (swimsuit),47,Attack,136,HP,933
+Izumi (swimsuit),48,Attack,140,HP,957
+Izumi (swimsuit),49,Attack,144,HP,981
+Izumi (swimsuit),50,Attack,148,HP,1005
+Izuna,2,Attack,2,HP,0
+Izuna,3,Attack,4,HP,0
+Izuna,4,Attack,6,HP,0
+Izuna,5,Attack,8,HP,0
+Izuna,6,Attack,11,HP,0
+Izuna,7,Attack,14,HP,0
+Izuna,8,Attack,17,HP,0
+Izuna,9,Attack,20,HP,0
+Izuna,10,Attack,23,HP,0
+Izuna,11,Attack,27,HP,88
+Izuna,12,Attack,31,HP,176
+Izuna,13,Attack,35,HP,264
+Izuna,14,Attack,39,HP,352
+Izuna,15,Attack,43,HP,440
+Izuna,16,Attack,48,HP,545
+Izuna,17,Attack,53,HP,650
+Izuna,18,Attack,58,HP,755
+Izuna,19,Attack,63,HP,860
+Izuna,20,Attack,68,HP,965
+Izuna,21,Attack,69,HP,983
+Izuna,22,Attack,70,HP,1001
+Izuna,23,Attack,71,HP,1019
+Izuna,24,Attack,72,HP,1037
+Izuna,25,Attack,73,HP,1055
+Izuna,26,Attack,74,HP,1073
+Izuna,27,Attack,75,HP,1091
+Izuna,28,Attack,76,HP,1109
+Izuna,29,Attack,77,HP,1127
+Izuna,30,Attack,78,HP,1145
+Izuna,31,Attack,80,HP,1173
+Izuna,32,Attack,82,HP,1201
+Izuna,33,Attack,84,HP,1229
+Izuna,34,Attack,86,HP,1257
+Izuna,35,Attack,88,HP,1285
+Izuna,36,Attack,90,HP,1313
+Izuna,37,Attack,92,HP,1341
+Izuna,38,Attack,94,HP,1369
+Izuna,39,Attack,96,HP,1397
+Izuna,40,Attack,98,HP,1425
+Izuna,41,Attack,101,HP,1471
+Izuna,42,Attack,104,HP,1517
+Izuna,43,Attack,107,HP,1563
+Izuna,44,Attack,110,HP,1609
+Izuna,45,Attack,113,HP,1655
+Izuna,46,Attack,116,HP,1701
+Izuna,47,Attack,119,HP,1747
+Izuna,48,Attack,122,HP,1793
+Izuna,49,Attack,125,HP,1839
+Izuna,50,Attack,128,HP,1885
+Junko,2,Attack,3,HP,0
+Junko,3,Attack,6,HP,0
+Junko,4,Attack,9,HP,0
+Junko,5,Attack,12,HP,0
+Junko,6,Attack,16,HP,0
+Junko,7,Attack,20,HP,0
+Junko,8,Attack,24,HP,0
+Junko,9,Attack,28,HP,0
+Junko,10,Attack,32,HP,0
+Junko,11,Attack,37,HP,57
+Junko,12,Attack,42,HP,114
+Junko,13,Attack,47,HP,171
+Junko,14,Attack,52,HP,228
+Junko,15,Attack,57,HP,285
+Junko,16,Attack,64,HP,353
+Junko,17,Attack,71,HP,421
+Junko,18,Attack,78,HP,489
+Junko,19,Attack,85,HP,557
+Junko,20,Attack,92,HP,625
+Junko,21,Attack,94,HP,637
+Junko,22,Attack,96,HP,649
+Junko,23,Attack,98,HP,661
+Junko,24,Attack,100,HP,673
+Junko,25,Attack,102,HP,685
+Junko,26,Attack,104,HP,697
+Junko,27,Attack,106,HP,709
+Junko,28,Attack,108,HP,721
+Junko,29,Attack,110,HP,733
+Junko,30,Attack,112,HP,745
+Junko,31,Attack,115,HP,763
+Junko,32,Attack,118,HP,781
+Junko,33,Attack,121,HP,799
+Junko,34,Attack,124,HP,817
+Junko,35,Attack,127,HP,835
+Junko,36,Attack,130,HP,853
+Junko,37,Attack,133,HP,871
+Junko,38,Attack,136,HP,889
+Junko,39,Attack,139,HP,907
+Junko,40,Attack,142,HP,925
+Junko,41,Attack,146,HP,955
+Junko,42,Attack,150,HP,985
+Junko,43,Attack,154,HP,1015
+Junko,44,Attack,158,HP,1045
+Junko,45,Attack,162,HP,1075
+Junko,46,Attack,166,HP,1105
+Junko,47,Attack,170,HP,1135
+Junko,48,Attack,174,HP,1165
+Junko,49,Attack,178,HP,1195
+Junko,50,Attack,182,HP,1225
+Juri,2,Attack,2,HP,0
+Juri,3,Attack,4,HP,0
+Juri,4,Attack,6,HP,0
+Juri,5,Attack,8,HP,0
+Juri,6,Attack,11,HP,0
+Juri,7,Attack,14,HP,0
+Juri,8,Attack,17,HP,0
+Juri,9,Attack,20,HP,0
+Juri,10,Attack,23,HP,0
+Juri,11,Attack,26,HP,42
+Juri,12,Attack,29,HP,84
+Juri,13,Attack,32,HP,126
+Juri,14,Attack,35,HP,168
+Juri,15,Attack,38,HP,210
+Juri,16,Attack,42,HP,260
+Juri,17,Attack,46,HP,310
+Juri,18,Attack,50,HP,360
+Juri,19,Attack,54,HP,410
+Juri,20,Attack,58,HP,460
+Juri,21,Attack,59,HP,469
+Juri,22,Attack,60,HP,478
+Juri,23,Attack,61,HP,487
+Juri,24,Attack,62,HP,496
+Juri,25,Attack,63,HP,505
+Juri,26,Attack,64,HP,514
+Juri,27,Attack,65,HP,523
+Juri,28,Attack,66,HP,532
+Juri,29,Attack,67,HP,541
+Juri,30,Attack,68,HP,550
+Juri,31,Attack,70,HP,563
+Juri,32,Attack,72,HP,576
+Juri,33,Attack,74,HP,589
+Juri,34,Attack,76,HP,602
+Juri,35,Attack,78,HP,615
+Juri,36,Attack,80,HP,628
+Juri,37,Attack,82,HP,641
+Juri,38,Attack,84,HP,654
+Juri,39,Attack,86,HP,667
+Juri,40,Attack,88,HP,680
+Juri,41,Attack,91,HP,702
+Juri,42,Attack,94,HP,724
+Juri,43,Attack,97,HP,746
+Juri,44,Attack,100,HP,768
+Juri,45,Attack,103,HP,790
+Juri,46,Attack,106,HP,812
+Juri,47,Attack,109,HP,834
+Juri,48,Attack,112,HP,856
+Juri,49,Attack,115,HP,878
+Juri,50,Attack,118,HP,900
+Karin,2,Attack,3,HP,0
+Karin,3,Attack,6,HP,0
+Karin,4,Attack,9,HP,0
+Karin,5,Attack,12,HP,0
+Karin,6,Attack,16,HP,0
+Karin,7,Attack,20,HP,0
+Karin,8,Attack,24,HP,0
+Karin,9,Attack,28,HP,0
+Karin,10,Attack,32,HP,0
+Karin,11,Attack,38,HP,43
+Karin,12,Attack,44,HP,86
+Karin,13,Attack,50,HP,129
+Karin,14,Attack,56,HP,172
+Karin,15,Attack,62,HP,215
+Karin,16,Attack,69,HP,267
+Karin,17,Attack,76,HP,319
+Karin,18,Attack,83,HP,371
+Karin,19,Attack,90,HP,423
+Karin,20,Attack,97,HP,475
+Karin,21,Attack,99,HP,484
+Karin,22,Attack,101,HP,493
+Karin,23,Attack,103,HP,502
+Karin,24,Attack,105,HP,511
+Karin,25,Attack,107,HP,520
+Karin,26,Attack,109,HP,529
+Karin,27,Attack,111,HP,538
+Karin,28,Attack,113,HP,547
+Karin,29,Attack,115,HP,556
+Karin,30,Attack,117,HP,565
+Karin,31,Attack,120,HP,579
+Karin,32,Attack,123,HP,593
+Karin,33,Attack,126,HP,607
+Karin,34,Attack,129,HP,621
+Karin,35,Attack,132,HP,635
+Karin,36,Attack,135,HP,649
+Karin,37,Attack,138,HP,663
+Karin,38,Attack,141,HP,677
+Karin,39,Attack,144,HP,691
+Karin,40,Attack,147,HP,705
+Karin,41,Attack,152,HP,728
+Karin,42,Attack,157,HP,751
+Karin,43,Attack,162,HP,774
+Karin,44,Attack,167,HP,797
+Karin,45,Attack,172,HP,820
+Karin,46,Attack,177,HP,843
+Karin,47,Attack,182,HP,866
+Karin,48,Attack,187,HP,889
+Karin,49,Attack,192,HP,912
+Karin,50,Attack,197,HP,935
+Karin (bunnygirl),2,Attack,3,HP,0
+Karin (bunnygirl),3,Attack,6,HP,0
+Karin (bunnygirl),4,Attack,9,HP,0
+Karin (bunnygirl),5,Attack,12,HP,0
+Karin (bunnygirl),6,Attack,17,HP,0
+Karin (bunnygirl),7,Attack,22,HP,0
+Karin (bunnygirl),8,Attack,27,HP,0
+Karin (bunnygirl),9,Attack,32,HP,0
+Karin (bunnygirl),10,Attack,37,HP,0
+Karin (bunnygirl),11,Attack,44,HP,50
+Karin (bunnygirl),12,Attack,51,HP,100
+Karin (bunnygirl),13,Attack,58,HP,150
+Karin (bunnygirl),14,Attack,65,HP,200
+Karin (bunnygirl),15,Attack,72,HP,250
+Karin (bunnygirl),16,Attack,80,HP,310
+Karin (bunnygirl),17,Attack,88,HP,370
+Karin (bunnygirl),18,Attack,96,HP,430
+Karin (bunnygirl),19,Attack,104,HP,490
+Karin (bunnygirl),20,Attack,112,HP,550
+Karin (bunnygirl),21,Attack,114,HP,560
+Karin (bunnygirl),22,Attack,116,HP,570
+Karin (bunnygirl),23,Attack,118,HP,580
+Karin (bunnygirl),24,Attack,120,HP,590
+Karin (bunnygirl),25,Attack,122,HP,600
+Karin (bunnygirl),26,Attack,124,HP,610
+Karin (bunnygirl),27,Attack,126,HP,620
+Karin (bunnygirl),28,Attack,128,HP,630
+Karin (bunnygirl),29,Attack,130,HP,640
+Karin (bunnygirl),30,Attack,132,HP,650
+Karin (bunnygirl),31,Attack,135,HP,665
+Karin (bunnygirl),32,Attack,138,HP,680
+Karin (bunnygirl),33,Attack,141,HP,695
+Karin (bunnygirl),34,Attack,144,HP,710
+Karin (bunnygirl),35,Attack,147,HP,725
+Karin (bunnygirl),36,Attack,150,HP,740
+Karin (bunnygirl),37,Attack,153,HP,755
+Karin (bunnygirl),38,Attack,156,HP,770
+Karin (bunnygirl),39,Attack,159,HP,785
+Karin (bunnygirl),40,Attack,162,HP,800
+Karin (bunnygirl),41,Attack,168,HP,826
+Karin (bunnygirl),42,Attack,174,HP,852
+Karin (bunnygirl),43,Attack,180,HP,878
+Karin (bunnygirl),44,Attack,186,HP,904
+Karin (bunnygirl),45,Attack,192,HP,930
+Karin (bunnygirl),46,Attack,198,HP,956
+Karin (bunnygirl),47,Attack,204,HP,982
+Karin (bunnygirl),48,Attack,210,HP,1008
+Karin (bunnygirl),49,Attack,216,HP,1034
+Karin (bunnygirl),50,Attack,222,HP,1060
+Kayoko,2,Attack,1,HP,0
+Kayoko,3,Attack,2,HP,0
+Kayoko,4,Attack,3,HP,0
+Kayoko,5,Attack,4,HP,0
+Kayoko,6,Attack,6,HP,0
+Kayoko,7,Attack,8,HP,0
+Kayoko,8,Attack,10,HP,0
+Kayoko,9,Attack,12,HP,0
+Kayoko,10,Attack,14,HP,0
+Kayoko,11,Attack,16,HP,65
+Kayoko,12,Attack,18,HP,130
+Kayoko,13,Attack,20,HP,195
+Kayoko,14,Attack,22,HP,260
+Kayoko,15,Attack,24,HP,325
+Kayoko,16,Attack,27,HP,404
+Kayoko,17,Attack,30,HP,483
+Kayoko,18,Attack,33,HP,562
+Kayoko,19,Attack,36,HP,641
+Kayoko,20,Attack,39,HP,720
+Kayoko,21,Attack,40,HP,734
+Kayoko,22,Attack,41,HP,748
+Kayoko,23,Attack,42,HP,762
+Kayoko,24,Attack,43,HP,776
+Kayoko,25,Attack,44,HP,790
+Kayoko,26,Attack,45,HP,804
+Kayoko,27,Attack,46,HP,818
+Kayoko,28,Attack,47,HP,832
+Kayoko,29,Attack,48,HP,846
+Kayoko,30,Attack,49,HP,860
+Kayoko,31,Attack,50,HP,881
+Kayoko,32,Attack,51,HP,902
+Kayoko,33,Attack,52,HP,923
+Kayoko,34,Attack,53,HP,944
+Kayoko,35,Attack,54,HP,965
+Kayoko,36,Attack,55,HP,986
+Kayoko,37,Attack,56,HP,1007
+Kayoko,38,Attack,57,HP,1028
+Kayoko,39,Attack,58,HP,1049
+Kayoko,40,Attack,59,HP,1070
+Kayoko,41,Attack,61,HP,1104
+Kayoko,42,Attack,63,HP,1138
+Kayoko,43,Attack,65,HP,1172
+Kayoko,44,Attack,67,HP,1206
+Kayoko,45,Attack,69,HP,1240
+Kayoko,46,Attack,71,HP,1274
+Kayoko,47,Attack,73,HP,1308
+Kayoko,48,Attack,75,HP,1342
+Kayoko,49,Attack,77,HP,1376
+Kayoko,50,Attack,79,HP,1410
+Kirino,2,Attack,1,HP,0
+Kirino,3,Attack,2,HP,0
+Kirino,4,Attack,3,HP,0
+Kirino,5,Attack,4,HP,0
+Kirino,6,Attack,6,HP,0
+Kirino,7,Attack,8,HP,0
+Kirino,8,Attack,10,HP,0
+Kirino,9,Attack,12,HP,0
+Kirino,10,Attack,14,HP,0
+Kirino,11,Attack,16,HP,59
+Kirino,12,Attack,18,HP,118
+Kirino,13,Attack,20,HP,177
+Kirino,14,Attack,22,HP,236
+Kirino,15,Attack,24,HP,295
+Kirino,16,Attack,27,HP,366
+Kirino,17,Attack,30,HP,437
+Kirino,18,Attack,33,HP,508
+Kirino,19,Attack,36,HP,579
+Kirino,20,Attack,39,HP,650
+Kirino,21,Attack,40,HP,662
+Kirino,22,Attack,41,HP,674
+Kirino,23,Attack,42,HP,686
+Kirino,24,Attack,43,HP,698
+Kirino,25,Attack,44,HP,710
+Kirino,26,Attack,45,HP,722
+Kirino,27,Attack,46,HP,734
+Kirino,28,Attack,47,HP,746
+Kirino,29,Attack,48,HP,758
+Kirino,30,Attack,49,HP,770
+Kirino,31,Attack,50,HP,789
+Kirino,32,Attack,51,HP,808
+Kirino,33,Attack,52,HP,827
+Kirino,34,Attack,53,HP,846
+Kirino,35,Attack,54,HP,865
+Kirino,36,Attack,55,HP,884
+Kirino,37,Attack,56,HP,903
+Kirino,38,Attack,57,HP,922
+Kirino,39,Attack,58,HP,941
+Kirino,40,Attack,59,HP,960
+Kirino,41,Attack,61,HP,991
+Kirino,42,Attack,63,HP,1022
+Kirino,43,Attack,65,HP,1053
+Kirino,44,Attack,67,HP,1084
+Kirino,45,Attack,69,HP,1115
+Kirino,46,Attack,71,HP,1146
+Kirino,47,Attack,73,HP,1177
+Kirino,48,Attack,75,HP,1208
+Kirino,49,Attack,77,HP,1239
+Kirino,50,Attack,79,HP,1270
+Koharu,2,HealPower,6,HP,0
+Koharu,3,HealPower,12,HP,0
+Koharu,4,HealPower,18,HP,0
+Koharu,5,HealPower,24,HP,0
+Koharu,6,HealPower,34,HP,0
+Koharu,7,HealPower,44,HP,0
+Koharu,8,HealPower,54,HP,0
+Koharu,9,HealPower,64,HP,0
+Koharu,10,HealPower,74,HP,0
+Koharu,11,HealPower,87,HP,53
+Koharu,12,HealPower,100,HP,106
+Koharu,13,HealPower,113,HP,159
+Koharu,14,HealPower,126,HP,212
+Koharu,15,HealPower,139,HP,265
+Koharu,16,HealPower,155,HP,328
+Koharu,17,HealPower,171,HP,391
+Koharu,18,HealPower,187,HP,454
+Koharu,19,HealPower,203,HP,517
+Koharu,20,HealPower,219,HP,580
+Koharu,21,HealPower,223,HP,591
+Koharu,22,HealPower,227,HP,602
+Koharu,23,HealPower,231,HP,613
+Koharu,24,HealPower,235,HP,624
+Koharu,25,HealPower,239,HP,635
+Koharu,26,HealPower,243,HP,646
+Koharu,27,HealPower,247,HP,657
+Koharu,28,HealPower,251,HP,668
+Koharu,29,HealPower,255,HP,679
+Koharu,30,HealPower,259,HP,690
+Koharu,31,HealPower,265,HP,707
+Koharu,32,HealPower,271,HP,724
+Koharu,33,HealPower,277,HP,741
+Koharu,34,HealPower,283,HP,758
+Koharu,35,HealPower,289,HP,775
+Koharu,36,HealPower,295,HP,792
+Koharu,37,HealPower,301,HP,809
+Koharu,38,HealPower,307,HP,826
+Koharu,39,HealPower,313,HP,843
+Koharu,40,HealPower,319,HP,860
+Koharu,41,HealPower,329,HP,888
+Koharu,42,HealPower,339,HP,916
+Koharu,43,HealPower,349,HP,944
+Koharu,44,HealPower,359,HP,972
+Koharu,45,HealPower,369,HP,1000
+Koharu,46,HealPower,379,HP,1028
+Koharu,47,HealPower,389,HP,1056
+Koharu,48,HealPower,399,HP,1084
+Koharu,49,HealPower,409,HP,1112
+Koharu,50,HealPower,419,HP,1140
+Kotama,2,Attack,1,HP,0
+Kotama,3,Attack,2,HP,0
+Kotama,4,Attack,3,HP,0
+Kotama,5,Attack,4,HP,0
+Kotama,6,Attack,6,HP,0
+Kotama,7,Attack,8,HP,0
+Kotama,8,Attack,10,HP,0
+Kotama,9,Attack,12,HP,0
+Kotama,10,Attack,14,HP,0
+Kotama,11,Attack,17,HP,42
+Kotama,12,Attack,20,HP,84
+Kotama,13,Attack,23,HP,126
+Kotama,14,Attack,26,HP,168
+Kotama,15,Attack,29,HP,210
+Kotama,16,Attack,33,HP,261
+Kotama,17,Attack,37,HP,312
+Kotama,18,Attack,41,HP,363
+Kotama,19,Attack,45,HP,414
+Kotama,20,Attack,49,HP,465
+Kotama,21,Attack,50,HP,474
+Kotama,22,Attack,51,HP,483
+Kotama,23,Attack,52,HP,492
+Kotama,24,Attack,53,HP,501
+Kotama,25,Attack,54,HP,510
+Kotama,26,Attack,55,HP,519
+Kotama,27,Attack,56,HP,528
+Kotama,28,Attack,57,HP,537
+Kotama,29,Attack,58,HP,546
+Kotama,30,Attack,59,HP,555
+Kotama,31,Attack,60,HP,568
+Kotama,32,Attack,61,HP,581
+Kotama,33,Attack,62,HP,594
+Kotama,34,Attack,63,HP,607
+Kotama,35,Attack,64,HP,620
+Kotama,36,Attack,65,HP,633
+Kotama,37,Attack,66,HP,646
+Kotama,38,Attack,67,HP,659
+Kotama,39,Attack,68,HP,672
+Kotama,40,Attack,69,HP,685
+Kotama,41,Attack,71,HP,707
+Kotama,42,Attack,73,HP,729
+Kotama,43,Attack,75,HP,751
+Kotama,44,Attack,77,HP,773
+Kotama,45,Attack,79,HP,795
+Kotama,46,Attack,81,HP,817
+Kotama,47,Attack,83,HP,839
+Kotama,48,Attack,85,HP,861
+Kotama,49,Attack,87,HP,883
+Kotama,50,Attack,89,HP,905
+Kotori,2,Attack,2,HP,0
+Kotori,3,Attack,4,HP,0
+Kotori,4,Attack,6,HP,0
+Kotori,5,Attack,8,HP,0
+Kotori,6,Attack,11,HP,0
+Kotori,7,Attack,14,HP,0
+Kotori,8,Attack,17,HP,0
+Kotori,9,Attack,20,HP,0
+Kotori,10,Attack,23,HP,0
+Kotori,11,Attack,27,HP,49
+Kotori,12,Attack,31,HP,98
+Kotori,13,Attack,35,HP,147
+Kotori,14,Attack,39,HP,196
+Kotori,15,Attack,43,HP,245
+Kotori,16,Attack,48,HP,304
+Kotori,17,Attack,53,HP,363
+Kotori,18,Attack,58,HP,422
+Kotori,19,Attack,63,HP,481
+Kotori,20,Attack,68,HP,540
+Kotori,21,Attack,69,HP,550
+Kotori,22,Attack,70,HP,560
+Kotori,23,Attack,71,HP,570
+Kotori,24,Attack,72,HP,580
+Kotori,25,Attack,73,HP,590
+Kotori,26,Attack,74,HP,600
+Kotori,27,Attack,75,HP,610
+Kotori,28,Attack,76,HP,620
+Kotori,29,Attack,77,HP,630
+Kotori,30,Attack,78,HP,640
+Kotori,31,Attack,80,HP,655
+Kotori,32,Attack,82,HP,670
+Kotori,33,Attack,84,HP,685
+Kotori,34,Attack,86,HP,700
+Kotori,35,Attack,88,HP,715
+Kotori,36,Attack,90,HP,730
+Kotori,37,Attack,92,HP,745
+Kotori,38,Attack,94,HP,760
+Kotori,39,Attack,96,HP,775
+Kotori,40,Attack,98,HP,790
+Kotori,41,Attack,101,HP,816
+Kotori,42,Attack,104,HP,842
+Kotori,43,Attack,107,HP,868
+Kotori,44,Attack,110,HP,894
+Kotori,45,Attack,113,HP,920
+Kotori,46,Attack,116,HP,946
+Kotori,47,Attack,119,HP,972
+Kotori,48,Attack,122,HP,998
+Kotori,49,Attack,125,HP,1024
+Kotori,50,Attack,128,HP,1050
+Maki,2,Attack,2,HP,0
+Maki,3,Attack,4,HP,0
+Maki,4,Attack,6,HP,0
+Maki,5,Attack,8,HP,0
+Maki,6,Attack,11,HP,0
+Maki,7,Attack,14,HP,0
+Maki,8,Attack,17,HP,0
+Maki,9,Attack,20,HP,0
+Maki,10,Attack,23,HP,0
+Maki,11,Attack,28,HP,50
+Maki,12,Attack,33,HP,100
+Maki,13,Attack,38,HP,150
+Maki,14,Attack,43,HP,200
+Maki,15,Attack,48,HP,250
+Maki,16,Attack,54,HP,310
+Maki,17,Attack,60,HP,370
+Maki,18,Attack,66,HP,430
+Maki,19,Attack,72,HP,490
+Maki,20,Attack,78,HP,550
+Maki,21,Attack,79,HP,560
+Maki,22,Attack,80,HP,570
+Maki,23,Attack,81,HP,580
+Maki,24,Attack,82,HP,590
+Maki,25,Attack,83,HP,600
+Maki,26,Attack,84,HP,610
+Maki,27,Attack,85,HP,620
+Maki,28,Attack,86,HP,630
+Maki,29,Attack,87,HP,640
+Maki,30,Attack,88,HP,650
+Maki,31,Attack,90,HP,666
+Maki,32,Attack,92,HP,682
+Maki,33,Attack,94,HP,698
+Maki,34,Attack,96,HP,714
+Maki,35,Attack,98,HP,730
+Maki,36,Attack,100,HP,746
+Maki,37,Attack,102,HP,762
+Maki,38,Attack,104,HP,778
+Maki,39,Attack,106,HP,794
+Maki,40,Attack,108,HP,810
+Maki,41,Attack,112,HP,836
+Maki,42,Attack,116,HP,862
+Maki,43,Attack,120,HP,888
+Maki,44,Attack,124,HP,914
+Maki,45,Attack,128,HP,940
+Maki,46,Attack,132,HP,966
+Maki,47,Attack,136,HP,992
+Maki,48,Attack,140,HP,1018
+Maki,49,Attack,144,HP,1044
+Maki,50,Attack,148,HP,1070
+Mari,2,HealPower,5,HP,0
+Mari,3,HealPower,10,HP,0
+Mari,4,HealPower,15,HP,0
+Mari,5,HealPower,20,HP,0
+Mari,6,HealPower,28,HP,0
+Mari,7,HealPower,36,HP,0
+Mari,8,HealPower,44,HP,0
+Mari,9,HealPower,52,HP,0
+Mari,10,HealPower,60,HP,0
+Mari,11,HealPower,70,HP,40
+Mari,12,HealPower,80,HP,80
+Mari,13,HealPower,90,HP,120
+Mari,14,HealPower,100,HP,160
+Mari,15,HealPower,110,HP,200
+Mari,16,HealPower,123,HP,248
+Mari,17,HealPower,136,HP,296
+Mari,18,HealPower,149,HP,344
+Mari,19,HealPower,162,HP,392
+Mari,20,HealPower,175,HP,440
+Mari,21,HealPower,178,HP,448
+Mari,22,HealPower,181,HP,456
+Mari,23,HealPower,184,HP,464
+Mari,24,HealPower,187,HP,472
+Mari,25,HealPower,190,HP,480
+Mari,26,HealPower,193,HP,488
+Mari,27,HealPower,196,HP,496
+Mari,28,HealPower,199,HP,504
+Mari,29,HealPower,202,HP,512
+Mari,30,HealPower,205,HP,520
+Mari,31,HealPower,210,HP,533
+Mari,32,HealPower,215,HP,546
+Mari,33,HealPower,220,HP,559
+Mari,34,HealPower,225,HP,572
+Mari,35,HealPower,230,HP,585
+Mari,36,HealPower,235,HP,598
+Mari,37,HealPower,240,HP,611
+Mari,38,HealPower,245,HP,624
+Mari,39,HealPower,250,HP,637
+Mari,40,HealPower,255,HP,650
+Mari,41,HealPower,263,HP,671
+Mari,42,HealPower,271,HP,692
+Mari,43,HealPower,279,HP,713
+Mari,44,HealPower,287,HP,734
+Mari,45,HealPower,295,HP,755
+Mari,46,HealPower,303,HP,776
+Mari,47,HealPower,311,HP,797
+Mari,48,HealPower,319,HP,818
+Mari,49,HealPower,327,HP,839
+Mari,50,HealPower,335,HP,860
+Mashiro,2,Attack,3,HP,0
+Mashiro,3,Attack,6,HP,0
+Mashiro,4,Attack,9,HP,0
+Mashiro,5,Attack,12,HP,0
+Mashiro,6,Attack,16,HP,0
+Mashiro,7,Attack,20,HP,0
+Mashiro,8,Attack,24,HP,0
+Mashiro,9,Attack,28,HP,0
+Mashiro,10,Attack,32,HP,0
+Mashiro,11,Attack,38,HP,53
+Mashiro,12,Attack,44,HP,106
+Mashiro,13,Attack,50,HP,159
+Mashiro,14,Attack,56,HP,212
+Mashiro,15,Attack,62,HP,265
+Mashiro,16,Attack,69,HP,328
+Mashiro,17,Attack,76,HP,391
+Mashiro,18,Attack,83,HP,454
+Mashiro,19,Attack,90,HP,517
+Mashiro,20,Attack,97,HP,580
+Mashiro,21,Attack,99,HP,591
+Mashiro,22,Attack,101,HP,602
+Mashiro,23,Attack,103,HP,613
+Mashiro,24,Attack,105,HP,624
+Mashiro,25,Attack,107,HP,635
+Mashiro,26,Attack,109,HP,646
+Mashiro,27,Attack,111,HP,657
+Mashiro,28,Attack,113,HP,668
+Mashiro,29,Attack,115,HP,679
+Mashiro,30,Attack,117,HP,690
+Mashiro,31,Attack,120,HP,707
+Mashiro,32,Attack,123,HP,724
+Mashiro,33,Attack,126,HP,741
+Mashiro,34,Attack,129,HP,758
+Mashiro,35,Attack,132,HP,775
+Mashiro,36,Attack,135,HP,792
+Mashiro,37,Attack,138,HP,809
+Mashiro,38,Attack,141,HP,826
+Mashiro,39,Attack,144,HP,843
+Mashiro,40,Attack,147,HP,860
+Mashiro,41,Attack,152,HP,888
+Mashiro,42,Attack,157,HP,916
+Mashiro,43,Attack,162,HP,944
+Mashiro,44,Attack,167,HP,972
+Mashiro,45,Attack,172,HP,1000
+Mashiro,46,Attack,177,HP,1028
+Mashiro,47,Attack,182,HP,1056
+Mashiro,48,Attack,187,HP,1084
+Mashiro,49,Attack,192,HP,1112
+Mashiro,50,Attack,197,HP,1140
+Mashiro (swimsuit),2,Attack,3,HP,0
+Mashiro (swimsuit),3,Attack,6,HP,0
+Mashiro (swimsuit),4,Attack,9,HP,0
+Mashiro (swimsuit),5,Attack,12,HP,0
+Mashiro (swimsuit),6,Attack,17,HP,0
+Mashiro (swimsuit),7,Attack,22,HP,0
+Mashiro (swimsuit),8,Attack,27,HP,0
+Mashiro (swimsuit),9,Attack,32,HP,0
+Mashiro (swimsuit),10,Attack,37,HP,0
+Mashiro (swimsuit),11,Attack,43,HP,37
+Mashiro (swimsuit),12,Attack,49,HP,74
+Mashiro (swimsuit),13,Attack,55,HP,111
+Mashiro (swimsuit),14,Attack,61,HP,148
+Mashiro (swimsuit),15,Attack,67,HP,185
+Mashiro (swimsuit),16,Attack,75,HP,230
+Mashiro (swimsuit),17,Attack,83,HP,275
+Mashiro (swimsuit),18,Attack,91,HP,320
+Mashiro (swimsuit),19,Attack,99,HP,365
+Mashiro (swimsuit),20,Attack,107,HP,410
+Mashiro (swimsuit),21,Attack,109,HP,418
+Mashiro (swimsuit),22,Attack,111,HP,426
+Mashiro (swimsuit),23,Attack,113,HP,434
+Mashiro (swimsuit),24,Attack,115,HP,442
+Mashiro (swimsuit),25,Attack,117,HP,450
+Mashiro (swimsuit),26,Attack,119,HP,458
+Mashiro (swimsuit),27,Attack,121,HP,466
+Mashiro (swimsuit),28,Attack,123,HP,474
+Mashiro (swimsuit),29,Attack,125,HP,482
+Mashiro (swimsuit),30,Attack,127,HP,490
+Mashiro (swimsuit),31,Attack,130,HP,502
+Mashiro (swimsuit),32,Attack,133,HP,514
+Mashiro (swimsuit),33,Attack,136,HP,526
+Mashiro (swimsuit),34,Attack,139,HP,538
+Mashiro (swimsuit),35,Attack,142,HP,550
+Mashiro (swimsuit),36,Attack,145,HP,562
+Mashiro (swimsuit),37,Attack,148,HP,574
+Mashiro (swimsuit),38,Attack,151,HP,586
+Mashiro (swimsuit),39,Attack,154,HP,598
+Mashiro (swimsuit),40,Attack,157,HP,610
+Mashiro (swimsuit),41,Attack,162,HP,630
+Mashiro (swimsuit),42,Attack,167,HP,650
+Mashiro (swimsuit),43,Attack,172,HP,670
+Mashiro (swimsuit),44,Attack,177,HP,690
+Mashiro (swimsuit),45,Attack,182,HP,710
+Mashiro (swimsuit),46,Attack,187,HP,730
+Mashiro (swimsuit),47,Attack,192,HP,750
+Mashiro (swimsuit),48,Attack,197,HP,770
+Mashiro (swimsuit),49,Attack,202,HP,790
+Mashiro (swimsuit),50,Attack,207,HP,810
+Midori,2,Attack,3,HP,0
+Midori,3,Attack,6,HP,0
+Midori,4,Attack,9,HP,0
+Midori,5,Attack,12,HP,0
+Midori,6,Attack,17,HP,0
+Midori,7,Attack,22,HP,0
+Midori,8,Attack,27,HP,0
+Midori,9,Attack,32,HP,0
+Midori,10,Attack,37,HP,0
+Midori,11,Attack,43,HP,45
+Midori,12,Attack,49,HP,90
+Midori,13,Attack,55,HP,135
+Midori,14,Attack,61,HP,180
+Midori,15,Attack,67,HP,225
+Midori,16,Attack,75,HP,280
+Midori,17,Attack,83,HP,335
+Midori,18,Attack,91,HP,390
+Midori,19,Attack,99,HP,445
+Midori,20,Attack,107,HP,500
+Midori,21,Attack,109,HP,510
+Midori,22,Attack,111,HP,520
+Midori,23,Attack,113,HP,530
+Midori,24,Attack,115,HP,540
+Midori,25,Attack,117,HP,550
+Midori,26,Attack,119,HP,560
+Midori,27,Attack,121,HP,570
+Midori,28,Attack,123,HP,580
+Midori,29,Attack,125,HP,590
+Midori,30,Attack,127,HP,600
+Midori,31,Attack,130,HP,615
+Midori,32,Attack,133,HP,630
+Midori,33,Attack,136,HP,645
+Midori,34,Attack,139,HP,660
+Midori,35,Attack,142,HP,675
+Midori,36,Attack,145,HP,690
+Midori,37,Attack,148,HP,705
+Midori,38,Attack,151,HP,720
+Midori,39,Attack,154,HP,735
+Midori,40,Attack,157,HP,750
+Midori,41,Attack,162,HP,775
+Midori,42,Attack,167,HP,800
+Midori,43,Attack,172,HP,825
+Midori,44,Attack,177,HP,850
+Midori,45,Attack,182,HP,875
+Midori,46,Attack,187,HP,900
+Midori,47,Attack,192,HP,925
+Midori,48,Attack,197,HP,950
+Midori,49,Attack,202,HP,975
+Midori,50,Attack,207,HP,1000
+Miku,2,HealPower,5,HP,0
+Miku,3,HealPower,10,HP,0
+Miku,4,HealPower,15,HP,0
+Miku,5,HealPower,20,HP,0
+Miku,6,HealPower,28,HP,0
+Miku,7,HealPower,36,HP,0
+Miku,8,HealPower,44,HP,0
+Miku,9,HealPower,52,HP,0
+Miku,10,HealPower,60,HP,0
+Miku,11,HealPower,71,HP,38
+Miku,12,HealPower,82,HP,76
+Miku,13,HealPower,93,HP,114
+Miku,14,HealPower,104,HP,152
+Miku,15,HealPower,115,HP,190
+Miku,16,HealPower,128,HP,235
+Miku,17,HealPower,141,HP,280
+Miku,18,HealPower,154,HP,325
+Miku,19,HealPower,167,HP,370
+Miku,20,HealPower,180,HP,415
+Miku,21,HealPower,183,HP,423
+Miku,22,HealPower,186,HP,431
+Miku,23,HealPower,189,HP,439
+Miku,24,HealPower,192,HP,447
+Miku,25,HealPower,195,HP,455
+Miku,26,HealPower,198,HP,463
+Miku,27,HealPower,201,HP,471
+Miku,28,HealPower,204,HP,479
+Miku,29,HealPower,207,HP,487
+Miku,30,HealPower,210,HP,495
+Miku,31,HealPower,215,HP,507
+Miku,32,HealPower,220,HP,519
+Miku,33,HealPower,225,HP,531
+Miku,34,HealPower,230,HP,543
+Miku,35,HealPower,235,HP,555
+Miku,36,HealPower,240,HP,567
+Miku,37,HealPower,245,HP,579
+Miku,38,HealPower,250,HP,591
+Miku,39,HealPower,255,HP,603
+Miku,40,HealPower,260,HP,615
+Miku,41,HealPower,269,HP,635
+Miku,42,HealPower,278,HP,655
+Miku,43,HealPower,287,HP,675
+Miku,44,HealPower,296,HP,695
+Miku,45,HealPower,305,HP,715
+Miku,46,HealPower,314,HP,735
+Miku,47,HealPower,323,HP,755
+Miku,48,HealPower,332,HP,775
+Miku,49,HealPower,341,HP,795
+Miku,50,HealPower,350,HP,815
+Momoi,2,Attack,2,HP,0
+Momoi,3,Attack,4,HP,0
+Momoi,4,Attack,6,HP,0
+Momoi,5,Attack,8,HP,0
+Momoi,6,Attack,11,HP,0
+Momoi,7,Attack,14,HP,0
+Momoi,8,Attack,17,HP,0
+Momoi,9,Attack,20,HP,0
+Momoi,10,Attack,23,HP,0
+Momoi,11,Attack,27,HP,60
+Momoi,12,Attack,31,HP,120
+Momoi,13,Attack,35,HP,180
+Momoi,14,Attack,39,HP,240
+Momoi,15,Attack,43,HP,300
+Momoi,16,Attack,48,HP,372
+Momoi,17,Attack,53,HP,444
+Momoi,18,Attack,58,HP,516
+Momoi,19,Attack,63,HP,588
+Momoi,20,Attack,68,HP,660
+Momoi,21,Attack,69,HP,672
+Momoi,22,Attack,70,HP,684
+Momoi,23,Attack,71,HP,696
+Momoi,24,Attack,72,HP,708
+Momoi,25,Attack,73,HP,720
+Momoi,26,Attack,74,HP,732
+Momoi,27,Attack,75,HP,744
+Momoi,28,Attack,76,HP,756
+Momoi,29,Attack,77,HP,768
+Momoi,30,Attack,78,HP,780
+Momoi,31,Attack,80,HP,798
+Momoi,32,Attack,82,HP,816
+Momoi,33,Attack,84,HP,834
+Momoi,34,Attack,86,HP,852
+Momoi,35,Attack,88,HP,870
+Momoi,36,Attack,90,HP,888
+Momoi,37,Attack,92,HP,906
+Momoi,38,Attack,94,HP,924
+Momoi,39,Attack,96,HP,942
+Momoi,40,Attack,98,HP,960
+Momoi,41,Attack,101,HP,990
+Momoi,42,Attack,104,HP,1020
+Momoi,43,Attack,107,HP,1050
+Momoi,44,Attack,110,HP,1080
+Momoi,45,Attack,113,HP,1110
+Momoi,46,Attack,116,HP,1140
+Momoi,47,Attack,119,HP,1170
+Momoi,48,Attack,122,HP,1200
+Momoi,49,Attack,125,HP,1230
+Momoi,50,Attack,128,HP,1260
+Mutsuki,2,Attack,2,HP,0
+Mutsuki,3,Attack,4,HP,0
+Mutsuki,4,Attack,6,HP,0
+Mutsuki,5,Attack,8,HP,0
+Mutsuki,6,Attack,11,HP,0
+Mutsuki,7,Attack,14,HP,0
+Mutsuki,8,Attack,17,HP,0
+Mutsuki,9,Attack,20,HP,0
+Mutsuki,10,Attack,23,HP,0
+Mutsuki,11,Attack,27,HP,49
+Mutsuki,12,Attack,31,HP,98
+Mutsuki,13,Attack,35,HP,147
+Mutsuki,14,Attack,39,HP,196
+Mutsuki,15,Attack,43,HP,245
+Mutsuki,16,Attack,48,HP,304
+Mutsuki,17,Attack,53,HP,363
+Mutsuki,18,Attack,58,HP,422
+Mutsuki,19,Attack,63,HP,481
+Mutsuki,20,Attack,68,HP,540
+Mutsuki,21,Attack,69,HP,550
+Mutsuki,22,Attack,70,HP,560
+Mutsuki,23,Attack,71,HP,570
+Mutsuki,24,Attack,72,HP,580
+Mutsuki,25,Attack,73,HP,590
+Mutsuki,26,Attack,74,HP,600
+Mutsuki,27,Attack,75,HP,610
+Mutsuki,28,Attack,76,HP,620
+Mutsuki,29,Attack,77,HP,630
+Mutsuki,30,Attack,78,HP,640
+Mutsuki,31,Attack,80,HP,655
+Mutsuki,32,Attack,82,HP,670
+Mutsuki,33,Attack,84,HP,685
+Mutsuki,34,Attack,86,HP,700
+Mutsuki,35,Attack,88,HP,715
+Mutsuki,36,Attack,90,HP,730
+Mutsuki,37,Attack,92,HP,745
+Mutsuki,38,Attack,94,HP,760
+Mutsuki,39,Attack,96,HP,775
+Mutsuki,40,Attack,98,HP,790
+Mutsuki,41,Attack,101,HP,816
+Mutsuki,42,Attack,104,HP,842
+Mutsuki,43,Attack,107,HP,868
+Mutsuki,44,Attack,110,HP,894
+Mutsuki,45,Attack,113,HP,920
+Mutsuki,46,Attack,116,HP,946
+Mutsuki,47,Attack,119,HP,972
+Mutsuki,48,Attack,122,HP,998
+Mutsuki,49,Attack,125,HP,1024
+Mutsuki,50,Attack,128,HP,1050
+Mutsuki (newyear),2,Attack,3,HP,0
+Mutsuki (newyear),3,Attack,6,HP,0
+Mutsuki (newyear),4,Attack,9,HP,0
+Mutsuki (newyear),5,Attack,12,HP,0
+Mutsuki (newyear),6,Attack,16,HP,0
+Mutsuki (newyear),7,Attack,20,HP,0
+Mutsuki (newyear),8,Attack,24,HP,0
+Mutsuki (newyear),9,Attack,28,HP,0
+Mutsuki (newyear),10,Attack,32,HP,0
+Mutsuki (newyear),11,Attack,38,HP,49
+Mutsuki (newyear),12,Attack,44,HP,98
+Mutsuki (newyear),13,Attack,50,HP,147
+Mutsuki (newyear),14,Attack,56,HP,196
+Mutsuki (newyear),15,Attack,62,HP,245
+Mutsuki (newyear),16,Attack,69,HP,304
+Mutsuki (newyear),17,Attack,76,HP,363
+Mutsuki (newyear),18,Attack,83,HP,422
+Mutsuki (newyear),19,Attack,90,HP,481
+Mutsuki (newyear),20,Attack,97,HP,540
+Mutsuki (newyear),21,Attack,99,HP,550
+Mutsuki (newyear),22,Attack,101,HP,560
+Mutsuki (newyear),23,Attack,103,HP,570
+Mutsuki (newyear),24,Attack,105,HP,580
+Mutsuki (newyear),25,Attack,107,HP,590
+Mutsuki (newyear),26,Attack,109,HP,600
+Mutsuki (newyear),27,Attack,111,HP,610
+Mutsuki (newyear),28,Attack,113,HP,620
+Mutsuki (newyear),29,Attack,115,HP,630
+Mutsuki (newyear),30,Attack,117,HP,640
+Mutsuki (newyear),31,Attack,120,HP,655
+Mutsuki (newyear),32,Attack,123,HP,670
+Mutsuki (newyear),33,Attack,126,HP,685
+Mutsuki (newyear),34,Attack,129,HP,700
+Mutsuki (newyear),35,Attack,132,HP,715
+Mutsuki (newyear),36,Attack,135,HP,730
+Mutsuki (newyear),37,Attack,138,HP,745
+Mutsuki (newyear),38,Attack,141,HP,760
+Mutsuki (newyear),39,Attack,144,HP,775
+Mutsuki (newyear),40,Attack,147,HP,790
+Mutsuki (newyear),41,Attack,152,HP,816
+Mutsuki (newyear),42,Attack,157,HP,842
+Mutsuki (newyear),43,Attack,162,HP,868
+Mutsuki (newyear),44,Attack,167,HP,894
+Mutsuki (newyear),45,Attack,172,HP,920
+Mutsuki (newyear),46,Attack,177,HP,946
+Mutsuki (newyear),47,Attack,182,HP,972
+Mutsuki (newyear),48,Attack,187,HP,998
+Mutsuki (newyear),49,Attack,192,HP,1024
+Mutsuki (newyear),50,Attack,197,HP,1050
+Natsu,2,HP,42,Attack,0
+Natsu,3,HP,84,Attack,0
+Natsu,4,HP,126,Attack,0
+Natsu,5,HP,168,Attack,0
+Natsu,6,HP,231,Attack,0
+Natsu,7,HP,294,Attack,0
+Natsu,8,HP,357,Attack,0
+Natsu,9,HP,420,Attack,0
+Natsu,10,HP,483,Attack,0
+Natsu,11,HP,568,Attack,3
+Natsu,12,HP,653,Attack,6
+Natsu,13,HP,738,Attack,9
+Natsu,14,HP,823,Attack,12
+Natsu,15,HP,908,Attack,15
+Natsu,16,HP,1014,Attack,19
+Natsu,17,HP,1120,Attack,23
+Natsu,18,HP,1226,Attack,27
+Natsu,19,HP,1332,Attack,31
+Natsu,20,HP,1438,Attack,35
+Natsu,21,HP,1465,Attack,36
+Natsu,22,HP,1492,Attack,37
+Natsu,23,HP,1519,Attack,38
+Natsu,24,HP,1546,Attack,39
+Natsu,25,HP,1573,Attack,40
+Natsu,26,HP,1600,Attack,41
+Natsu,27,HP,1627,Attack,42
+Natsu,28,HP,1654,Attack,43
+Natsu,29,HP,1681,Attack,44
+Natsu,30,HP,1708,Attack,45
+Natsu,31,HP,1749,Attack,46
+Natsu,32,HP,1790,Attack,47
+Natsu,33,HP,1831,Attack,48
+Natsu,34,HP,1872,Attack,49
+Natsu,35,HP,1913,Attack,50
+Natsu,36,HP,1954,Attack,51
+Natsu,37,HP,1995,Attack,52
+Natsu,38,HP,2036,Attack,53
+Natsu,39,HP,2077,Attack,54
+Natsu,40,HP,2118,Attack,55
+Natsu,41,HP,2186,Attack,57
+Natsu,42,HP,2254,Attack,59
+Natsu,43,HP,2322,Attack,61
+Natsu,44,HP,2390,Attack,63
+Natsu,45,HP,2458,Attack,65
+Natsu,46,HP,2526,Attack,67
+Natsu,47,HP,2594,Attack,69
+Natsu,48,HP,2662,Attack,71
+Natsu,49,HP,2730,Attack,73
+Natsu,50,HP,2798,Attack,75
+Neru,2,Attack,2,HP,0
+Neru,3,Attack,4,HP,0
+Neru,4,Attack,6,HP,0
+Neru,5,Attack,8,HP,0
+Neru,6,Attack,11,HP,0
+Neru,7,Attack,14,HP,0
+Neru,8,Attack,17,HP,0
+Neru,9,Attack,20,HP,0
+Neru,10,Attack,23,HP,0
+Neru,11,Attack,27,HP,78
+Neru,12,Attack,31,HP,156
+Neru,13,Attack,35,HP,234
+Neru,14,Attack,39,HP,312
+Neru,15,Attack,43,HP,390
+Neru,16,Attack,48,HP,483
+Neru,17,Attack,53,HP,576
+Neru,18,Attack,58,HP,669
+Neru,19,Attack,63,HP,762
+Neru,20,Attack,68,HP,855
+Neru,21,Attack,69,HP,871
+Neru,22,Attack,70,HP,887
+Neru,23,Attack,71,HP,903
+Neru,24,Attack,72,HP,919
+Neru,25,Attack,73,HP,935
+Neru,26,Attack,74,HP,951
+Neru,27,Attack,75,HP,967
+Neru,28,Attack,76,HP,983
+Neru,29,Attack,77,HP,999
+Neru,30,Attack,78,HP,1015
+Neru,31,Attack,80,HP,1039
+Neru,32,Attack,82,HP,1063
+Neru,33,Attack,84,HP,1087
+Neru,34,Attack,86,HP,1111
+Neru,35,Attack,88,HP,1135
+Neru,36,Attack,90,HP,1159
+Neru,37,Attack,92,HP,1183
+Neru,38,Attack,94,HP,1207
+Neru,39,Attack,96,HP,1231
+Neru,40,Attack,98,HP,1255
+Neru,41,Attack,101,HP,1296
+Neru,42,Attack,104,HP,1337
+Neru,43,Attack,107,HP,1378
+Neru,44,Attack,110,HP,1419
+Neru,45,Attack,113,HP,1460
+Neru,46,Attack,116,HP,1501
+Neru,47,Attack,119,HP,1542
+Neru,48,Attack,122,HP,1583
+Neru,49,Attack,125,HP,1624
+Neru,50,Attack,128,HP,1665
+Neru (bunnygirl),2,Attack,2,HP,0
+Neru (bunnygirl),3,Attack,4,HP,0
+Neru (bunnygirl),4,Attack,6,HP,0
+Neru (bunnygirl),5,Attack,8,HP,0
+Neru (bunnygirl),6,Attack,12,HP,0
+Neru (bunnygirl),7,Attack,16,HP,0
+Neru (bunnygirl),8,Attack,20,HP,0
+Neru (bunnygirl),9,Attack,24,HP,0
+Neru (bunnygirl),10,Attack,28,HP,0
+Neru (bunnygirl),11,Attack,33,HP,78
+Neru (bunnygirl),12,Attack,38,HP,156
+Neru (bunnygirl),13,Attack,43,HP,234
+Neru (bunnygirl),14,Attack,48,HP,312
+Neru (bunnygirl),15,Attack,53,HP,390
+Neru (bunnygirl),16,Attack,59,HP,483
+Neru (bunnygirl),17,Attack,65,HP,576
+Neru (bunnygirl),18,Attack,71,HP,669
+Neru (bunnygirl),19,Attack,77,HP,762
+Neru (bunnygirl),20,Attack,83,HP,855
+Neru (bunnygirl),21,Attack,84,HP,875
+Neru (bunnygirl),22,Attack,85,HP,895
+Neru (bunnygirl),23,Attack,86,HP,915
+Neru (bunnygirl),24,Attack,87,HP,935
+Neru (bunnygirl),25,Attack,88,HP,955
+Neru (bunnygirl),26,Attack,89,HP,975
+Neru (bunnygirl),27,Attack,90,HP,995
+Neru (bunnygirl),28,Attack,91,HP,1015
+Neru (bunnygirl),29,Attack,92,HP,1035
+Neru (bunnygirl),30,Attack,93,HP,1055
+Neru (bunnygirl),31,Attack,95,HP,1084
+Neru (bunnygirl),32,Attack,97,HP,1113
+Neru (bunnygirl),33,Attack,99,HP,1142
+Neru (bunnygirl),34,Attack,101,HP,1171
+Neru (bunnygirl),35,Attack,103,HP,1200
+Neru (bunnygirl),36,Attack,105,HP,1229
+Neru (bunnygirl),37,Attack,107,HP,1258
+Neru (bunnygirl),38,Attack,109,HP,1287
+Neru (bunnygirl),39,Attack,111,HP,1316
+Neru (bunnygirl),40,Attack,113,HP,1345
+Neru (bunnygirl),41,Attack,116,HP,1394
+Neru (bunnygirl),42,Attack,119,HP,1443
+Neru (bunnygirl),43,Attack,122,HP,1492
+Neru (bunnygirl),44,Attack,125,HP,1541
+Neru (bunnygirl),45,Attack,128,HP,1590
+Neru (bunnygirl),46,Attack,131,HP,1639
+Neru (bunnygirl),47,Attack,134,HP,1688
+Neru (bunnygirl),48,Attack,137,HP,1737
+Neru (bunnygirl),49,Attack,140,HP,1786
+Neru (bunnygirl),50,Attack,143,HP,1835
+Nodoka,2,Attack,2,HP,0
+Nodoka,3,Attack,4,HP,0
+Nodoka,4,Attack,6,HP,0
+Nodoka,5,Attack,8,HP,0
+Nodoka,6,Attack,10,HP,0
+Nodoka,7,Attack,12,HP,0
+Nodoka,8,Attack,14,HP,0
+Nodoka,9,Attack,16,HP,0
+Nodoka,10,Attack,18,HP,0
+Nodoka,11,Attack,21,HP,43
+Nodoka,12,Attack,24,HP,86
+Nodoka,13,Attack,27,HP,129
+Nodoka,14,Attack,30,HP,172
+Nodoka,15,Attack,33,HP,215
+Nodoka,16,Attack,37,HP,266
+Nodoka,17,Attack,41,HP,317
+Nodoka,18,Attack,45,HP,368
+Nodoka,19,Attack,49,HP,419
+Nodoka,20,Attack,53,HP,470
+Nodoka,21,Attack,54,HP,479
+Nodoka,22,Attack,55,HP,488
+Nodoka,23,Attack,56,HP,497
+Nodoka,24,Attack,57,HP,506
+Nodoka,25,Attack,58,HP,515
+Nodoka,26,Attack,59,HP,524
+Nodoka,27,Attack,60,HP,533
+Nodoka,28,Attack,61,HP,542
+Nodoka,29,Attack,62,HP,551
+Nodoka,30,Attack,63,HP,560
+Nodoka,31,Attack,65,HP,573
+Nodoka,32,Attack,67,HP,586
+Nodoka,33,Attack,69,HP,599
+Nodoka,34,Attack,71,HP,612
+Nodoka,35,Attack,73,HP,625
+Nodoka,36,Attack,75,HP,638
+Nodoka,37,Attack,77,HP,651
+Nodoka,38,Attack,79,HP,664
+Nodoka,39,Attack,81,HP,677
+Nodoka,40,Attack,83,HP,690
+Nodoka,41,Attack,86,HP,712
+Nodoka,42,Attack,89,HP,734
+Nodoka,43,Attack,92,HP,756
+Nodoka,44,Attack,95,HP,778
+Nodoka,45,Attack,98,HP,800
+Nodoka,46,Attack,101,HP,822
+Nodoka,47,Attack,104,HP,844
+Nodoka,48,Attack,107,HP,866
+Nodoka,49,Attack,110,HP,888
+Nodoka,50,Attack,113,HP,910
+Nodoka (onsen),2,HealPower,8,HP,0
+Nodoka (onsen),3,HealPower,16,HP,0
+Nodoka (onsen),4,HealPower,24,HP,0
+Nodoka (onsen),5,HealPower,32,HP,0
+Nodoka (onsen),6,HealPower,44,HP,0
+Nodoka (onsen),7,HealPower,56,HP,0
+Nodoka (onsen),8,HealPower,68,HP,0
+Nodoka (onsen),9,HealPower,80,HP,0
+Nodoka (onsen),10,HealPower,92,HP,0
+Nodoka (onsen),11,HealPower,108,HP,43
+Nodoka (onsen),12,HealPower,124,HP,86
+Nodoka (onsen),13,HealPower,140,HP,129
+Nodoka (onsen),14,HealPower,156,HP,172
+Nodoka (onsen),15,HealPower,172,HP,215
+Nodoka (onsen),16,HealPower,192,HP,266
+Nodoka (onsen),17,HealPower,212,HP,317
+Nodoka (onsen),18,HealPower,232,HP,368
+Nodoka (onsen),19,HealPower,252,HP,419
+Nodoka (onsen),20,HealPower,272,HP,470
+Nodoka (onsen),21,HealPower,277,HP,479
+Nodoka (onsen),22,HealPower,282,HP,488
+Nodoka (onsen),23,HealPower,287,HP,497
+Nodoka (onsen),24,HealPower,292,HP,506
+Nodoka (onsen),25,HealPower,297,HP,515
+Nodoka (onsen),26,HealPower,302,HP,524
+Nodoka (onsen),27,HealPower,307,HP,533
+Nodoka (onsen),28,HealPower,312,HP,542
+Nodoka (onsen),29,HealPower,317,HP,551
+Nodoka (onsen),30,HealPower,322,HP,560
+Nodoka (onsen),31,HealPower,330,HP,573
+Nodoka (onsen),32,HealPower,338,HP,586
+Nodoka (onsen),33,HealPower,346,HP,599
+Nodoka (onsen),34,HealPower,354,HP,612
+Nodoka (onsen),35,HealPower,362,HP,625
+Nodoka (onsen),36,HealPower,370,HP,638
+Nodoka (onsen),37,HealPower,378,HP,651
+Nodoka (onsen),38,HealPower,386,HP,664
+Nodoka (onsen),39,HealPower,394,HP,677
+Nodoka (onsen),40,HealPower,402,HP,690
+Nodoka (onsen),41,HealPower,415,HP,712
+Nodoka (onsen),42,HealPower,428,HP,734
+Nodoka (onsen),43,HealPower,441,HP,756
+Nodoka (onsen),44,HealPower,454,HP,778
+Nodoka (onsen),45,HealPower,467,HP,800
+Nodoka (onsen),46,HealPower,480,HP,822
+Nodoka (onsen),47,HealPower,493,HP,844
+Nodoka (onsen),48,HealPower,506,HP,866
+Nodoka (onsen),49,HealPower,519,HP,888
+Nodoka (onsen),50,HealPower,532,HP,910
+Nonomi,2,Attack,3,HP,0
+Nonomi,3,Attack,6,HP,0
+Nonomi,4,Attack,9,HP,0
+Nonomi,5,Attack,12,HP,0
+Nonomi,6,Attack,16,HP,0
+Nonomi,7,Attack,20,HP,0
+Nonomi,8,Attack,24,HP,0
+Nonomi,9,Attack,28,HP,0
+Nonomi,10,Attack,32,HP,0
+Nonomi,11,Attack,37,HP,49
+Nonomi,12,Attack,42,HP,98
+Nonomi,13,Attack,47,HP,147
+Nonomi,14,Attack,52,HP,196
+Nonomi,15,Attack,57,HP,245
+Nonomi,16,Attack,64,HP,304
+Nonomi,17,Attack,71,HP,363
+Nonomi,18,Attack,78,HP,422
+Nonomi,19,Attack,85,HP,481
+Nonomi,20,Attack,92,HP,540
+Nonomi,21,Attack,94,HP,550
+Nonomi,22,Attack,96,HP,560
+Nonomi,23,Attack,98,HP,570
+Nonomi,24,Attack,100,HP,580
+Nonomi,25,Attack,102,HP,590
+Nonomi,26,Attack,104,HP,600
+Nonomi,27,Attack,106,HP,610
+Nonomi,28,Attack,108,HP,620
+Nonomi,29,Attack,110,HP,630
+Nonomi,30,Attack,112,HP,640
+Nonomi,31,Attack,115,HP,655
+Nonomi,32,Attack,118,HP,670
+Nonomi,33,Attack,121,HP,685
+Nonomi,34,Attack,124,HP,700
+Nonomi,35,Attack,127,HP,715
+Nonomi,36,Attack,130,HP,730
+Nonomi,37,Attack,133,HP,745
+Nonomi,38,Attack,136,HP,760
+Nonomi,39,Attack,139,HP,775
+Nonomi,40,Attack,142,HP,790
+Nonomi,41,Attack,146,HP,816
+Nonomi,42,Attack,150,HP,842
+Nonomi,43,Attack,154,HP,868
+Nonomi,44,Attack,158,HP,894
+Nonomi,45,Attack,162,HP,920
+Nonomi,46,Attack,166,HP,946
+Nonomi,47,Attack,170,HP,972
+Nonomi,48,Attack,174,HP,998
+Nonomi,49,Attack,178,HP,1024
+Nonomi,50,Attack,182,HP,1050
+Pina,2,Attack,3,HP,0
+Pina,3,Attack,6,HP,0
+Pina,4,Attack,9,HP,0
+Pina,5,Attack,12,HP,0
+Pina,6,Attack,16,HP,0
+Pina,7,Attack,20,HP,0
+Pina,8,Attack,24,HP,0
+Pina,9,Attack,28,HP,0
+Pina,10,Attack,32,HP,0
+Pina,11,Attack,37,HP,50
+Pina,12,Attack,42,HP,100
+Pina,13,Attack,47,HP,150
+Pina,14,Attack,52,HP,200
+Pina,15,Attack,57,HP,250
+Pina,16,Attack,63,HP,310
+Pina,17,Attack,69,HP,370
+Pina,18,Attack,75,HP,430
+Pina,19,Attack,81,HP,490
+Pina,20,Attack,87,HP,550
+Pina,21,Attack,89,HP,560
+Pina,22,Attack,91,HP,570
+Pina,23,Attack,93,HP,580
+Pina,24,Attack,95,HP,590
+Pina,25,Attack,97,HP,600
+Pina,26,Attack,99,HP,610
+Pina,27,Attack,101,HP,620
+Pina,28,Attack,103,HP,630
+Pina,29,Attack,105,HP,640
+Pina,30,Attack,107,HP,650
+Pina,31,Attack,109,HP,666
+Pina,32,Attack,111,HP,682
+Pina,33,Attack,113,HP,698
+Pina,34,Attack,115,HP,714
+Pina,35,Attack,117,HP,730
+Pina,36,Attack,119,HP,746
+Pina,37,Attack,121,HP,762
+Pina,38,Attack,123,HP,778
+Pina,39,Attack,125,HP,794
+Pina,40,Attack,127,HP,810
+Pina,41,Attack,131,HP,836
+Pina,42,Attack,135,HP,862
+Pina,43,Attack,139,HP,888
+Pina,44,Attack,143,HP,914
+Pina,45,Attack,147,HP,940
+Pina,46,Attack,151,HP,966
+Pina,47,Attack,155,HP,992
+Pina,48,Attack,159,HP,1018
+Pina,49,Attack,163,HP,1044
+Pina,50,Attack,167,HP,1070
+Saya,2,Attack,2,HP,0
+Saya,3,Attack,4,HP,0
+Saya,4,Attack,6,HP,0
+Saya,5,Attack,8,HP,0
+Saya,6,Attack,11,HP,0
+Saya,7,Attack,14,HP,0
+Saya,8,Attack,17,HP,0
+Saya,9,Attack,20,HP,0
+Saya,10,Attack,23,HP,0
+Saya,11,Attack,27,HP,43
+Saya,12,Attack,31,HP,86
+Saya,13,Attack,35,HP,129
+Saya,14,Attack,39,HP,172
+Saya,15,Attack,43,HP,215
+Saya,16,Attack,48,HP,266
+Saya,17,Attack,53,HP,317
+Saya,18,Attack,58,HP,368
+Saya,19,Attack,63,HP,419
+Saya,20,Attack,68,HP,470
+Saya,21,Attack,69,HP,479
+Saya,22,Attack,70,HP,488
+Saya,23,Attack,71,HP,497
+Saya,24,Attack,72,HP,506
+Saya,25,Attack,73,HP,515
+Saya,26,Attack,74,HP,524
+Saya,27,Attack,75,HP,533
+Saya,28,Attack,76,HP,542
+Saya,29,Attack,77,HP,551
+Saya,30,Attack,78,HP,560
+Saya,31,Attack,80,HP,573
+Saya,32,Attack,82,HP,586
+Saya,33,Attack,84,HP,599
+Saya,34,Attack,86,HP,612
+Saya,35,Attack,88,HP,625
+Saya,36,Attack,90,HP,638
+Saya,37,Attack,92,HP,651
+Saya,38,Attack,94,HP,664
+Saya,39,Attack,96,HP,677
+Saya,40,Attack,98,HP,690
+Saya,41,Attack,101,HP,712
+Saya,42,Attack,104,HP,734
+Saya,43,Attack,107,HP,756
+Saya,44,Attack,110,HP,778
+Saya,45,Attack,113,HP,800
+Saya,46,Attack,116,HP,822
+Saya,47,Attack,119,HP,844
+Saya,48,Attack,122,HP,866
+Saya,49,Attack,125,HP,888
+Saya,50,Attack,128,HP,910
+Saya (casual),2,Attack,2,HP,0
+Saya (casual),3,Attack,4,HP,0
+Saya (casual),4,Attack,6,HP,0
+Saya (casual),5,Attack,8,HP,0
+Saya (casual),6,Attack,11,HP,0
+Saya (casual),7,Attack,14,HP,0
+Saya (casual),8,Attack,17,HP,0
+Saya (casual),9,Attack,20,HP,0
+Saya (casual),10,Attack,23,HP,0
+Saya (casual),11,Attack,27,HP,40
+Saya (casual),12,Attack,31,HP,80
+Saya (casual),13,Attack,35,HP,120
+Saya (casual),14,Attack,39,HP,160
+Saya (casual),15,Attack,43,HP,200
+Saya (casual),16,Attack,48,HP,248
+Saya (casual),17,Attack,53,HP,296
+Saya (casual),18,Attack,58,HP,344
+Saya (casual),19,Attack,63,HP,392
+Saya (casual),20,Attack,68,HP,440
+Saya (casual),21,Attack,69,HP,448
+Saya (casual),22,Attack,70,HP,456
+Saya (casual),23,Attack,71,HP,464
+Saya (casual),24,Attack,72,HP,472
+Saya (casual),25,Attack,73,HP,480
+Saya (casual),26,Attack,74,HP,488
+Saya (casual),27,Attack,75,HP,496
+Saya (casual),28,Attack,76,HP,504
+Saya (casual),29,Attack,77,HP,512
+Saya (casual),30,Attack,78,HP,520
+Saya (casual),31,Attack,80,HP,533
+Saya (casual),32,Attack,82,HP,546
+Saya (casual),33,Attack,84,HP,559
+Saya (casual),34,Attack,86,HP,572
+Saya (casual),35,Attack,88,HP,585
+Saya (casual),36,Attack,90,HP,598
+Saya (casual),37,Attack,92,HP,611
+Saya (casual),38,Attack,94,HP,624
+Saya (casual),39,Attack,96,HP,637
+Saya (casual),40,Attack,98,HP,650
+Saya (casual),41,Attack,101,HP,671
+Saya (casual),42,Attack,104,HP,692
+Saya (casual),43,Attack,107,HP,713
+Saya (casual),44,Attack,110,HP,734
+Saya (casual),45,Attack,113,HP,755
+Saya (casual),46,Attack,116,HP,776
+Saya (casual),47,Attack,119,HP,797
+Saya (casual),48,Attack,122,HP,818
+Saya (casual),49,Attack,125,HP,839
+Saya (casual),50,Attack,128,HP,860
+Sena,2,HealPower,5,Attack,0
+Sena,3,HealPower,10,Attack,0
+Sena,4,HealPower,15,Attack,0
+Sena,5,HealPower,20,Attack,0
+Sena,6,HealPower,28,Attack,0
+Sena,7,HealPower,36,Attack,0
+Sena,8,HealPower,44,Attack,0
+Sena,9,HealPower,52,Attack,0
+Sena,10,HealPower,60,Attack,0
+Sena,11,HealPower,70,Attack,4
+Sena,12,HealPower,80,Attack,8
+Sena,13,HealPower,90,Attack,12
+Sena,14,HealPower,100,Attack,16
+Sena,15,HealPower,110,Attack,20
+Sena,16,HealPower,123,Attack,25
+Sena,17,HealPower,136,Attack,30
+Sena,18,HealPower,149,Attack,35
+Sena,19,HealPower,162,Attack,40
+Sena,20,HealPower,175,Attack,45
+Sena,21,HealPower,178,Attack,46
+Sena,22,HealPower,181,Attack,47
+Sena,23,HealPower,184,Attack,48
+Sena,24,HealPower,187,Attack,49
+Sena,25,HealPower,190,Attack,50
+Sena,26,HealPower,193,Attack,51
+Sena,27,HealPower,196,Attack,52
+Sena,28,HealPower,199,Attack,53
+Sena,29,HealPower,202,Attack,54
+Sena,30,HealPower,205,Attack,55
+Sena,31,HealPower,210,Attack,56
+Sena,32,HealPower,215,Attack,57
+Sena,33,HealPower,220,Attack,58
+Sena,34,HealPower,225,Attack,59
+Sena,35,HealPower,230,Attack,60
+Sena,36,HealPower,235,Attack,61
+Sena,37,HealPower,240,Attack,62
+Sena,38,HealPower,245,Attack,63
+Sena,39,HealPower,250,Attack,64
+Sena,40,HealPower,255,Attack,65
+Sena,41,HealPower,263,Attack,67
+Sena,42,HealPower,271,Attack,69
+Sena,43,HealPower,279,Attack,71
+Sena,44,HealPower,287,Attack,73
+Sena,45,HealPower,295,Attack,75
+Sena,46,HealPower,303,Attack,77
+Sena,47,HealPower,311,Attack,79
+Sena,48,HealPower,319,Attack,81
+Sena,49,HealPower,327,Attack,83
+Sena,50,HealPower,335,Attack,85
+Serika,2,Attack,3,HP,0
+Serika,3,Attack,6,HP,0
+Serika,4,Attack,9,HP,0
+Serika,5,Attack,12,HP,0
+Serika,6,Attack,16,HP,0
+Serika,7,Attack,20,HP,0
+Serika,8,Attack,24,HP,0
+Serika,9,Attack,28,HP,0
+Serika,10,Attack,32,HP,0
+Serika,11,Attack,38,HP,55
+Serika,12,Attack,44,HP,110
+Serika,13,Attack,50,HP,165
+Serika,14,Attack,56,HP,220
+Serika,15,Attack,62,HP,275
+Serika,16,Attack,69,HP,341
+Serika,17,Attack,76,HP,407
+Serika,18,Attack,83,HP,473
+Serika,19,Attack,90,HP,539
+Serika,20,Attack,97,HP,605
+Serika,21,Attack,99,HP,617
+Serika,22,Attack,101,HP,629
+Serika,23,Attack,103,HP,641
+Serika,24,Attack,105,HP,653
+Serika,25,Attack,107,HP,665
+Serika,26,Attack,109,HP,677
+Serika,27,Attack,111,HP,689
+Serika,28,Attack,113,HP,701
+Serika,29,Attack,115,HP,713
+Serika,30,Attack,117,HP,725
+Serika,31,Attack,120,HP,742
+Serika,32,Attack,123,HP,759
+Serika,33,Attack,126,HP,776
+Serika,34,Attack,129,HP,793
+Serika,35,Attack,132,HP,810
+Serika,36,Attack,135,HP,827
+Serika,37,Attack,138,HP,844
+Serika,38,Attack,141,HP,861
+Serika,39,Attack,144,HP,878
+Serika,40,Attack,147,HP,895
+Serika,41,Attack,152,HP,924
+Serika,42,Attack,157,HP,953
+Serika,43,Attack,162,HP,982
+Serika,44,Attack,167,HP,1011
+Serika,45,Attack,172,HP,1040
+Serika,46,Attack,177,HP,1069
+Serika,47,Attack,182,HP,1098
+Serika,48,Attack,187,HP,1127
+Serika,49,Attack,192,HP,1156
+Serika,50,Attack,197,HP,1185
+Serika (newyear),2,Attack,2,HP,0
+Serika (newyear),3,Attack,4,HP,0
+Serika (newyear),4,Attack,6,HP,0
+Serika (newyear),5,Attack,8,HP,0
+Serika (newyear),6,Attack,11,HP,0
+Serika (newyear),7,Attack,14,HP,0
+Serika (newyear),8,Attack,17,HP,0
+Serika (newyear),9,Attack,20,HP,0
+Serika (newyear),10,Attack,23,HP,0
+Serika (newyear),11,Attack,27,HP,63
+Serika (newyear),12,Attack,31,HP,126
+Serika (newyear),13,Attack,35,HP,189
+Serika (newyear),14,Attack,39,HP,252
+Serika (newyear),15,Attack,43,HP,315
+Serika (newyear),16,Attack,48,HP,390
+Serika (newyear),17,Attack,53,HP,465
+Serika (newyear),18,Attack,58,HP,540
+Serika (newyear),19,Attack,63,HP,615
+Serika (newyear),20,Attack,68,HP,690
+Serika (newyear),21,Attack,69,HP,703
+Serika (newyear),22,Attack,70,HP,716
+Serika (newyear),23,Attack,71,HP,729
+Serika (newyear),24,Attack,72,HP,742
+Serika (newyear),25,Attack,73,HP,755
+Serika (newyear),26,Attack,74,HP,768
+Serika (newyear),27,Attack,75,HP,781
+Serika (newyear),28,Attack,76,HP,794
+Serika (newyear),29,Attack,77,HP,807
+Serika (newyear),30,Attack,78,HP,820
+Serika (newyear),31,Attack,80,HP,840
+Serika (newyear),32,Attack,82,HP,860
+Serika (newyear),33,Attack,84,HP,880
+Serika (newyear),34,Attack,86,HP,900
+Serika (newyear),35,Attack,88,HP,920
+Serika (newyear),36,Attack,90,HP,940
+Serika (newyear),37,Attack,92,HP,960
+Serika (newyear),38,Attack,94,HP,980
+Serika (newyear),39,Attack,96,HP,1000
+Serika (newyear),40,Attack,98,HP,1020
+Serika (newyear),41,Attack,101,HP,1053
+Serika (newyear),42,Attack,104,HP,1086
+Serika (newyear),43,Attack,107,HP,1119
+Serika (newyear),44,Attack,110,HP,1152
+Serika (newyear),45,Attack,113,HP,1185
+Serika (newyear),46,Attack,116,HP,1218
+Serika (newyear),47,Attack,119,HP,1251
+Serika (newyear),48,Attack,122,HP,1284
+Serika (newyear),49,Attack,125,HP,1317
+Serika (newyear),50,Attack,128,HP,1350
+Serina,2,HealPower,7,HP,0
+Serina,3,HealPower,14,HP,0
+Serina,4,HealPower,21,HP,0
+Serina,5,HealPower,28,HP,0
+Serina,6,HealPower,39,HP,0
+Serina,7,HealPower,50,HP,0
+Serina,8,HealPower,61,HP,0
+Serina,9,HealPower,72,HP,0
+Serina,10,HealPower,83,HP,0
+Serina,11,HealPower,98,HP,47
+Serina,12,HealPower,113,HP,94
+Serina,13,HealPower,128,HP,141
+Serina,14,HealPower,143,HP,188
+Serina,15,HealPower,158,HP,235
+Serina,16,HealPower,176,HP,291
+Serina,17,HealPower,194,HP,347
+Serina,18,HealPower,212,HP,403
+Serina,19,HealPower,230,HP,459
+Serina,20,HealPower,248,HP,515
+Serina,21,HealPower,253,HP,525
+Serina,22,HealPower,258,HP,535
+Serina,23,HealPower,263,HP,545
+Serina,24,HealPower,268,HP,555
+Serina,25,HealPower,273,HP,565
+Serina,26,HealPower,278,HP,575
+Serina,27,HealPower,283,HP,585
+Serina,28,HealPower,288,HP,595
+Serina,29,HealPower,293,HP,605
+Serina,30,HealPower,298,HP,615
+Serina,31,HealPower,305,HP,630
+Serina,32,HealPower,312,HP,645
+Serina,33,HealPower,319,HP,660
+Serina,34,HealPower,326,HP,675
+Serina,35,HealPower,333,HP,690
+Serina,36,HealPower,340,HP,705
+Serina,37,HealPower,347,HP,720
+Serina,38,HealPower,354,HP,735
+Serina,39,HealPower,361,HP,750
+Serina,40,HealPower,368,HP,765
+Serina,41,HealPower,380,HP,789
+Serina,42,HealPower,392,HP,813
+Serina,43,HealPower,404,HP,837
+Serina,44,HealPower,416,HP,861
+Serina,45,HealPower,428,HP,885
+Serina,46,HealPower,440,HP,909
+Serina,47,HealPower,452,HP,933
+Serina,48,HealPower,464,HP,957
+Serina,49,HealPower,476,HP,981
+Serina,50,HealPower,488,HP,1005
+Shimiko,2,Attack,2,HP,0
+Shimiko,3,Attack,4,HP,0
+Shimiko,4,Attack,6,HP,0
+Shimiko,5,Attack,8,HP,0
+Shimiko,6,Attack,11,HP,0
+Shimiko,7,Attack,14,HP,0
+Shimiko,8,Attack,17,HP,0
+Shimiko,9,Attack,20,HP,0
+Shimiko,10,Attack,23,HP,0
+Shimiko,11,Attack,27,HP,42
+Shimiko,12,Attack,31,HP,84
+Shimiko,13,Attack,35,HP,126
+Shimiko,14,Attack,39,HP,168
+Shimiko,15,Attack,43,HP,210
+Shimiko,16,Attack,48,HP,260
+Shimiko,17,Attack,53,HP,310
+Shimiko,18,Attack,58,HP,360
+Shimiko,19,Attack,63,HP,410
+Shimiko,20,Attack,68,HP,460
+Shimiko,21,Attack,69,HP,469
+Shimiko,22,Attack,70,HP,478
+Shimiko,23,Attack,71,HP,487
+Shimiko,24,Attack,72,HP,496
+Shimiko,25,Attack,73,HP,505
+Shimiko,26,Attack,74,HP,514
+Shimiko,27,Attack,75,HP,523
+Shimiko,28,Attack,76,HP,532
+Shimiko,29,Attack,77,HP,541
+Shimiko,30,Attack,78,HP,550
+Shimiko,31,Attack,80,HP,563
+Shimiko,32,Attack,82,HP,576
+Shimiko,33,Attack,84,HP,589
+Shimiko,34,Attack,86,HP,602
+Shimiko,35,Attack,88,HP,615
+Shimiko,36,Attack,90,HP,628
+Shimiko,37,Attack,92,HP,641
+Shimiko,38,Attack,94,HP,654
+Shimiko,39,Attack,96,HP,667
+Shimiko,40,Attack,98,HP,680
+Shimiko,41,Attack,101,HP,702
+Shimiko,42,Attack,104,HP,724
+Shimiko,43,Attack,107,HP,746
+Shimiko,44,Attack,110,HP,768
+Shimiko,45,Attack,113,HP,790
+Shimiko,46,Attack,116,HP,812
+Shimiko,47,Attack,119,HP,834
+Shimiko,48,Attack,122,HP,856
+Shimiko,49,Attack,125,HP,878
+Shimiko,50,Attack,128,HP,900
+Shiroko,2,Attack,3,HP,0
+Shiroko,3,Attack,6,HP,0
+Shiroko,4,Attack,9,HP,0
+Shiroko,5,Attack,12,HP,0
+Shiroko,6,Attack,16,HP,0
+Shiroko,7,Attack,20,HP,0
+Shiroko,8,Attack,24,HP,0
+Shiroko,9,Attack,28,HP,0
+Shiroko,10,Attack,32,HP,0
+Shiroko,11,Attack,38,HP,55
+Shiroko,12,Attack,44,HP,110
+Shiroko,13,Attack,50,HP,165
+Shiroko,14,Attack,56,HP,220
+Shiroko,15,Attack,62,HP,275
+Shiroko,16,Attack,69,HP,342
+Shiroko,17,Attack,76,HP,409
+Shiroko,18,Attack,83,HP,476
+Shiroko,19,Attack,90,HP,543
+Shiroko,20,Attack,97,HP,610
+Shiroko,21,Attack,99,HP,622
+Shiroko,22,Attack,101,HP,634
+Shiroko,23,Attack,103,HP,646
+Shiroko,24,Attack,105,HP,658
+Shiroko,25,Attack,107,HP,670
+Shiroko,26,Attack,109,HP,682
+Shiroko,27,Attack,111,HP,694
+Shiroko,28,Attack,113,HP,706
+Shiroko,29,Attack,115,HP,718
+Shiroko,30,Attack,117,HP,730
+Shiroko,31,Attack,120,HP,747
+Shiroko,32,Attack,123,HP,764
+Shiroko,33,Attack,126,HP,781
+Shiroko,34,Attack,129,HP,798
+Shiroko,35,Attack,132,HP,815
+Shiroko,36,Attack,135,HP,832
+Shiroko,37,Attack,138,HP,849
+Shiroko,38,Attack,141,HP,866
+Shiroko,39,Attack,144,HP,883
+Shiroko,40,Attack,147,HP,900
+Shiroko,41,Attack,152,HP,929
+Shiroko,42,Attack,157,HP,958
+Shiroko,43,Attack,162,HP,987
+Shiroko,44,Attack,167,HP,1016
+Shiroko,45,Attack,172,HP,1045
+Shiroko,46,Attack,177,HP,1074
+Shiroko,47,Attack,182,HP,1103
+Shiroko,48,Attack,187,HP,1132
+Shiroko,49,Attack,192,HP,1161
+Shiroko,50,Attack,197,HP,1190
+Shiroko (ridingsuit),2,Attack,3,HP,0
+Shiroko (ridingsuit),3,Attack,6,HP,0
+Shiroko (ridingsuit),4,Attack,9,HP,0
+Shiroko (ridingsuit),5,Attack,12,HP,0
+Shiroko (ridingsuit),6,Attack,16,HP,0
+Shiroko (ridingsuit),7,Attack,20,HP,0
+Shiroko (ridingsuit),8,Attack,24,HP,0
+Shiroko (ridingsuit),9,Attack,28,HP,0
+Shiroko (ridingsuit),10,Attack,32,HP,0
+Shiroko (ridingsuit),11,Attack,38,HP,53
+Shiroko (ridingsuit),12,Attack,44,HP,106
+Shiroko (ridingsuit),13,Attack,50,HP,159
+Shiroko (ridingsuit),14,Attack,56,HP,212
+Shiroko (ridingsuit),15,Attack,62,HP,265
+Shiroko (ridingsuit),16,Attack,69,HP,328
+Shiroko (ridingsuit),17,Attack,76,HP,391
+Shiroko (ridingsuit),18,Attack,83,HP,454
+Shiroko (ridingsuit),19,Attack,90,HP,517
+Shiroko (ridingsuit),20,Attack,97,HP,580
+Shiroko (ridingsuit),21,Attack,99,HP,591
+Shiroko (ridingsuit),22,Attack,101,HP,602
+Shiroko (ridingsuit),23,Attack,103,HP,613
+Shiroko (ridingsuit),24,Attack,105,HP,624
+Shiroko (ridingsuit),25,Attack,107,HP,635
+Shiroko (ridingsuit),26,Attack,109,HP,646
+Shiroko (ridingsuit),27,Attack,111,HP,657
+Shiroko (ridingsuit),28,Attack,113,HP,668
+Shiroko (ridingsuit),29,Attack,115,HP,679
+Shiroko (ridingsuit),30,Attack,117,HP,690
+Shiroko (ridingsuit),31,Attack,120,HP,707
+Shiroko (ridingsuit),32,Attack,123,HP,724
+Shiroko (ridingsuit),33,Attack,126,HP,741
+Shiroko (ridingsuit),34,Attack,129,HP,758
+Shiroko (ridingsuit),35,Attack,132,HP,775
+Shiroko (ridingsuit),36,Attack,135,HP,792
+Shiroko (ridingsuit),37,Attack,138,HP,809
+Shiroko (ridingsuit),38,Attack,141,HP,826
+Shiroko (ridingsuit),39,Attack,144,HP,843
+Shiroko (ridingsuit),40,Attack,147,HP,860
+Shiroko (ridingsuit),41,Attack,152,HP,888
+Shiroko (ridingsuit),42,Attack,157,HP,916
+Shiroko (ridingsuit),43,Attack,162,HP,944
+Shiroko (ridingsuit),44,Attack,167,HP,972
+Shiroko (ridingsuit),45,Attack,172,HP,1000
+Shiroko (ridingsuit),46,Attack,177,HP,1028
+Shiroko (ridingsuit),47,Attack,182,HP,1056
+Shiroko (ridingsuit),48,Attack,187,HP,1084
+Shiroko (ridingsuit),49,Attack,192,HP,1112
+Shiroko (ridingsuit),50,Attack,197,HP,1140
+Shizuko,2,Attack,2,HP,0
+Shizuko,3,Attack,4,HP,0
+Shizuko,4,Attack,6,HP,0
+Shizuko,5,Attack,8,HP,0
+Shizuko,6,Attack,11,HP,0
+Shizuko,7,Attack,14,HP,0
+Shizuko,8,Attack,17,HP,0
+Shizuko,9,Attack,20,HP,0
+Shizuko,10,Attack,23,HP,0
+Shizuko,11,Attack,26,HP,81
+Shizuko,12,Attack,29,HP,162
+Shizuko,13,Attack,32,HP,243
+Shizuko,14,Attack,35,HP,324
+Shizuko,15,Attack,38,HP,405
+Shizuko,16,Attack,42,HP,502
+Shizuko,17,Attack,46,HP,599
+Shizuko,18,Attack,50,HP,696
+Shizuko,19,Attack,54,HP,793
+Shizuko,20,Attack,58,HP,890
+Shizuko,21,Attack,59,HP,907
+Shizuko,22,Attack,60,HP,924
+Shizuko,23,Attack,61,HP,941
+Shizuko,24,Attack,62,HP,958
+Shizuko,25,Attack,63,HP,975
+Shizuko,26,Attack,64,HP,992
+Shizuko,27,Attack,65,HP,1009
+Shizuko,28,Attack,66,HP,1026
+Shizuko,29,Attack,67,HP,1043
+Shizuko,30,Attack,68,HP,1060
+Shizuko,31,Attack,70,HP,1085
+Shizuko,32,Attack,72,HP,1110
+Shizuko,33,Attack,74,HP,1135
+Shizuko,34,Attack,76,HP,1160
+Shizuko,35,Attack,78,HP,1185
+Shizuko,36,Attack,80,HP,1210
+Shizuko,37,Attack,82,HP,1235
+Shizuko,38,Attack,84,HP,1260
+Shizuko,39,Attack,86,HP,1285
+Shizuko,40,Attack,88,HP,1310
+Shizuko,41,Attack,91,HP,1352
+Shizuko,42,Attack,94,HP,1394
+Shizuko,43,Attack,97,HP,1436
+Shizuko,44,Attack,100,HP,1478
+Shizuko,45,Attack,103,HP,1520
+Shizuko,46,Attack,106,HP,1562
+Shizuko,47,Attack,109,HP,1604
+Shizuko,48,Attack,112,HP,1646
+Shizuko,49,Attack,115,HP,1688
+Shizuko,50,Attack,118,HP,1730
+Shun,2,Attack,3,HP,0
+Shun,3,Attack,6,HP,0
+Shun,4,Attack,9,HP,0
+Shun,5,Attack,12,HP,0
+Shun,6,Attack,17,HP,0
+Shun,7,Attack,22,HP,0
+Shun,8,Attack,27,HP,0
+Shun,9,Attack,32,HP,0
+Shun,10,Attack,37,HP,0
+Shun,11,Attack,43,HP,48
+Shun,12,Attack,49,HP,96
+Shun,13,Attack,55,HP,144
+Shun,14,Attack,61,HP,192
+Shun,15,Attack,67,HP,240
+Shun,16,Attack,75,HP,298
+Shun,17,Attack,83,HP,356
+Shun,18,Attack,91,HP,414
+Shun,19,Attack,99,HP,472
+Shun,20,Attack,107,HP,530
+Shun,21,Attack,109,HP,540
+Shun,22,Attack,111,HP,550
+Shun,23,Attack,113,HP,560
+Shun,24,Attack,115,HP,570
+Shun,25,Attack,117,HP,580
+Shun,26,Attack,119,HP,590
+Shun,27,Attack,121,HP,600
+Shun,28,Attack,123,HP,610
+Shun,29,Attack,125,HP,620
+Shun,30,Attack,127,HP,630
+Shun,31,Attack,130,HP,645
+Shun,32,Attack,133,HP,660
+Shun,33,Attack,136,HP,675
+Shun,34,Attack,139,HP,690
+Shun,35,Attack,142,HP,705
+Shun,36,Attack,145,HP,720
+Shun,37,Attack,148,HP,735
+Shun,38,Attack,151,HP,750
+Shun,39,Attack,154,HP,765
+Shun,40,Attack,157,HP,780
+Shun,41,Attack,162,HP,805
+Shun,42,Attack,167,HP,830
+Shun,43,Attack,172,HP,855
+Shun,44,Attack,177,HP,880
+Shun,45,Attack,182,HP,905
+Shun,46,Attack,187,HP,930
+Shun,47,Attack,192,HP,955
+Shun,48,Attack,197,HP,980
+Shun,49,Attack,202,HP,1005
+Shun,50,Attack,207,HP,1030
+Shun (kid),2,Attack,4,HP,0
+Shun (kid),3,Attack,8,HP,0
+Shun (kid),4,Attack,12,HP,0
+Shun (kid),5,Attack,16,HP,0
+Shun (kid),6,Attack,22,HP,0
+Shun (kid),7,Attack,28,HP,0
+Shun (kid),8,Attack,34,HP,0
+Shun (kid),9,Attack,40,HP,0
+Shun (kid),10,Attack,46,HP,0
+Shun (kid),11,Attack,54,HP,48
+Shun (kid),12,Attack,62,HP,96
+Shun (kid),13,Attack,70,HP,144
+Shun (kid),14,Attack,78,HP,192
+Shun (kid),15,Attack,86,HP,240
+Shun (kid),16,Attack,96,HP,298
+Shun (kid),17,Attack,106,HP,356
+Shun (kid),18,Attack,116,HP,414
+Shun (kid),19,Attack,126,HP,472
+Shun (kid),20,Attack,136,HP,530
+Shun (kid),21,Attack,139,HP,540
+Shun (kid),22,Attack,142,HP,550
+Shun (kid),23,Attack,145,HP,560
+Shun (kid),24,Attack,148,HP,570
+Shun (kid),25,Attack,151,HP,580
+Shun (kid),26,Attack,154,HP,590
+Shun (kid),27,Attack,157,HP,600
+Shun (kid),28,Attack,160,HP,610
+Shun (kid),29,Attack,163,HP,620
+Shun (kid),30,Attack,166,HP,630
+Shun (kid),31,Attack,170,HP,645
+Shun (kid),32,Attack,174,HP,660
+Shun (kid),33,Attack,178,HP,675
+Shun (kid),34,Attack,182,HP,690
+Shun (kid),35,Attack,186,HP,705
+Shun (kid),36,Attack,190,HP,720
+Shun (kid),37,Attack,194,HP,735
+Shun (kid),38,Attack,198,HP,750
+Shun (kid),39,Attack,202,HP,765
+Shun (kid),40,Attack,206,HP,780
+Shun (kid),41,Attack,212,HP,805
+Shun (kid),42,Attack,218,HP,830
+Shun (kid),43,Attack,224,HP,855
+Shun (kid),44,Attack,230,HP,880
+Shun (kid),45,Attack,236,HP,905
+Shun (kid),46,Attack,242,HP,930
+Shun (kid),47,Attack,248,HP,955
+Shun (kid),48,Attack,254,HP,980
+Shun (kid),49,Attack,260,HP,1005
+Shun (kid),50,Attack,266,HP,1030
+Sumire,2,HP,1,HP,0
+Sumire,3,HP,2,HP,0
+Sumire,4,HP,3,HP,0
+Sumire,5,HP,4,HP,0
+Sumire,6,HP,5,HP,0
+Sumire,7,HP,6,HP,0
+Sumire,8,HP,7,HP,0
+Sumire,9,HP,8,HP,0
+Sumire,10,HP,9,HP,0
+Sumire,11,HP,10,HP,78
+Sumire,12,HP,11,HP,156
+Sumire,13,HP,12,HP,234
+Sumire,14,HP,13,HP,312
+Sumire,15,HP,14,HP,390
+Sumire,16,HP,16,HP,484
+Sumire,17,HP,18,HP,578
+Sumire,18,HP,20,HP,672
+Sumire,19,HP,22,HP,766
+Sumire,20,HP,24,HP,860
+Sumire,21,HP,40,HP,860
+Sumire,22,HP,56,HP,860
+Sumire,23,HP,72,HP,860
+Sumire,24,HP,88,HP,860
+Sumire,25,HP,104,HP,860
+Sumire,26,HP,120,HP,860
+Sumire,27,HP,136,HP,860
+Sumire,28,HP,152,HP,860
+Sumire,29,HP,168,HP,860
+Sumire,30,HP,184,HP,860
+Sumire,31,HP,185,HP,885
+Sumire,32,HP,186,HP,910
+Sumire,33,HP,187,HP,935
+Sumire,34,HP,188,HP,960
+Sumire,35,HP,189,HP,985
+Sumire,36,HP,190,HP,1010
+Sumire,37,HP,191,HP,1035
+Sumire,38,HP,192,HP,1060
+Sumire,39,HP,193,HP,1085
+Sumire,40,HP,194,HP,1110
+Sumire,41,HP,195,HP,1151
+Sumire,42,HP,196,HP,1192
+Sumire,43,HP,197,HP,1233
+Sumire,44,HP,198,HP,1274
+Sumire,45,HP,199,HP,1315
+Sumire,46,HP,200,HP,1356
+Sumire,47,HP,201,HP,1397
+Sumire,48,HP,202,HP,1438
+Sumire,49,HP,203,HP,1479
+Sumire,50,HP,204,HP,1520
+Suzumi,2,Attack,2,HP,0
+Suzumi,3,Attack,4,HP,0
+Suzumi,4,Attack,6,HP,0
+Suzumi,5,Attack,8,HP,0
+Suzumi,6,Attack,11,HP,0
+Suzumi,7,Attack,14,HP,0
+Suzumi,8,Attack,17,HP,0
+Suzumi,9,Attack,20,HP,0
+Suzumi,10,Attack,23,HP,0
+Suzumi,11,Attack,27,HP,57
+Suzumi,12,Attack,31,HP,114
+Suzumi,13,Attack,35,HP,171
+Suzumi,14,Attack,39,HP,228
+Suzumi,15,Attack,43,HP,285
+Suzumi,16,Attack,48,HP,354
+Suzumi,17,Attack,53,HP,423
+Suzumi,18,Attack,58,HP,492
+Suzumi,19,Attack,63,HP,561
+Suzumi,20,Attack,68,HP,630
+Suzumi,21,Attack,69,HP,642
+Suzumi,22,Attack,70,HP,654
+Suzumi,23,Attack,71,HP,666
+Suzumi,24,Attack,72,HP,678
+Suzumi,25,Attack,73,HP,690
+Suzumi,26,Attack,74,HP,702
+Suzumi,27,Attack,75,HP,714
+Suzumi,28,Attack,76,HP,726
+Suzumi,29,Attack,77,HP,738
+Suzumi,30,Attack,78,HP,750
+Suzumi,31,Attack,80,HP,768
+Suzumi,32,Attack,82,HP,786
+Suzumi,33,Attack,84,HP,804
+Suzumi,34,Attack,86,HP,822
+Suzumi,35,Attack,88,HP,840
+Suzumi,36,Attack,90,HP,858
+Suzumi,37,Attack,92,HP,876
+Suzumi,38,Attack,94,HP,894
+Suzumi,39,Attack,96,HP,912
+Suzumi,40,Attack,98,HP,930
+Suzumi,41,Attack,101,HP,960
+Suzumi,42,Attack,104,HP,990
+Suzumi,43,Attack,107,HP,1020
+Suzumi,44,Attack,110,HP,1050
+Suzumi,45,Attack,113,HP,1080
+Suzumi,46,Attack,116,HP,1110
+Suzumi,47,Attack,119,HP,1140
+Suzumi,48,Attack,122,HP,1170
+Suzumi,49,Attack,125,HP,1200
+Suzumi,50,Attack,128,HP,1230
+Tomoe,2,Attack,3,HP,0
+Tomoe,3,Attack,6,HP,0
+Tomoe,4,Attack,9,HP,0
+Tomoe,5,Attack,12,HP,0
+Tomoe,6,Attack,16,HP,0
+Tomoe,7,Attack,20,HP,0
+Tomoe,8,Attack,24,HP,0
+Tomoe,9,Attack,28,HP,0
+Tomoe,10,Attack,32,HP,0
+Tomoe,11,Attack,37,HP,47
+Tomoe,12,Attack,42,HP,94
+Tomoe,13,Attack,47,HP,141
+Tomoe,14,Attack,52,HP,188
+Tomoe,15,Attack,57,HP,235
+Tomoe,16,Attack,64,HP,291
+Tomoe,17,Attack,71,HP,347
+Tomoe,18,Attack,78,HP,403
+Tomoe,19,Attack,85,HP,459
+Tomoe,20,Attack,92,HP,515
+Tomoe,21,Attack,94,HP,525
+Tomoe,22,Attack,96,HP,535
+Tomoe,23,Attack,98,HP,545
+Tomoe,24,Attack,100,HP,555
+Tomoe,25,Attack,102,HP,565
+Tomoe,26,Attack,104,HP,575
+Tomoe,27,Attack,106,HP,585
+Tomoe,28,Attack,108,HP,595
+Tomoe,29,Attack,110,HP,605
+Tomoe,30,Attack,112,HP,615
+Tomoe,31,Attack,115,HP,630
+Tomoe,32,Attack,118,HP,645
+Tomoe,33,Attack,121,HP,660
+Tomoe,34,Attack,124,HP,675
+Tomoe,35,Attack,127,HP,690
+Tomoe,36,Attack,130,HP,705
+Tomoe,37,Attack,133,HP,720
+Tomoe,38,Attack,136,HP,735
+Tomoe,39,Attack,139,HP,750
+Tomoe,40,Attack,142,HP,765
+Tomoe,41,Attack,146,HP,789
+Tomoe,42,Attack,150,HP,813
+Tomoe,43,Attack,154,HP,837
+Tomoe,44,Attack,158,HP,861
+Tomoe,45,Attack,162,HP,885
+Tomoe,46,Attack,166,HP,909
+Tomoe,47,Attack,170,HP,933
+Tomoe,48,Attack,174,HP,957
+Tomoe,49,Attack,178,HP,981
+Tomoe,50,Attack,182,HP,1005
+Tsurugi,2,Attack,4,HP,0
+Tsurugi,3,Attack,8,HP,0
+Tsurugi,4,Attack,12,HP,0
+Tsurugi,5,Attack,16,HP,0
+Tsurugi,6,Attack,22,HP,0
+Tsurugi,7,Attack,28,HP,0
+Tsurugi,8,Attack,34,HP,0
+Tsurugi,9,Attack,40,HP,0
+Tsurugi,10,Attack,46,HP,0
+Tsurugi,11,Attack,54,HP,89
+Tsurugi,12,Attack,62,HP,178
+Tsurugi,13,Attack,70,HP,267
+Tsurugi,14,Attack,78,HP,356
+Tsurugi,15,Attack,86,HP,445
+Tsurugi,16,Attack,96,HP,552
+Tsurugi,17,Attack,106,HP,659
+Tsurugi,18,Attack,116,HP,766
+Tsurugi,19,Attack,126,HP,873
+Tsurugi,20,Attack,136,HP,980
+Tsurugi,21,Attack,139,HP,999
+Tsurugi,22,Attack,142,HP,1018
+Tsurugi,23,Attack,145,HP,1037
+Tsurugi,24,Attack,148,HP,1056
+Tsurugi,25,Attack,151,HP,1075
+Tsurugi,26,Attack,154,HP,1094
+Tsurugi,27,Attack,157,HP,1113
+Tsurugi,28,Attack,160,HP,1132
+Tsurugi,29,Attack,163,HP,1151
+Tsurugi,30,Attack,166,HP,1170
+Tsurugi,31,Attack,170,HP,1198
+Tsurugi,32,Attack,174,HP,1226
+Tsurugi,33,Attack,178,HP,1254
+Tsurugi,34,Attack,182,HP,1282
+Tsurugi,35,Attack,186,HP,1310
+Tsurugi,36,Attack,190,HP,1338
+Tsurugi,37,Attack,194,HP,1366
+Tsurugi,38,Attack,198,HP,1394
+Tsurugi,39,Attack,202,HP,1422
+Tsurugi,40,Attack,206,HP,1450
+Tsurugi,41,Attack,212,HP,1497
+Tsurugi,42,Attack,218,HP,1544
+Tsurugi,43,Attack,224,HP,1591
+Tsurugi,44,Attack,230,HP,1638
+Tsurugi,45,Attack,236,HP,1685
+Tsurugi,46,Attack,242,HP,1732
+Tsurugi,47,Attack,248,HP,1779
+Tsurugi,48,Attack,254,HP,1826
+Tsurugi,49,Attack,260,HP,1873
+Tsurugi,50,Attack,266,HP,1920
+Tsurugi (swimsuit),2,Attack,3,HP,0
+Tsurugi (swimsuit),3,Attack,6,HP,0
+Tsurugi (swimsuit),4,Attack,9,HP,0
+Tsurugi (swimsuit),5,Attack,12,HP,0
+Tsurugi (swimsuit),6,Attack,17,HP,0
+Tsurugi (swimsuit),7,Attack,22,HP,0
+Tsurugi (swimsuit),8,Attack,27,HP,0
+Tsurugi (swimsuit),9,Attack,32,HP,0
+Tsurugi (swimsuit),10,Attack,37,HP,0
+Tsurugi (swimsuit),11,Attack,44,HP,88
+Tsurugi (swimsuit),12,Attack,51,HP,176
+Tsurugi (swimsuit),13,Attack,58,HP,264
+Tsurugi (swimsuit),14,Attack,65,HP,352
+Tsurugi (swimsuit),15,Attack,72,HP,440
+Tsurugi (swimsuit),16,Attack,81,HP,545
+Tsurugi (swimsuit),17,Attack,90,HP,650
+Tsurugi (swimsuit),18,Attack,99,HP,755
+Tsurugi (swimsuit),19,Attack,108,HP,860
+Tsurugi (swimsuit),20,Attack,117,HP,965
+Tsurugi (swimsuit),21,Attack,119,HP,983
+Tsurugi (swimsuit),22,Attack,121,HP,1001
+Tsurugi (swimsuit),23,Attack,123,HP,1019
+Tsurugi (swimsuit),24,Attack,125,HP,1037
+Tsurugi (swimsuit),25,Attack,127,HP,1055
+Tsurugi (swimsuit),26,Attack,129,HP,1073
+Tsurugi (swimsuit),27,Attack,131,HP,1091
+Tsurugi (swimsuit),28,Attack,133,HP,1109
+Tsurugi (swimsuit),29,Attack,135,HP,1127
+Tsurugi (swimsuit),30,Attack,137,HP,1145
+Tsurugi (swimsuit),31,Attack,140,HP,1173
+Tsurugi (swimsuit),32,Attack,143,HP,1201
+Tsurugi (swimsuit),33,Attack,146,HP,1229
+Tsurugi (swimsuit),34,Attack,149,HP,1257
+Tsurugi (swimsuit),35,Attack,152,HP,1285
+Tsurugi (swimsuit),36,Attack,155,HP,1313
+Tsurugi (swimsuit),37,Attack,158,HP,1341
+Tsurugi (swimsuit),38,Attack,161,HP,1369
+Tsurugi (swimsuit),39,Attack,164,HP,1397
+Tsurugi (swimsuit),40,Attack,167,HP,1425
+Tsurugi (swimsuit),41,Attack,173,HP,1471
+Tsurugi (swimsuit),42,Attack,179,HP,1517
+Tsurugi (swimsuit),43,Attack,185,HP,1563
+Tsurugi (swimsuit),44,Attack,191,HP,1609
+Tsurugi (swimsuit),45,Attack,197,HP,1655
+Tsurugi (swimsuit),46,Attack,203,HP,1701
+Tsurugi (swimsuit),47,Attack,209,HP,1747
+Tsurugi (swimsuit),48,Attack,215,HP,1793
+Tsurugi (swimsuit),49,Attack,221,HP,1839
+Tsurugi (swimsuit),50,Attack,227,HP,1885
+Tusbaki,2,HP,51,Attack,0
+Tusbaki,3,HP,102,Attack,0
+Tusbaki,4,HP,153,Attack,0
+Tusbaki,5,HP,204,Attack,0
+Tusbaki,6,HP,280,Attack,0
+Tusbaki,7,HP,356,Attack,0
+Tusbaki,8,HP,432,Attack,0
+Tusbaki,9,HP,508,Attack,0
+Tusbaki,10,HP,584,Attack,0
+Tusbaki,11,HP,686,Attack,5
+Tusbaki,12,HP,788,Attack,10
+Tusbaki,13,HP,890,Attack,15
+Tusbaki,14,HP,992,Attack,20
+Tusbaki,15,HP,1094,Attack,25
+Tusbaki,16,HP,1221,Attack,30
+Tusbaki,17,HP,1348,Attack,35
+Tusbaki,18,HP,1475,Attack,40
+Tusbaki,19,HP,1602,Attack,45
+Tusbaki,20,HP,1729,Attack,50
+Tusbaki,21,HP,1762,Attack,51
+Tusbaki,22,HP,1795,Attack,52
+Tusbaki,23,HP,1828,Attack,53
+Tusbaki,24,HP,1861,Attack,54
+Tusbaki,25,HP,1894,Attack,55
+Tusbaki,26,HP,1927,Attack,56
+Tusbaki,27,HP,1960,Attack,57
+Tusbaki,28,HP,1993,Attack,58
+Tusbaki,29,HP,2026,Attack,59
+Tusbaki,30,HP,2059,Attack,60
+Tusbaki,31,HP,2108,Attack,61
+Tusbaki,32,HP,2157,Attack,62
+Tusbaki,33,HP,2206,Attack,63
+Tusbaki,34,HP,2255,Attack,64
+Tusbaki,35,HP,2304,Attack,65
+Tusbaki,36,HP,2353,Attack,66
+Tusbaki,37,HP,2402,Attack,67
+Tusbaki,38,HP,2451,Attack,68
+Tusbaki,39,HP,2500,Attack,69
+Tusbaki,40,HP,2549,Attack,70
+Tusbaki,41,HP,2631,Attack,72
+Tusbaki,42,HP,2713,Attack,74
+Tusbaki,43,HP,2795,Attack,76
+Tusbaki,44,HP,2877,Attack,78
+Tusbaki,45,HP,2959,Attack,80
+Tusbaki,46,HP,3041,Attack,82
+Tusbaki,47,HP,3123,Attack,84
+Tusbaki,48,HP,3205,Attack,86
+Tusbaki,49,HP,3287,Attack,88
+Tusbaki,50,HP,3369,Attack,90
+Utaha,2,Attack,2,HP,0
+Utaha,3,Attack,4,HP,0
+Utaha,4,Attack,6,HP,0
+Utaha,5,Attack,8,HP,0
+Utaha,6,Attack,11,HP,0
+Utaha,7,Attack,14,HP,0
+Utaha,8,Attack,17,HP,0
+Utaha,9,Attack,20,HP,0
+Utaha,10,Attack,23,HP,0
+Utaha,11,Attack,28,HP,43
+Utaha,12,Attack,33,HP,86
+Utaha,13,Attack,38,HP,129
+Utaha,14,Attack,43,HP,172
+Utaha,15,Attack,48,HP,215
+Utaha,16,Attack,54,HP,266
+Utaha,17,Attack,60,HP,317
+Utaha,18,Attack,66,HP,368
+Utaha,19,Attack,72,HP,419
+Utaha,20,Attack,78,HP,470
+Utaha,21,Attack,79,HP,479
+Utaha,22,Attack,80,HP,488
+Utaha,23,Attack,81,HP,497
+Utaha,24,Attack,82,HP,506
+Utaha,25,Attack,83,HP,515
+Utaha,26,Attack,84,HP,524
+Utaha,27,Attack,85,HP,533
+Utaha,28,Attack,86,HP,542
+Utaha,29,Attack,87,HP,551
+Utaha,30,Attack,88,HP,560
+Utaha,31,Attack,90,HP,573
+Utaha,32,Attack,92,HP,586
+Utaha,33,Attack,94,HP,599
+Utaha,34,Attack,96,HP,612
+Utaha,35,Attack,98,HP,625
+Utaha,36,Attack,100,HP,638
+Utaha,37,Attack,102,HP,651
+Utaha,38,Attack,104,HP,664
+Utaha,39,Attack,106,HP,677
+Utaha,40,Attack,108,HP,690
+Utaha,41,Attack,112,HP,712
+Utaha,42,Attack,116,HP,734
+Utaha,43,Attack,120,HP,756
+Utaha,44,Attack,124,HP,778
+Utaha,45,Attack,128,HP,800
+Utaha,46,Attack,132,HP,822
+Utaha,47,Attack,136,HP,844
+Utaha,48,Attack,140,HP,866
+Utaha,49,Attack,144,HP,888
+Utaha,50,Attack,148,HP,910
+Wakamo,2,Attack,3,HP,0
+Wakamo,3,Attack,6,HP,0
+Wakamo,4,Attack,9,HP,0
+Wakamo,5,Attack,12,HP,0
+Wakamo,6,Attack,17,HP,0
+Wakamo,7,Attack,22,HP,0
+Wakamo,8,Attack,27,HP,0
+Wakamo,9,Attack,32,HP,0
+Wakamo,10,Attack,37,HP,0
+Wakamo,11,Attack,44,HP,48
+Wakamo,12,Attack,51,HP,96
+Wakamo,13,Attack,58,HP,144
+Wakamo,14,Attack,65,HP,192
+Wakamo,15,Attack,72,HP,240
+Wakamo,16,Attack,81,HP,298
+Wakamo,17,Attack,90,HP,356
+Wakamo,18,Attack,99,HP,414
+Wakamo,19,Attack,108,HP,472
+Wakamo,20,Attack,117,HP,530
+Wakamo,21,Attack,119,HP,540
+Wakamo,22,Attack,121,HP,550
+Wakamo,23,Attack,123,HP,560
+Wakamo,24,Attack,125,HP,570
+Wakamo,25,Attack,127,HP,580
+Wakamo,26,Attack,129,HP,590
+Wakamo,27,Attack,131,HP,600
+Wakamo,28,Attack,133,HP,610
+Wakamo,29,Attack,135,HP,620
+Wakamo,30,Attack,137,HP,630
+Wakamo,31,Attack,140,HP,645
+Wakamo,32,Attack,143,HP,660
+Wakamo,33,Attack,146,HP,675
+Wakamo,34,Attack,149,HP,690
+Wakamo,35,Attack,152,HP,705
+Wakamo,36,Attack,155,HP,720
+Wakamo,37,Attack,158,HP,735
+Wakamo,38,Attack,161,HP,750
+Wakamo,39,Attack,164,HP,765
+Wakamo,40,Attack,167,HP,780
+Wakamo,41,Attack,173,HP,805
+Wakamo,42,Attack,179,HP,830
+Wakamo,43,Attack,185,HP,855
+Wakamo,44,Attack,191,HP,880
+Wakamo,45,Attack,197,HP,905
+Wakamo,46,Attack,203,HP,930
+Wakamo,47,Attack,209,HP,955
+Wakamo,48,Attack,215,HP,980
+Wakamo,49,Attack,221,HP,1005
+Wakamo,50,Attack,227,HP,1030
+Yoshimi,2,Attack,3,HP,0
+Yoshimi,3,Attack,6,HP,0
+Yoshimi,4,Attack,9,HP,0
+Yoshimi,5,Attack,12,HP,0
+Yoshimi,6,Attack,16,HP,0
+Yoshimi,7,Attack,20,HP,0
+Yoshimi,8,Attack,24,HP,0
+Yoshimi,9,Attack,28,HP,0
+Yoshimi,10,Attack,32,HP,0
+Yoshimi,11,Attack,37,HP,42
+Yoshimi,12,Attack,42,HP,84
+Yoshimi,13,Attack,47,HP,126
+Yoshimi,14,Attack,52,HP,168
+Yoshimi,15,Attack,57,HP,210
+Yoshimi,16,Attack,64,HP,260
+Yoshimi,17,Attack,71,HP,310
+Yoshimi,18,Attack,78,HP,360
+Yoshimi,19,Attack,85,HP,410
+Yoshimi,20,Attack,92,HP,460
+Yoshimi,21,Attack,94,HP,469
+Yoshimi,22,Attack,96,HP,478
+Yoshimi,23,Attack,98,HP,487
+Yoshimi,24,Attack,100,HP,496
+Yoshimi,25,Attack,102,HP,505
+Yoshimi,26,Attack,104,HP,514
+Yoshimi,27,Attack,106,HP,523
+Yoshimi,28,Attack,108,HP,532
+Yoshimi,29,Attack,110,HP,541
+Yoshimi,30,Attack,112,HP,550
+Yoshimi,31,Attack,115,HP,563
+Yoshimi,32,Attack,118,HP,576
+Yoshimi,33,Attack,121,HP,589
+Yoshimi,34,Attack,124,HP,602
+Yoshimi,35,Attack,127,HP,615
+Yoshimi,36,Attack,130,HP,628
+Yoshimi,37,Attack,133,HP,641
+Yoshimi,38,Attack,136,HP,654
+Yoshimi,39,Attack,139,HP,667
+Yoshimi,40,Attack,142,HP,680
+Yoshimi,41,Attack,146,HP,702
+Yoshimi,42,Attack,150,HP,724
+Yoshimi,43,Attack,154,HP,746
+Yoshimi,44,Attack,158,HP,768
+Yoshimi,45,Attack,162,HP,790
+Yoshimi,46,Attack,166,HP,812
+Yoshimi,47,Attack,170,HP,834
+Yoshimi,48,Attack,174,HP,856
+Yoshimi,49,Attack,178,HP,878
+Yoshimi,50,Attack,182,HP,900
+Yuuka,2,HP,50,Attack,0
+Yuuka,3,HP,100,Attack,0
+Yuuka,4,HP,150,Attack,0
+Yuuka,5,HP,200,Attack,0
+Yuuka,6,HP,275,Attack,0
+Yuuka,7,HP,350,Attack,0
+Yuuka,8,HP,425,Attack,0
+Yuuka,9,HP,500,Attack,0
+Yuuka,10,HP,575,Attack,0
+Yuuka,11,HP,675,Attack,3
+Yuuka,12,HP,775,Attack,6
+Yuuka,13,HP,875,Attack,9
+Yuuka,14,HP,975,Attack,12
+Yuuka,15,HP,1075,Attack,15
+Yuuka,16,HP,1200,Attack,18
+Yuuka,17,HP,1325,Attack,21
+Yuuka,18,HP,1450,Attack,24
+Yuuka,19,HP,1575,Attack,27
+Yuuka,20,HP,1700,Attack,30
+Yuuka,21,HP,1732,Attack,31
+Yuuka,22,HP,1764,Attack,32
+Yuuka,23,HP,1796,Attack,33
+Yuuka,24,HP,1828,Attack,34
+Yuuka,25,HP,1860,Attack,35
+Yuuka,26,HP,1892,Attack,36
+Yuuka,27,HP,1924,Attack,37
+Yuuka,28,HP,1956,Attack,38
+Yuuka,29,HP,1988,Attack,39
+Yuuka,30,HP,2020,Attack,40
+Yuuka,31,HP,2068,Attack,41
+Yuuka,32,HP,2116,Attack,42
+Yuuka,33,HP,2164,Attack,43
+Yuuka,34,HP,2212,Attack,44
+Yuuka,35,HP,2260,Attack,45
+Yuuka,36,HP,2308,Attack,46
+Yuuka,37,HP,2356,Attack,47
+Yuuka,38,HP,2404,Attack,48
+Yuuka,39,HP,2452,Attack,49
+Yuuka,40,HP,2500,Attack,50
+Yuuka,41,HP,2581,Attack,51
+Yuuka,42,HP,2662,Attack,52
+Yuuka,43,HP,2743,Attack,53
+Yuuka,44,HP,2824,Attack,54
+Yuuka,45,HP,2905,Attack,55
+Yuuka,46,HP,2986,Attack,56
+Yuuka,47,HP,3067,Attack,57
+Yuuka,48,HP,3148,Attack,58
+Yuuka,49,HP,3229,Attack,59
+Yuuka,50,HP,3310,Attack,60
+Yuzu,2,Attack,4,HP,0
+Yuzu,3,Attack,8,HP,0
+Yuzu,4,Attack,12,HP,0
+Yuzu,5,Attack,16,HP,0
+Yuzu,6,Attack,21,HP,0
+Yuzu,7,Attack,26,HP,0
+Yuzu,8,Attack,31,HP,0
+Yuzu,9,Attack,36,HP,0
+Yuzu,10,Attack,41,HP,0
+Yuzu,11,Attack,48,HP,55
+Yuzu,12,Attack,55,HP,110
+Yuzu,13,Attack,62,HP,165
+Yuzu,14,Attack,69,HP,220
+Yuzu,15,Attack,76,HP,275
+Yuzu,16,Attack,85,HP,341
+Yuzu,17,Attack,94,HP,407
+Yuzu,18,Attack,103,HP,473
+Yuzu,19,Attack,112,HP,539
+Yuzu,20,Attack,121,HP,605
+Yuzu,21,Attack,123,HP,617
+Yuzu,22,Attack,125,HP,629
+Yuzu,23,Attack,127,HP,641
+Yuzu,24,Attack,129,HP,653
+Yuzu,25,Attack,131,HP,665
+Yuzu,26,Attack,133,HP,677
+Yuzu,27,Attack,135,HP,689
+Yuzu,28,Attack,137,HP,701
+Yuzu,29,Attack,139,HP,713
+Yuzu,30,Attack,141,HP,725
+Yuzu,31,Attack,144,HP,742
+Yuzu,32,Attack,147,HP,759
+Yuzu,33,Attack,150,HP,776
+Yuzu,34,Attack,153,HP,793
+Yuzu,35,Attack,156,HP,810
+Yuzu,36,Attack,159,HP,827
+Yuzu,37,Attack,162,HP,844
+Yuzu,38,Attack,165,HP,861
+Yuzu,39,Attack,168,HP,878
+Yuzu,40,Attack,171,HP,895
+Yuzu,41,Attack,177,HP,924
+Yuzu,42,Attack,183,HP,953
+Yuzu,43,Attack,189,HP,982
+Yuzu,44,Attack,195,HP,1011
+Yuzu,45,Attack,201,HP,1040
+Yuzu,46,Attack,207,HP,1069
+Yuzu,47,Attack,213,HP,1098
+Yuzu,48,Attack,219,HP,1127
+Yuzu,49,Attack,225,HP,1156
+Yuzu,50,Attack,231,HP,1185
