@@ -74,7 +74,7 @@ def getBondBaseTable():
         'MaxHP_Base':'HP',
         'AttackPower_Base':'Attack',
         'DefensePower_Base':'Defence',
-        'HealPower_Base':'HealPower'}
+        'HealPower_Base':'Healing'}
     
     for column in ['Stat1','Stat2']:
         for stat in StatHead:
