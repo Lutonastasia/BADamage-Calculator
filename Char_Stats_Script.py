@@ -17,7 +17,7 @@ def getCharNames() -> dict:
         # Correct the name
         name = name.replace("zunko", "junko")
         name = name.replace("hihumi", "hifumi")
-		name = name.replace("tusbaki", "tsubaki")
+        name = name.replace("tusbaki", "tsubaki")
 
         components = name.split("_")
         result[node["Id"]] = components[0].capitalize()
