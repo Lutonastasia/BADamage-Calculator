@@ -538,55 +538,6 @@ Ayane,47,Healing,447,HP,950
 Ayane,48,Healing,459,HP,975
 Ayane,49,Healing,471,HP,1000
 Ayane,50,Healing,483,HP,1025
-Ayane (swimsuit),2,Attack,3,HP,0
-Ayane (swimsuit),3,Attack,6,HP,0
-Ayane (swimsuit),4,Attack,9,HP,0
-Ayane (swimsuit),5,Attack,12,HP,0
-Ayane (swimsuit),6,Attack,16,HP,0
-Ayane (swimsuit),7,Attack,20,HP,0
-Ayane (swimsuit),8,Attack,24,HP,0
-Ayane (swimsuit),9,Attack,28,HP,0
-Ayane (swimsuit),10,Attack,32,HP,0
-Ayane (swimsuit),11,Attack,38,HP,40
-Ayane (swimsuit),12,Attack,44,HP,80
-Ayane (swimsuit),13,Attack,50,HP,120
-Ayane (swimsuit),14,Attack,56,HP,160
-Ayane (swimsuit),15,Attack,62,HP,200
-Ayane (swimsuit),16,Attack,69,HP,248
-Ayane (swimsuit),17,Attack,76,HP,296
-Ayane (swimsuit),18,Attack,83,HP,344
-Ayane (swimsuit),19,Attack,90,HP,392
-Ayane (swimsuit),20,Attack,97,HP,440
-Ayane (swimsuit),21,Attack,99,HP,448
-Ayane (swimsuit),22,Attack,101,HP,456
-Ayane (swimsuit),23,Attack,103,HP,464
-Ayane (swimsuit),24,Attack,105,HP,472
-Ayane (swimsuit),25,Attack,107,HP,480
-Ayane (swimsuit),26,Attack,109,HP,488
-Ayane (swimsuit),27,Attack,111,HP,496
-Ayane (swimsuit),28,Attack,113,HP,504
-Ayane (swimsuit),29,Attack,115,HP,512
-Ayane (swimsuit),30,Attack,117,HP,520
-Ayane (swimsuit),31,Attack,120,HP,533
-Ayane (swimsuit),32,Attack,123,HP,546
-Ayane (swimsuit),33,Attack,126,HP,559
-Ayane (swimsuit),34,Attack,129,HP,572
-Ayane (swimsuit),35,Attack,132,HP,585
-Ayane (swimsuit),36,Attack,135,HP,598
-Ayane (swimsuit),37,Attack,138,HP,611
-Ayane (swimsuit),38,Attack,141,HP,624
-Ayane (swimsuit),39,Attack,144,HP,637
-Ayane (swimsuit),40,Attack,147,HP,650
-Ayane (swimsuit),41,Attack,152,HP,671
-Ayane (swimsuit),42,Attack,157,HP,692
-Ayane (swimsuit),43,Attack,162,HP,713
-Ayane (swimsuit),44,Attack,167,HP,734
-Ayane (swimsuit),45,Attack,172,HP,755
-Ayane (swimsuit),46,Attack,177,HP,776
-Ayane (swimsuit),47,Attack,182,HP,797
-Ayane (swimsuit),48,Attack,187,HP,818
-Ayane (swimsuit),49,Attack,192,HP,839
-Ayane (swimsuit),50,Attack,197,HP,860
 Azusa,2,Attack,2,HP,0
 Azusa,3,Attack,4,HP,0
 Azusa,4,Attack,6,HP,0
@@ -979,55 +930,6 @@ Chise,47,Attack,124,HP,1135
 Chise,48,Attack,127,HP,1165
 Chise,49,Attack,130,HP,1195
 Chise,50,Attack,133,HP,1225
-Chise (swimsuit),2,Attack,2,HP,0
-Chise (swimsuit),3,Attack,4,HP,0
-Chise (swimsuit),4,Attack,6,HP,0
-Chise (swimsuit),5,Attack,8,HP,0
-Chise (swimsuit),6,Attack,11,HP,0
-Chise (swimsuit),7,Attack,14,HP,0
-Chise (swimsuit),8,Attack,17,HP,0
-Chise (swimsuit),9,Attack,20,HP,0
-Chise (swimsuit),10,Attack,23,HP,0
-Chise (swimsuit),11,Attack,28,HP,55
-Chise (swimsuit),12,Attack,33,HP,110
-Chise (swimsuit),13,Attack,38,HP,165
-Chise (swimsuit),14,Attack,43,HP,220
-Chise (swimsuit),15,Attack,48,HP,275
-Chise (swimsuit),16,Attack,54,HP,341
-Chise (swimsuit),17,Attack,60,HP,407
-Chise (swimsuit),18,Attack,66,HP,473
-Chise (swimsuit),19,Attack,72,HP,539
-Chise (swimsuit),20,Attack,78,HP,605
-Chise (swimsuit),21,Attack,79,HP,617
-Chise (swimsuit),22,Attack,80,HP,629
-Chise (swimsuit),23,Attack,81,HP,641
-Chise (swimsuit),24,Attack,82,HP,653
-Chise (swimsuit),25,Attack,83,HP,665
-Chise (swimsuit),26,Attack,84,HP,677
-Chise (swimsuit),27,Attack,85,HP,689
-Chise (swimsuit),28,Attack,86,HP,701
-Chise (swimsuit),29,Attack,87,HP,713
-Chise (swimsuit),30,Attack,88,HP,725
-Chise (swimsuit),31,Attack,90,HP,742
-Chise (swimsuit),32,Attack,92,HP,759
-Chise (swimsuit),33,Attack,94,HP,776
-Chise (swimsuit),34,Attack,96,HP,793
-Chise (swimsuit),35,Attack,98,HP,810
-Chise (swimsuit),36,Attack,100,HP,827
-Chise (swimsuit),37,Attack,102,HP,844
-Chise (swimsuit),38,Attack,104,HP,861
-Chise (swimsuit),39,Attack,106,HP,878
-Chise (swimsuit),40,Attack,108,HP,895
-Chise (swimsuit),41,Attack,112,HP,924
-Chise (swimsuit),42,Attack,116,HP,953
-Chise (swimsuit),43,Attack,120,HP,982
-Chise (swimsuit),44,Attack,124,HP,1011
-Chise (swimsuit),45,Attack,128,HP,1040
-Chise (swimsuit),46,Attack,132,HP,1069
-Chise (swimsuit),47,Attack,136,HP,1098
-Chise (swimsuit),48,Attack,140,HP,1127
-Chise (swimsuit),49,Attack,144,HP,1156
-Chise (swimsuit),50,Attack,148,HP,1185
 Eimi,2,Defence,1,HP,0
 Eimi,3,Defence,2,HP,0
 Eimi,4,Defence,3,HP,0
@@ -1861,55 +1763,6 @@ Hoshino,47,Defence,73,HP,2433
 Hoshino,48,Defence,75,HP,2497
 Hoshino,49,Defence,77,HP,2561
 Hoshino,50,Defence,79,HP,2625
-Hoshino (swimsuit),2,Attack,2,Defence,0
-Hoshino (swimsuit),3,Attack,4,Defence,0
-Hoshino (swimsuit),4,Attack,6,Defence,0
-Hoshino (swimsuit),5,Attack,8,Defence,0
-Hoshino (swimsuit),6,Attack,11,Defence,0
-Hoshino (swimsuit),7,Attack,14,Defence,0
-Hoshino (swimsuit),8,Attack,17,Defence,0
-Hoshino (swimsuit),9,Attack,20,Defence,0
-Hoshino (swimsuit),10,Attack,23,Defence,0
-Hoshino (swimsuit),11,Attack,27,Defence,2
-Hoshino (swimsuit),12,Attack,31,Defence,4
-Hoshino (swimsuit),13,Attack,35,Defence,6
-Hoshino (swimsuit),14,Attack,39,Defence,8
-Hoshino (swimsuit),15,Attack,43,Defence,10
-Hoshino (swimsuit),16,Attack,48,Defence,12
-Hoshino (swimsuit),17,Attack,53,Defence,14
-Hoshino (swimsuit),18,Attack,58,Defence,16
-Hoshino (swimsuit),19,Attack,63,Defence,18
-Hoshino (swimsuit),20,Attack,68,Defence,20
-Hoshino (swimsuit),21,Attack,69,Defence,21
-Hoshino (swimsuit),22,Attack,70,Defence,22
-Hoshino (swimsuit),23,Attack,71,Defence,23
-Hoshino (swimsuit),24,Attack,72,Defence,24
-Hoshino (swimsuit),25,Attack,73,Defence,25
-Hoshino (swimsuit),26,Attack,74,Defence,26
-Hoshino (swimsuit),27,Attack,75,Defence,27
-Hoshino (swimsuit),28,Attack,76,Defence,28
-Hoshino (swimsuit),29,Attack,77,Defence,29
-Hoshino (swimsuit),30,Attack,78,Defence,30
-Hoshino (swimsuit),31,Attack,80,Defence,31
-Hoshino (swimsuit),32,Attack,82,Defence,32
-Hoshino (swimsuit),33,Attack,84,Defence,33
-Hoshino (swimsuit),34,Attack,86,Defence,34
-Hoshino (swimsuit),35,Attack,88,Defence,35
-Hoshino (swimsuit),36,Attack,90,Defence,36
-Hoshino (swimsuit),37,Attack,92,Defence,37
-Hoshino (swimsuit),38,Attack,94,Defence,38
-Hoshino (swimsuit),39,Attack,96,Defence,39
-Hoshino (swimsuit),40,Attack,98,Defence,40
-Hoshino (swimsuit),41,Attack,101,Defence,41
-Hoshino (swimsuit),42,Attack,104,Defence,42
-Hoshino (swimsuit),43,Attack,107,Defence,43
-Hoshino (swimsuit),44,Attack,110,Defence,44
-Hoshino (swimsuit),45,Attack,113,Defence,45
-Hoshino (swimsuit),46,Attack,116,Defence,46
-Hoshino (swimsuit),47,Attack,119,Defence,47
-Hoshino (swimsuit),48,Attack,122,Defence,48
-Hoshino (swimsuit),49,Attack,125,Defence,49
-Hoshino (swimsuit),50,Attack,128,Defence,50
 Iori,2,Attack,3,HP,0
 Iori,3,Attack,6,HP,0
 Iori,4,Attack,9,HP,0
@@ -2204,55 +2057,6 @@ Izuna,47,Attack,119,HP,1747
 Izuna,48,Attack,122,HP,1793
 Izuna,49,Attack,125,HP,1839
 Izuna,50,Attack,128,HP,1885
-Izuna (swimsuit),2,Attack,2,HP,0
-Izuna (swimsuit),3,Attack,4,HP,0
-Izuna (swimsuit),4,Attack,6,HP,0
-Izuna (swimsuit),5,Attack,8,HP,0
-Izuna (swimsuit),6,Attack,11,HP,0
-Izuna (swimsuit),7,Attack,14,HP,0
-Izuna (swimsuit),8,Attack,17,HP,0
-Izuna (swimsuit),9,Attack,20,HP,0
-Izuna (swimsuit),10,Attack,23,HP,0
-Izuna (swimsuit),11,Attack,27,HP,82
-Izuna (swimsuit),12,Attack,31,HP,164
-Izuna (swimsuit),13,Attack,35,HP,246
-Izuna (swimsuit),14,Attack,39,HP,328
-Izuna (swimsuit),15,Attack,43,HP,410
-Izuna (swimsuit),16,Attack,48,HP,509
-Izuna (swimsuit),17,Attack,53,HP,608
-Izuna (swimsuit),18,Attack,58,HP,707
-Izuna (swimsuit),19,Attack,63,HP,806
-Izuna (swimsuit),20,Attack,68,HP,905
-Izuna (swimsuit),21,Attack,69,HP,922
-Izuna (swimsuit),22,Attack,70,HP,939
-Izuna (swimsuit),23,Attack,71,HP,956
-Izuna (swimsuit),24,Attack,72,HP,973
-Izuna (swimsuit),25,Attack,73,HP,990
-Izuna (swimsuit),26,Attack,74,HP,1007
-Izuna (swimsuit),27,Attack,75,HP,1024
-Izuna (swimsuit),28,Attack,76,HP,1041
-Izuna (swimsuit),29,Attack,77,HP,1058
-Izuna (swimsuit),30,Attack,78,HP,1075
-Izuna (swimsuit),31,Attack,80,HP,1101
-Izuna (swimsuit),32,Attack,82,HP,1127
-Izuna (swimsuit),33,Attack,84,HP,1153
-Izuna (swimsuit),34,Attack,86,HP,1179
-Izuna (swimsuit),35,Attack,88,HP,1205
-Izuna (swimsuit),36,Attack,90,HP,1231
-Izuna (swimsuit),37,Attack,92,HP,1257
-Izuna (swimsuit),38,Attack,94,HP,1283
-Izuna (swimsuit),39,Attack,96,HP,1309
-Izuna (swimsuit),40,Attack,98,HP,1335
-Izuna (swimsuit),41,Attack,101,HP,1378
-Izuna (swimsuit),42,Attack,104,HP,1421
-Izuna (swimsuit),43,Attack,107,HP,1464
-Izuna (swimsuit),44,Attack,110,HP,1507
-Izuna (swimsuit),45,Attack,113,HP,1550
-Izuna (swimsuit),46,Attack,116,HP,1593
-Izuna (swimsuit),47,Attack,119,HP,1636
-Izuna (swimsuit),48,Attack,122,HP,1679
-Izuna (swimsuit),49,Attack,125,HP,1722
-Izuna (swimsuit),50,Attack,128,HP,1765
 Junko,2,Attack,3,HP,0
 Junko,3,Attack,6,HP,0
 Junko,4,Attack,9,HP,0
@@ -3772,55 +3576,6 @@ Nonomi,47,Attack,170,HP,972
 Nonomi,48,Attack,174,HP,998
 Nonomi,49,Attack,178,HP,1024
 Nonomi,50,Attack,182,HP,1050
-Nonomi (swimsuit),2,Attack,3,HP,0
-Nonomi (swimsuit),3,Attack,6,HP,0
-Nonomi (swimsuit),4,Attack,9,HP,0
-Nonomi (swimsuit),5,Attack,12,HP,0
-Nonomi (swimsuit),6,Attack,16,HP,0
-Nonomi (swimsuit),7,Attack,20,HP,0
-Nonomi (swimsuit),8,Attack,24,HP,0
-Nonomi (swimsuit),9,Attack,28,HP,0
-Nonomi (swimsuit),10,Attack,32,HP,0
-Nonomi (swimsuit),11,Attack,37,HP,48
-Nonomi (swimsuit),12,Attack,42,HP,96
-Nonomi (swimsuit),13,Attack,47,HP,144
-Nonomi (swimsuit),14,Attack,52,HP,192
-Nonomi (swimsuit),15,Attack,57,HP,240
-Nonomi (swimsuit),16,Attack,64,HP,298
-Nonomi (swimsuit),17,Attack,71,HP,356
-Nonomi (swimsuit),18,Attack,78,HP,414
-Nonomi (swimsuit),19,Attack,85,HP,472
-Nonomi (swimsuit),20,Attack,92,HP,530
-Nonomi (swimsuit),21,Attack,94,HP,540
-Nonomi (swimsuit),22,Attack,96,HP,550
-Nonomi (swimsuit),23,Attack,98,HP,560
-Nonomi (swimsuit),24,Attack,100,HP,570
-Nonomi (swimsuit),25,Attack,102,HP,580
-Nonomi (swimsuit),26,Attack,104,HP,590
-Nonomi (swimsuit),27,Attack,106,HP,600
-Nonomi (swimsuit),28,Attack,108,HP,610
-Nonomi (swimsuit),29,Attack,110,HP,620
-Nonomi (swimsuit),30,Attack,112,HP,630
-Nonomi (swimsuit),31,Attack,115,HP,645
-Nonomi (swimsuit),32,Attack,118,HP,660
-Nonomi (swimsuit),33,Attack,121,HP,675
-Nonomi (swimsuit),34,Attack,124,HP,690
-Nonomi (swimsuit),35,Attack,127,HP,705
-Nonomi (swimsuit),36,Attack,130,HP,720
-Nonomi (swimsuit),37,Attack,133,HP,735
-Nonomi (swimsuit),38,Attack,136,HP,750
-Nonomi (swimsuit),39,Attack,139,HP,765
-Nonomi (swimsuit),40,Attack,142,HP,780
-Nonomi (swimsuit),41,Attack,146,HP,805
-Nonomi (swimsuit),42,Attack,150,HP,830
-Nonomi (swimsuit),43,Attack,154,HP,855
-Nonomi (swimsuit),44,Attack,158,HP,880
-Nonomi (swimsuit),45,Attack,162,HP,905
-Nonomi (swimsuit),46,Attack,166,HP,930
-Nonomi (swimsuit),47,Attack,170,HP,955
-Nonomi (swimsuit),48,Attack,174,HP,980
-Nonomi (swimsuit),49,Attack,178,HP,1005
-Nonomi (swimsuit),50,Attack,182,HP,1030
 Pina,2,Attack,3,HP,0
 Pina,3,Attack,6,HP,0
 Pina,4,Attack,9,HP,0
@@ -3919,55 +3674,6 @@ Saki,47,Attack,182,HP,834
 Saki,48,Attack,187,HP,856
 Saki,49,Attack,192,HP,878
 Saki,50,Attack,197,HP,900
-Saori,2,Attack,2,HP,0
-Saori,3,Attack,4,HP,0
-Saori,4,Attack,6,HP,0
-Saori,5,Attack,8,HP,0
-Saori,6,Attack,11,HP,0
-Saori,7,Attack,14,HP,0
-Saori,8,Attack,17,HP,0
-Saori,9,Attack,20,HP,0
-Saori,10,Attack,23,HP,0
-Saori,11,Attack,27,HP,55
-Saori,12,Attack,31,HP,110
-Saori,13,Attack,35,HP,165
-Saori,14,Attack,39,HP,220
-Saori,15,Attack,43,HP,275
-Saori,16,Attack,48,HP,341
-Saori,17,Attack,53,HP,407
-Saori,18,Attack,58,HP,473
-Saori,19,Attack,63,HP,539
-Saori,20,Attack,68,HP,605
-Saori,21,Attack,69,HP,617
-Saori,22,Attack,70,HP,629
-Saori,23,Attack,71,HP,641
-Saori,24,Attack,72,HP,653
-Saori,25,Attack,73,HP,665
-Saori,26,Attack,74,HP,677
-Saori,27,Attack,75,HP,689
-Saori,28,Attack,76,HP,701
-Saori,29,Attack,77,HP,713
-Saori,30,Attack,78,HP,725
-Saori,31,Attack,80,HP,742
-Saori,32,Attack,82,HP,759
-Saori,33,Attack,84,HP,776
-Saori,34,Attack,86,HP,793
-Saori,35,Attack,88,HP,810
-Saori,36,Attack,90,HP,827
-Saori,37,Attack,92,HP,844
-Saori,38,Attack,94,HP,861
-Saori,39,Attack,96,HP,878
-Saori,40,Attack,98,HP,895
-Saori,41,Attack,101,HP,924
-Saori,42,Attack,104,HP,953
-Saori,43,Attack,107,HP,982
-Saori,44,Attack,110,HP,1011
-Saori,45,Attack,113,HP,1040
-Saori,46,Attack,116,HP,1069
-Saori,47,Attack,119,HP,1098
-Saori,48,Attack,122,HP,1127
-Saori,49,Attack,125,HP,1156
-Saori,50,Attack,128,HP,1185
 Saya,2,Attack,2,HP,0
 Saya,3,Attack,4,HP,0
 Saya,4,Attack,6,HP,0
@@ -4458,55 +4164,6 @@ Shizuko,47,Attack,109,HP,1604
 Shizuko,48,Attack,112,HP,1646
 Shizuko,49,Attack,115,HP,1688
 Shizuko,50,Attack,118,HP,1730
-Shizuko (swimsuit),2,Healing,5,HP,0
-Shizuko (swimsuit),3,Healing,10,HP,0
-Shizuko (swimsuit),4,Healing,15,HP,0
-Shizuko (swimsuit),5,Healing,20,HP,0
-Shizuko (swimsuit),6,Healing,28,HP,0
-Shizuko (swimsuit),7,Healing,36,HP,0
-Shizuko (swimsuit),8,Healing,44,HP,0
-Shizuko (swimsuit),9,Healing,52,HP,0
-Shizuko (swimsuit),10,Healing,60,HP,0
-Shizuko (swimsuit),11,Healing,71,HP,38
-Shizuko (swimsuit),12,Healing,82,HP,76
-Shizuko (swimsuit),13,Healing,93,HP,114
-Shizuko (swimsuit),14,Healing,104,HP,152
-Shizuko (swimsuit),15,Healing,115,HP,190
-Shizuko (swimsuit),16,Healing,128,HP,236
-Shizuko (swimsuit),17,Healing,141,HP,282
-Shizuko (swimsuit),18,Healing,154,HP,328
-Shizuko (swimsuit),19,Healing,167,HP,374
-Shizuko (swimsuit),20,Healing,180,HP,420
-Shizuko (swimsuit),21,Healing,183,HP,428
-Shizuko (swimsuit),22,Healing,186,HP,436
-Shizuko (swimsuit),23,Healing,189,HP,444
-Shizuko (swimsuit),24,Healing,192,HP,452
-Shizuko (swimsuit),25,Healing,195,HP,460
-Shizuko (swimsuit),26,Healing,198,HP,468
-Shizuko (swimsuit),27,Healing,201,HP,476
-Shizuko (swimsuit),28,Healing,204,HP,484
-Shizuko (swimsuit),29,Healing,207,HP,492
-Shizuko (swimsuit),30,Healing,210,HP,500
-Shizuko (swimsuit),31,Healing,215,HP,512
-Shizuko (swimsuit),32,Healing,220,HP,524
-Shizuko (swimsuit),33,Healing,225,HP,536
-Shizuko (swimsuit),34,Healing,230,HP,548
-Shizuko (swimsuit),35,Healing,235,HP,560
-Shizuko (swimsuit),36,Healing,240,HP,572
-Shizuko (swimsuit),37,Healing,245,HP,584
-Shizuko (swimsuit),38,Healing,250,HP,596
-Shizuko (swimsuit),39,Healing,255,HP,608
-Shizuko (swimsuit),40,Healing,260,HP,620
-Shizuko (swimsuit),41,Healing,269,HP,640
-Shizuko (swimsuit),42,Healing,278,HP,660
-Shizuko (swimsuit),43,Healing,287,HP,680
-Shizuko (swimsuit),44,Healing,296,HP,700
-Shizuko (swimsuit),45,Healing,305,HP,720
-Shizuko (swimsuit),46,Healing,314,HP,740
-Shizuko (swimsuit),47,Healing,323,HP,760
-Shizuko (swimsuit),48,Healing,332,HP,780
-Shizuko (swimsuit),49,Healing,341,HP,800
-Shizuko (swimsuit),50,Healing,350,HP,820
 Shun,2,Attack,3,HP,0
 Shun,3,Attack,6,HP,0
 Shun,4,Attack,9,HP,0
@@ -5095,55 +4752,6 @@ Wakamo,47,Attack,209,HP,955
 Wakamo,48,Attack,215,HP,980
 Wakamo,49,Attack,221,HP,1005
 Wakamo,50,Attack,227,HP,1030
-Wakamo (swimsuit),2,Attack,4,HP,0
-Wakamo (swimsuit),3,Attack,8,HP,0
-Wakamo (swimsuit),4,Attack,12,HP,0
-Wakamo (swimsuit),5,Attack,16,HP,0
-Wakamo (swimsuit),6,Attack,22,HP,0
-Wakamo (swimsuit),7,Attack,28,HP,0
-Wakamo (swimsuit),8,Attack,34,HP,0
-Wakamo (swimsuit),9,Attack,40,HP,0
-Wakamo (swimsuit),10,Attack,46,HP,0
-Wakamo (swimsuit),11,Attack,53,HP,48
-Wakamo (swimsuit),12,Attack,60,HP,96
-Wakamo (swimsuit),13,Attack,67,HP,144
-Wakamo (swimsuit),14,Attack,74,HP,192
-Wakamo (swimsuit),15,Attack,81,HP,240
-Wakamo (swimsuit),16,Attack,90,HP,297
-Wakamo (swimsuit),17,Attack,99,HP,354
-Wakamo (swimsuit),18,Attack,108,HP,411
-Wakamo (swimsuit),19,Attack,117,HP,468
-Wakamo (swimsuit),20,Attack,126,HP,525
-Wakamo (swimsuit),21,Attack,128,HP,535
-Wakamo (swimsuit),22,Attack,130,HP,545
-Wakamo (swimsuit),23,Attack,132,HP,555
-Wakamo (swimsuit),24,Attack,134,HP,565
-Wakamo (swimsuit),25,Attack,136,HP,575
-Wakamo (swimsuit),26,Attack,138,HP,585
-Wakamo (swimsuit),27,Attack,140,HP,595
-Wakamo (swimsuit),28,Attack,142,HP,605
-Wakamo (swimsuit),29,Attack,144,HP,615
-Wakamo (swimsuit),30,Attack,146,HP,625
-Wakamo (swimsuit),31,Attack,150,HP,640
-Wakamo (swimsuit),32,Attack,154,HP,655
-Wakamo (swimsuit),33,Attack,158,HP,670
-Wakamo (swimsuit),34,Attack,162,HP,685
-Wakamo (swimsuit),35,Attack,166,HP,700
-Wakamo (swimsuit),36,Attack,170,HP,715
-Wakamo (swimsuit),37,Attack,174,HP,730
-Wakamo (swimsuit),38,Attack,178,HP,745
-Wakamo (swimsuit),39,Attack,182,HP,760
-Wakamo (swimsuit),40,Attack,186,HP,775
-Wakamo (swimsuit),41,Attack,192,HP,800
-Wakamo (swimsuit),42,Attack,198,HP,825
-Wakamo (swimsuit),43,Attack,204,HP,850
-Wakamo (swimsuit),44,Attack,210,HP,875
-Wakamo (swimsuit),45,Attack,216,HP,900
-Wakamo (swimsuit),46,Attack,222,HP,925
-Wakamo (swimsuit),47,Attack,228,HP,950
-Wakamo (swimsuit),48,Attack,234,HP,975
-Wakamo (swimsuit),49,Attack,240,HP,1000
-Wakamo (swimsuit),50,Attack,246,HP,1025
 Yoshimi,2,Attack,3,HP,0
 Yoshimi,3,Attack,6,HP,0
 Yoshimi,4,Attack,9,HP,0
