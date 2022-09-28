@@ -1518,55 +1518,6 @@ Hibiki,47,Attack,151,HP,834
 Hibiki,48,Attack,155,HP,856
 Hibiki,49,Attack,159,HP,878
 Hibiki,50,Attack,163,HP,900
-Hibiki (cheerleader),2,Attack,7,HP,0
-Hibiki (cheerleader),3,Attack,14,HP,0
-Hibiki (cheerleader),4,Attack,21,HP,0
-Hibiki (cheerleader),5,Attack,28,HP,0
-Hibiki (cheerleader),6,Attack,38,HP,0
-Hibiki (cheerleader),7,Attack,48,HP,0
-Hibiki (cheerleader),8,Attack,58,HP,0
-Hibiki (cheerleader),9,Attack,68,HP,0
-Hibiki (cheerleader),10,Attack,78,HP,0
-Hibiki (cheerleader),11,Attack,91,HP,40
-Hibiki (cheerleader),12,Attack,104,HP,80
-Hibiki (cheerleader),13,Attack,117,HP,120
-Hibiki (cheerleader),14,Attack,130,HP,160
-Hibiki (cheerleader),15,Attack,143,HP,200
-Hibiki (cheerleader),16,Attack,159,HP,249
-Hibiki (cheerleader),17,Attack,175,HP,298
-Hibiki (cheerleader),18,Attack,191,HP,347
-Hibiki (cheerleader),19,Attack,207,HP,396
-Hibiki (cheerleader),20,Attack,223,HP,445
-Hibiki (cheerleader),21,Attack,227,HP,453
-Hibiki (cheerleader),22,Attack,231,HP,461
-Hibiki (cheerleader),23,Attack,235,HP,469
-Hibiki (cheerleader),24,Attack,239,HP,477
-Hibiki (cheerleader),25,Attack,243,HP,485
-Hibiki (cheerleader),26,Attack,247,HP,493
-Hibiki (cheerleader),27,Attack,251,HP,501
-Hibiki (cheerleader),28,Attack,255,HP,509
-Hibiki (cheerleader),29,Attack,259,HP,517
-Hibiki (cheerleader),30,Attack,263,HP,525
-Hibiki (cheerleader),31,Attack,269,HP,538
-Hibiki (cheerleader),32,Attack,275,HP,551
-Hibiki (cheerleader),33,Attack,281,HP,564
-Hibiki (cheerleader),34,Attack,287,HP,577
-Hibiki (cheerleader),35,Attack,293,HP,590
-Hibiki (cheerleader),36,Attack,299,HP,603
-Hibiki (cheerleader),37,Attack,305,HP,616
-Hibiki (cheerleader),38,Attack,311,HP,629
-Hibiki (cheerleader),39,Attack,317,HP,642
-Hibiki (cheerleader),40,Attack,323,HP,655
-Hibiki (cheerleader),41,Attack,334,HP,676
-Hibiki (cheerleader),42,Attack,345,HP,697
-Hibiki (cheerleader),43,Attack,356,HP,718
-Hibiki (cheerleader),44,Attack,367,HP,739
-Hibiki (cheerleader),45,Attack,378,HP,760
-Hibiki (cheerleader),46,Attack,389,HP,781
-Hibiki (cheerleader),47,Attack,400,HP,802
-Hibiki (cheerleader),48,Attack,411,HP,823
-Hibiki (cheerleader),49,Attack,422,HP,844
-Hibiki (cheerleader),50,Attack,433,HP,865
 Hifumi,2,Attack,2,HP,0
 Hifumi,3,Attack,4,HP,0
 Hifumi,4,Attack,6,HP,0
@@ -2743,55 +2694,6 @@ Koharu,47,Healing,389,HP,1056
 Koharu,48,Healing,399,HP,1084
 Koharu,49,Healing,409,HP,1112
 Koharu,50,Healing,419,HP,1140
-Kokona,2,Healing,7,HP,0
-Kokona,3,Healing,14,HP,0
-Kokona,4,Healing,21,HP,0
-Kokona,5,Healing,28,HP,0
-Kokona,6,Healing,38,HP,0
-Kokona,7,Healing,48,HP,0
-Kokona,8,Healing,58,HP,0
-Kokona,9,Healing,68,HP,0
-Kokona,10,Healing,78,HP,0
-Kokona,11,Healing,92,HP,57
-Kokona,12,Healing,106,HP,114
-Kokona,13,Healing,120,HP,171
-Kokona,14,Healing,134,HP,228
-Kokona,15,Healing,148,HP,285
-Kokona,16,Healing,165,HP,353
-Kokona,17,Healing,182,HP,421
-Kokona,18,Healing,199,HP,489
-Kokona,19,Healing,216,HP,557
-Kokona,20,Healing,233,HP,625
-Kokona,21,Healing,237,HP,637
-Kokona,22,Healing,241,HP,649
-Kokona,23,Healing,245,HP,661
-Kokona,24,Healing,249,HP,673
-Kokona,25,Healing,253,HP,685
-Kokona,26,Healing,257,HP,697
-Kokona,27,Healing,261,HP,709
-Kokona,28,Healing,265,HP,721
-Kokona,29,Healing,269,HP,733
-Kokona,30,Healing,273,HP,745
-Kokona,31,Healing,280,HP,763
-Kokona,32,Healing,287,HP,781
-Kokona,33,Healing,294,HP,799
-Kokona,34,Healing,301,HP,817
-Kokona,35,Healing,308,HP,835
-Kokona,36,Healing,315,HP,853
-Kokona,37,Healing,322,HP,871
-Kokona,38,Healing,329,HP,889
-Kokona,39,Healing,336,HP,907
-Kokona,40,Healing,343,HP,925
-Kokona,41,Healing,354,HP,955
-Kokona,42,Healing,365,HP,985
-Kokona,43,Healing,376,HP,1015
-Kokona,44,Healing,387,HP,1045
-Kokona,45,Healing,398,HP,1075
-Kokona,46,Healing,409,HP,1105
-Kokona,47,Healing,420,HP,1135
-Kokona,48,Healing,431,HP,1165
-Kokona,49,Healing,442,HP,1195
-Kokona,50,Healing,453,HP,1225
 Kotama,2,Attack,1,HP,0
 Kotama,3,Attack,2,HP,0
 Kotama,4,Attack,3,HP,0
@@ -3821,55 +3723,6 @@ Neru (bunnygirl),47,Attack,134,HP,1688
 Neru (bunnygirl),48,Attack,137,HP,1737
 Neru (bunnygirl),49,Attack,140,HP,1786
 Neru (bunnygirl),50,Attack,143,HP,1835
-Noa,2,Attack,1,HP,0
-Noa,3,Attack,2,HP,0
-Noa,4,Attack,3,HP,0
-Noa,5,Attack,4,HP,0
-Noa,6,Attack,6,HP,0
-Noa,7,Attack,8,HP,0
-Noa,8,Attack,10,HP,0
-Noa,9,Attack,12,HP,0
-Noa,10,Attack,14,HP,0
-Noa,11,Attack,16,HP,65
-Noa,12,Attack,18,HP,130
-Noa,13,Attack,20,HP,195
-Noa,14,Attack,22,HP,260
-Noa,15,Attack,24,HP,325
-Noa,16,Attack,27,HP,403
-Noa,17,Attack,30,HP,481
-Noa,18,Attack,33,HP,559
-Noa,19,Attack,36,HP,637
-Noa,20,Attack,39,HP,715
-Noa,21,Attack,40,HP,729
-Noa,22,Attack,41,HP,743
-Noa,23,Attack,42,HP,757
-Noa,24,Attack,43,HP,771
-Noa,25,Attack,44,HP,785
-Noa,26,Attack,45,HP,799
-Noa,27,Attack,46,HP,813
-Noa,28,Attack,47,HP,827
-Noa,29,Attack,48,HP,841
-Noa,30,Attack,49,HP,855
-Noa,31,Attack,50,HP,875
-Noa,32,Attack,51,HP,895
-Noa,33,Attack,52,HP,915
-Noa,34,Attack,53,HP,935
-Noa,35,Attack,54,HP,955
-Noa,36,Attack,55,HP,975
-Noa,37,Attack,56,HP,995
-Noa,38,Attack,57,HP,1015
-Noa,39,Attack,58,HP,1035
-Noa,40,Attack,59,HP,1055
-Noa,41,Attack,61,HP,1089
-Noa,42,Attack,63,HP,1123
-Noa,43,Attack,65,HP,1157
-Noa,44,Attack,67,HP,1191
-Noa,45,Attack,69,HP,1225
-Noa,46,Attack,71,HP,1259
-Noa,47,Attack,73,HP,1293
-Noa,48,Attack,75,HP,1327
-Noa,49,Attack,77,HP,1361
-Noa,50,Attack,79,HP,1395
 Nodoka,2,Attack,2,HP,0
 Nodoka,3,Attack,4,HP,0
 Nodoka,4,Attack,6,HP,0
@@ -5291,55 +5144,6 @@ Utaha,47,Attack,136,HP,844
 Utaha,48,Attack,140,HP,866
 Utaha,49,Attack,144,HP,888
 Utaha,50,Attack,148,HP,910
-Utaha (cheerleader),2,Attack,3,HP,0
-Utaha (cheerleader),3,Attack,6,HP,0
-Utaha (cheerleader),4,Attack,9,HP,0
-Utaha (cheerleader),5,Attack,12,HP,0
-Utaha (cheerleader),6,Attack,17,HP,0
-Utaha (cheerleader),7,Attack,22,HP,0
-Utaha (cheerleader),8,Attack,27,HP,0
-Utaha (cheerleader),9,Attack,32,HP,0
-Utaha (cheerleader),10,Attack,37,HP,0
-Utaha (cheerleader),11,Attack,44,HP,85
-Utaha (cheerleader),12,Attack,51,HP,170
-Utaha (cheerleader),13,Attack,58,HP,255
-Utaha (cheerleader),14,Attack,65,HP,340
-Utaha (cheerleader),15,Attack,72,HP,425
-Utaha (cheerleader),16,Attack,81,HP,528
-Utaha (cheerleader),17,Attack,90,HP,631
-Utaha (cheerleader),18,Attack,99,HP,734
-Utaha (cheerleader),19,Attack,108,HP,837
-Utaha (cheerleader),20,Attack,117,HP,940
-Utaha (cheerleader),21,Attack,119,HP,958
-Utaha (cheerleader),22,Attack,121,HP,976
-Utaha (cheerleader),23,Attack,123,HP,994
-Utaha (cheerleader),24,Attack,125,HP,1012
-Utaha (cheerleader),25,Attack,127,HP,1030
-Utaha (cheerleader),26,Attack,129,HP,1048
-Utaha (cheerleader),27,Attack,131,HP,1066
-Utaha (cheerleader),28,Attack,133,HP,1084
-Utaha (cheerleader),29,Attack,135,HP,1102
-Utaha (cheerleader),30,Attack,137,HP,1120
-Utaha (cheerleader),31,Attack,140,HP,1147
-Utaha (cheerleader),32,Attack,143,HP,1174
-Utaha (cheerleader),33,Attack,146,HP,1201
-Utaha (cheerleader),34,Attack,149,HP,1228
-Utaha (cheerleader),35,Attack,152,HP,1255
-Utaha (cheerleader),36,Attack,155,HP,1282
-Utaha (cheerleader),37,Attack,158,HP,1309
-Utaha (cheerleader),38,Attack,161,HP,1336
-Utaha (cheerleader),39,Attack,164,HP,1363
-Utaha (cheerleader),40,Attack,167,HP,1390
-Utaha (cheerleader),41,Attack,173,HP,1435
-Utaha (cheerleader),42,Attack,179,HP,1480
-Utaha (cheerleader),43,Attack,185,HP,1525
-Utaha (cheerleader),44,Attack,191,HP,1570
-Utaha (cheerleader),45,Attack,197,HP,1615
-Utaha (cheerleader),46,Attack,203,HP,1660
-Utaha (cheerleader),47,Attack,209,HP,1705
-Utaha (cheerleader),48,Attack,215,HP,1750
-Utaha (cheerleader),49,Attack,221,HP,1795
-Utaha (cheerleader),50,Attack,227,HP,1840
 Wakamo,2,Attack,3,HP,0
 Wakamo,3,Attack,6,HP,0
 Wakamo,4,Attack,9,HP,0
