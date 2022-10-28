@@ -1518,55 +1518,6 @@ Hasumi,47,Attack,209,HP,972
 Hasumi,48,Attack,215,HP,998
 Hasumi,49,Attack,221,HP,1024
 Hasumi,50,Attack,227,HP,1050
-Hasumi (track),2,Attack,3,HP,0
-Hasumi (track),3,Attack,6,HP,0
-Hasumi (track),4,Attack,9,HP,0
-Hasumi (track),5,Attack,12,HP,0
-Hasumi (track),6,Attack,17,HP,0
-Hasumi (track),7,Attack,22,HP,0
-Hasumi (track),8,Attack,27,HP,0
-Hasumi (track),9,Attack,32,HP,0
-Hasumi (track),10,Attack,37,HP,0
-Hasumi (track),11,Attack,43,HP,42
-Hasumi (track),12,Attack,49,HP,84
-Hasumi (track),13,Attack,55,HP,126
-Hasumi (track),14,Attack,61,HP,168
-Hasumi (track),15,Attack,67,HP,210
-Hasumi (track),16,Attack,75,HP,261
-Hasumi (track),17,Attack,83,HP,312
-Hasumi (track),18,Attack,91,HP,363
-Hasumi (track),19,Attack,99,HP,414
-Hasumi (track),20,Attack,107,HP,465
-Hasumi (track),21,Attack,109,HP,474
-Hasumi (track),22,Attack,111,HP,483
-Hasumi (track),23,Attack,113,HP,492
-Hasumi (track),24,Attack,115,HP,501
-Hasumi (track),25,Attack,117,HP,510
-Hasumi (track),26,Attack,119,HP,519
-Hasumi (track),27,Attack,121,HP,528
-Hasumi (track),28,Attack,123,HP,537
-Hasumi (track),29,Attack,125,HP,546
-Hasumi (track),30,Attack,127,HP,555
-Hasumi (track),31,Attack,130,HP,568
-Hasumi (track),32,Attack,133,HP,581
-Hasumi (track),33,Attack,136,HP,594
-Hasumi (track),34,Attack,139,HP,607
-Hasumi (track),35,Attack,142,HP,620
-Hasumi (track),36,Attack,145,HP,633
-Hasumi (track),37,Attack,148,HP,646
-Hasumi (track),38,Attack,151,HP,659
-Hasumi (track),39,Attack,154,HP,672
-Hasumi (track),40,Attack,157,HP,685
-Hasumi (track),41,Attack,162,HP,707
-Hasumi (track),42,Attack,167,HP,729
-Hasumi (track),43,Attack,172,HP,751
-Hasumi (track),44,Attack,177,HP,773
-Hasumi (track),45,Attack,182,HP,795
-Hasumi (track),46,Attack,187,HP,817
-Hasumi (track),47,Attack,192,HP,839
-Hasumi (track),48,Attack,197,HP,861
-Hasumi (track),49,Attack,202,HP,883
-Hasumi (track),50,Attack,207,HP,905
 Hibiki,2,Attack,2,HP,0
 Hibiki,3,Attack,4,HP,0
 Hibiki,4,Attack,6,HP,0
@@ -3086,55 +3037,6 @@ Mari,47,Healing,311,HP,797
 Mari,48,Healing,319,HP,818
 Mari,49,Healing,327,HP,839
 Mari,50,Healing,335,HP,860
-Mari (track),2,Healing,7,HP,0
-Mari (track),3,Healing,14,HP,0
-Mari (track),4,Healing,21,HP,0
-Mari (track),5,Healing,28,HP,0
-Mari (track),6,Healing,38,HP,0
-Mari (track),7,Healing,48,HP,0
-Mari (track),8,Healing,58,HP,0
-Mari (track),9,Healing,68,HP,0
-Mari (track),10,Healing,78,HP,0
-Mari (track),11,Healing,92,HP,65
-Mari (track),12,Healing,106,HP,130
-Mari (track),13,Healing,120,HP,195
-Mari (track),14,Healing,134,HP,260
-Mari (track),15,Healing,148,HP,325
-Mari (track),16,Healing,165,HP,403
-Mari (track),17,Healing,182,HP,481
-Mari (track),18,Healing,199,HP,559
-Mari (track),19,Healing,216,HP,637
-Mari (track),20,Healing,233,HP,715
-Mari (track),21,Healing,237,HP,729
-Mari (track),22,Healing,241,HP,743
-Mari (track),23,Healing,245,HP,757
-Mari (track),24,Healing,249,HP,771
-Mari (track),25,Healing,253,HP,785
-Mari (track),26,Healing,257,HP,799
-Mari (track),27,Healing,261,HP,813
-Mari (track),28,Healing,265,HP,827
-Mari (track),29,Healing,269,HP,841
-Mari (track),30,Healing,273,HP,855
-Mari (track),31,Healing,280,HP,875
-Mari (track),32,Healing,287,HP,895
-Mari (track),33,Healing,294,HP,915
-Mari (track),34,Healing,301,HP,935
-Mari (track),35,Healing,308,HP,955
-Mari (track),36,Healing,315,HP,975
-Mari (track),37,Healing,322,HP,995
-Mari (track),38,Healing,329,HP,1015
-Mari (track),39,Healing,336,HP,1035
-Mari (track),40,Healing,343,HP,1055
-Mari (track),41,Healing,354,HP,1089
-Mari (track),42,Healing,365,HP,1123
-Mari (track),43,Healing,376,HP,1157
-Mari (track),44,Healing,387,HP,1191
-Mari (track),45,Healing,398,HP,1225
-Mari (track),46,Healing,409,HP,1259
-Mari (track),47,Healing,420,HP,1293
-Mari (track),48,Healing,431,HP,1327
-Mari (track),49,Healing,442,HP,1361
-Mari (track),50,Healing,453,HP,1395
 Marina,2,HP,45,Attack,0
 Marina,3,HP,90,Attack,0
 Marina,4,HP,135,Attack,0
@@ -5683,55 +5585,6 @@ Yuuka,47,HP,3067,Attack,57
 Yuuka,48,HP,3148,Attack,58
 Yuuka,49,HP,3229,Attack,59
 Yuuka,50,HP,3310,Attack,60
-Yuuka (track),2,Healing,5,HP,0
-Yuuka (track),3,Healing,10,HP,0
-Yuuka (track),4,Healing,15,HP,0
-Yuuka (track),5,Healing,20,HP,0
-Yuuka (track),6,Healing,27,HP,0
-Yuuka (track),7,Healing,34,HP,0
-Yuuka (track),8,Healing,41,HP,0
-Yuuka (track),9,Healing,48,HP,0
-Yuuka (track),10,Healing,55,HP,0
-Yuuka (track),11,Healing,64,HP,95
-Yuuka (track),12,Healing,73,HP,190
-Yuuka (track),13,Healing,82,HP,285
-Yuuka (track),14,Healing,91,HP,380
-Yuuka (track),15,Healing,100,HP,475
-Yuuka (track),16,Healing,111,HP,589
-Yuuka (track),17,Healing,122,HP,703
-Yuuka (track),18,Healing,133,HP,817
-Yuuka (track),19,Healing,144,HP,931
-Yuuka (track),20,Healing,155,HP,1045
-Yuuka (track),21,Healing,158,HP,1065
-Yuuka (track),22,Healing,161,HP,1085
-Yuuka (track),23,Healing,164,HP,1105
-Yuuka (track),24,Healing,167,HP,1125
-Yuuka (track),25,Healing,170,HP,1145
-Yuuka (track),26,Healing,173,HP,1165
-Yuuka (track),27,Healing,176,HP,1185
-Yuuka (track),28,Healing,179,HP,1205
-Yuuka (track),29,Healing,182,HP,1225
-Yuuka (track),30,Healing,185,HP,1245
-Yuuka (track),31,Healing,189,HP,1275
-Yuuka (track),32,Healing,193,HP,1305
-Yuuka (track),33,Healing,197,HP,1335
-Yuuka (track),34,Healing,201,HP,1365
-Yuuka (track),35,Healing,205,HP,1395
-Yuuka (track),36,Healing,209,HP,1425
-Yuuka (track),37,Healing,213,HP,1455
-Yuuka (track),38,Healing,217,HP,1485
-Yuuka (track),39,Healing,221,HP,1515
-Yuuka (track),40,Healing,225,HP,1545
-Yuuka (track),41,Healing,232,HP,1595
-Yuuka (track),42,Healing,239,HP,1645
-Yuuka (track),43,Healing,246,HP,1695
-Yuuka (track),44,Healing,253,HP,1745
-Yuuka (track),45,Healing,260,HP,1795
-Yuuka (track),46,Healing,267,HP,1845
-Yuuka (track),47,Healing,274,HP,1895
-Yuuka (track),48,Healing,281,HP,1945
-Yuuka (track),49,Healing,288,HP,1995
-Yuuka (track),50,Healing,295,HP,2045
 Yuzu,2,Attack,4,HP,0
 Yuzu,3,Attack,8,HP,0
 Yuzu,4,Attack,12,HP,0
